@@ -1,0 +1,96 @@
+USE COMPLETED cache-0
+USE COMPLETED cache-1
+USE COMPLETED cache-2
+USE COMPLETED dev-f0-s4217-baseline84
+USE COMPLETED dev-f0-s4217-longer108
+USE COMPLETED dev-f0-s4217-small108
+USE COMPLETED dev-f0-s4217-tiles108
+USE COMPLETED dev-f0-s4217-tiles_small108
+USE COMPLETED dev-f1-s4217-baseline84
+USE COMPLETED dev-f1-s4217-longer108
+USE COMPLETED dev-f1-s4217-small108
+USE COMPLETED dev-f1-s4217-tiles108
+USE COMPLETED dev-f1-s4217-tiles_small108
+USE COMPLETED dev-f2-s4217-baseline84
+START dev-f2-s4217-longer108 RSS cap 583414579
+END dev-f2-s4217-longer108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 521228288, 'elapsed_seconds': 176.68800000002375, 'rss_cap_bytes': 583414579, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 3}
+START dev-f2-s4217-small108 RSS cap 3402289152
+END dev-f2-s4217-small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 521285632, 'elapsed_seconds': 102.25, 'rss_cap_bytes': 3402289152, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4217-tiles108 RSS cap 3337533849
+END dev-f2-s4217-tiles108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 525377536, 'elapsed_seconds': 149.96899999998277, 'rss_cap_bytes': 3337533849, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4217-tiles_small108 RSS cap 3053174784
+END dev-f2-s4217-tiles_small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 525471744, 'elapsed_seconds': 131.7970000000205, 'rss_cap_bytes': 3053174784, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f0-s4218-baseline84 RSS cap 3106652160
+END dev-f0-s4218-baseline84 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 529272832, 'elapsed_seconds': 257.170999999973, 'rss_cap_bytes': 3106652160, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f0-s4218-longer108 RSS cap 3224481792
+END dev-f0-s4218-longer108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 521826304, 'elapsed_seconds': 94.15700000000652, 'rss_cap_bytes': 3224481792, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f0-s4218-small108 RSS cap 3205993267
+END dev-f0-s4218-small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 522452992, 'elapsed_seconds': 96.92200000002049, 'rss_cap_bytes': 3205993267, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f0-s4218-tiles108 RSS cap 3284090880
+END dev-f0-s4218-tiles108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 524201984, 'elapsed_seconds': 124.15599999995902, 'rss_cap_bytes': 3284090880, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f0-s4218-tiles_small108 RSS cap 3339730944
+END dev-f0-s4218-tiles_small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 523644928, 'elapsed_seconds': 127.89100000000326, 'rss_cap_bytes': 3339730944, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f1-s4218-baseline84 RSS cap 3310613299
+END dev-f1-s4218-baseline84 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 532602880, 'elapsed_seconds': 250.71900000004098, 'rss_cap_bytes': 3310613299, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f1-s4218-longer108 RSS cap 3327000576
+END dev-f1-s4218-longer108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 522772480, 'elapsed_seconds': 95.73399999999674, 'rss_cap_bytes': 3327000576, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f1-s4218-small108 RSS cap 3326649139
+END dev-f1-s4218-small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 522100736, 'elapsed_seconds': 95.20299999997951, 'rss_cap_bytes': 3326649139, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f1-s4218-tiles108 RSS cap 3227561164
+END dev-f1-s4218-tiles108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 524951552, 'elapsed_seconds': 123.28200000000652, 'rss_cap_bytes': 3227561164, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f1-s4218-tiles_small108 RSS cap 3306563174
+END dev-f1-s4218-tiles_small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 523800576, 'elapsed_seconds': 125.53100000001723, 'rss_cap_bytes': 3306563174, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4218-baseline84 RSS cap 3332775936
+END dev-f2-s4218-baseline84 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 533610496, 'elapsed_seconds': 246.96899999998277, 'rss_cap_bytes': 3332775936, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4218-longer108 RSS cap 3329957068
+END dev-f2-s4218-longer108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 521547776, 'elapsed_seconds': 91.78100000001723, 'rss_cap_bytes': 3329957068, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4218-small108 RSS cap 3289359974
+END dev-f2-s4218-small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 521633792, 'elapsed_seconds': 91.85899999999674, 'rss_cap_bytes': 3289359974, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4218-tiles108 RSS cap 3295241011
+END dev-f2-s4218-tiles108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 525524992, 'elapsed_seconds': 125.09399999998277, 'rss_cap_bytes': 3295241011, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4218-tiles_small108 RSS cap 3279114240
+END dev-f2-s4218-tiles_small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 524701696, 'elapsed_seconds': 122.84399999998277, 'rss_cap_bytes': 3279114240, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f0-s4219-baseline84 RSS cap 3206280806
+END dev-f0-s4219-baseline84 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 533667840, 'elapsed_seconds': 241.89000000001397, 'rss_cap_bytes': 3206280806, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f0-s4219-longer108 RSS cap 3226150502
+END dev-f0-s4219-longer108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 521822208, 'elapsed_seconds': 93.67200000002049, 'rss_cap_bytes': 3226150502, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f0-s4219-small108 RSS cap 3186231705
+END dev-f0-s4219-small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 522448896, 'elapsed_seconds': 99.0, 'rss_cap_bytes': 3186231705, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f0-s4219-tiles108 RSS cap 3102901862
+END dev-f0-s4219-tiles108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 526123008, 'elapsed_seconds': 125.0, 'rss_cap_bytes': 3102901862, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f0-s4219-tiles_small108 RSS cap 3219804979
+END dev-f0-s4219-tiles_small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 525922304, 'elapsed_seconds': 123.98499999998603, 'rss_cap_bytes': 3219804979, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f1-s4219-baseline84 RSS cap 3215693414
+END dev-f1-s4219-baseline84 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 530419712, 'elapsed_seconds': 244.59299999999348, 'rss_cap_bytes': 3215693414, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f1-s4219-longer108 RSS cap 3213852672
+END dev-f1-s4219-longer108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 523550720, 'elapsed_seconds': 95.46899999998277, 'rss_cap_bytes': 3213852672, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f1-s4219-small108 RSS cap 3210702028
+END dev-f1-s4219-small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 522309632, 'elapsed_seconds': 133.28100000001723, 'rss_cap_bytes': 3210702028, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f1-s4219-tiles108 RSS cap 2418339840
+END dev-f1-s4219-tiles108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 522260480, 'elapsed_seconds': 153.125, 'rss_cap_bytes': 2418339840, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f1-s4219-tiles_small108 RSS cap 3138436300
+END dev-f1-s4219-tiles_small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 522620928, 'elapsed_seconds': 124.25, 'rss_cap_bytes': 3138436300, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4219-baseline84 RSS cap 3173353881
+END dev-f2-s4219-baseline84 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 532279296, 'elapsed_seconds': 244.75, 'rss_cap_bytes': 3173353881, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4219-longer108 RSS cap 3346916966
+END dev-f2-s4219-longer108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 522268672, 'elapsed_seconds': 90.39100000000326, 'rss_cap_bytes': 3346916966, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4219-small108 RSS cap 3292613836
+END dev-f2-s4219-small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 522321920, 'elapsed_seconds': 89.42199999996228, 'rss_cap_bytes': 3292613836, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4219-tiles108 RSS cap 3338042572
+END dev-f2-s4219-tiles108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 524898304, 'elapsed_seconds': 122.39100000000326, 'rss_cap_bytes': 3338042572, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START dev-f2-s4219-tiles_small108 RSS cap 3326332108
+END dev-f2-s4219-tiles_small108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 525864960, 'elapsed_seconds': 118.82799999997951, 'rss_cap_bytes': 3326332108, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START selection RSS cap 3359868518
+END selection {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 438362112, 'elapsed_seconds': 5.297000000020489, 'rss_cap_bytes': 3359868518, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START confirm-f0-baseline84 RSS cap 3314294784
+END confirm-f0-baseline84 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 531955712, 'elapsed_seconds': 292.9070000000065, 'rss_cap_bytes': 3314294784, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START confirm-f0-longer108 RSS cap 3102115430
+END confirm-f0-longer108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 521609216, 'elapsed_seconds': 243.375, 'rss_cap_bytes': 3102115430, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START confirm-f1-baseline84 RSS cap 2454604185
+END confirm-f1-baseline84 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 533008384, 'elapsed_seconds': 643.5629999999655, 'rss_cap_bytes': 2454604185, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START confirm-f1-longer108 RSS cap 2301210624
+END confirm-f1-longer108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 521814016, 'elapsed_seconds': 104.54700000002049, 'rss_cap_bytes': 2301210624, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START confirm-f2-baseline84 RSS cap 2516948582
+END confirm-f2-baseline84 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 532062208, 'elapsed_seconds': 577.5929999999935, 'rss_cap_bytes': 2516948582, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}
+START confirm-f2-longer108 RSS cap 2440541798
+END confirm-f2-longer108 {'status': 'completed', 'returncode': 0, 'peak_sampled_rss_bytes': 522022912, 'elapsed_seconds': 247.76600000000326, 'rss_cap_bytes': 2440541798, 'time_cap_seconds': 1800, 'sample_interval_seconds': 0.05, 'measurement_scope': 'owned process tree RSS sum', 'max_observed_processes': 2}

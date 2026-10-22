@@ -1,0 +1,29 @@
+{
+  "all_scores_exact": true,
+  "all_scores_within_1e_5": true,
+  "cache_arrays_read": false,
+  "decision_mismatches": 0,
+  "head_evaluations": 2552,
+  "masks_read": false,
+  "max_absolute_score_difference": 0.0,
+  "model_hashes_unchanged": {
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4221\\confirm-f0-s4221-baseline84\\model.pt": "4429897254f5b7297eb0700f353ef6be3c62e585e84bb2ae5357e9c1f2464b6f",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4221\\confirm-f0-s4221-longer108\\model.pt": "365c62cb81b713b38c0d699f845b19babb8ca370b27109b9ec782c5de3f35b77",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4221\\confirm-f1-s4221-baseline84\\model.pt": "fa2446e7fa1cfbc7d16862c532f4fc45ad6948f678e8b59fb1f7f2a89585c0b9",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4221\\confirm-f1-s4221-longer108\\model.pt": "659dc048bd747ae28e5db5911388550ac380e20c29f71db317f4b2a9c596fe07",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4221\\confirm-f2-s4221-baseline84\\model.pt": "d87cba9c557c999a204e47619266f0d3fe3854228d2e4608b19996ae186287d5",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4221\\confirm-f2-s4221-longer108\\model.pt": "adb579856a2a923f421d11570c2375bfc752c86b3904713bd408cc69ef6057b9",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4222\\confirm-f0-s4222-baseline84\\model.pt": "af2c60200973aa91dc8de1cf87dd61dfc919a3f9fe73ab6155eecb44752a8f3b",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4222\\confirm-f0-s4222-longer108\\model.pt": "56c693fcae67774887a76dfd2aa497d1507ccd8598af8b30cf8a2aa13151aa5c",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4222\\confirm-f1-s4222-baseline84\\model.pt": "6c74d85fab1c5ca9836bec0dab52c3caaf3d647a7d51f8be84144297210b0257",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4222\\confirm-f1-s4222-longer108\\model.pt": "7def2fb0e6376305468512243e1e893005ed94921232b1c04fec6c01142c5e43",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4222\\confirm-f2-s4222-baseline84\\model.pt": "e4f95ac45cea1055eb46e885f8e2808e0594789f341a77b70f110fdd35512722",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4222\\confirm-f2-s4222-longer108\\model.pt": "b6703ffab92c2cd52018128a4376e3b6757af2fa061d9239160b0c8623c2bb93"
+  },
+  "official_test_accessed": false,
+  "originals": 638,
+  "protocol_identity": "1b85991799852e768a2010d1910e9f00a663da7916be8b423a8642527ba8712d",
+  "scope": "Repeated implementation check on observed training originals; not additional independent images",
+  "source_sha256": "0dca789165d45e2127b89d94c77ae08af7276ef87ba78e8d8bbc5892fac412c8",
+  "threshold_evaluations": 5104
+}

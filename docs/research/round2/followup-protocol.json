@@ -1,0 +1,19 @@
+{
+  "commit": "66d88802602af0b756931b81e14562381e9b25fe",
+  "compound_limit": 1,
+  "fixed_map_rule": "top_0.1_percent",
+  "fusion_rules": [
+    "maximum_normal_cdf",
+    "head_0.75_patchcore_0.25_robust_z"
+  ],
+  "hard_negative_refinement_limit": 1,
+  "official_test_access": false,
+  "repeat_training_seeds": [
+    4218,
+    4219
+  ],
+  "seed_policy": "repeat seeds do not enter canonical candidate selection",
+  "selection": "observed development recall subject to FPR strictly below 10%, then fewer false alarms",
+  "source_sha256": "d0db0322aa73738dc3a346e67fc72f3da19facd13792699f553c6f9da022fc6d",
+  "training_dependency_sha256": "4802c1934f7137a851e8440f3985581adbeb30ce26c4f76f07f39e95306438df"
+}

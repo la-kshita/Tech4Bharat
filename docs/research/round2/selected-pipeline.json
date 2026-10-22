@@ -1,0 +1,153 @@
+{
+  "code_commit": "66d88802602af0b756931b81e14562381e9b25fe",
+  "development_metrics": {
+    "accepted_normal_fpr": {
+      "denominator": 417,
+      "numerator": 22,
+      "rate": 0.05275779376498801,
+      "wilson_95": [
+        0.03509547241722879,
+        0.07858500705539298
+      ]
+    },
+    "anomaly_coverage": {
+      "denominator": 82,
+      "numerator": 82,
+      "rate": 1.0,
+      "wilson_95": [
+        0.9552493763098998,
+        1
+      ]
+    },
+    "counts": {
+      "FN": 2,
+      "FP": 22,
+      "TN": 395,
+      "TP": 80,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coverage": {
+      "denominator": 499,
+      "numerator": 499,
+      "rate": 1.0,
+      "wilson_95": [
+        0.9923604970248409,
+        1
+      ]
+    },
+    "false_flags_all_normals": {
+      "denominator": 417,
+      "numerator": 22,
+      "rate": 0.05275779376498801,
+      "wilson_95": [
+        0.03509547241722879,
+        0.07858500705539298
+      ]
+    },
+    "normal_coverage": {
+      "denominator": 417,
+      "numerator": 417,
+      "rate": 1.0,
+      "wilson_95": [
+        0.9908719572651922,
+        0.9999999999999999
+      ]
+    },
+    "observed_prevalence": {
+      "denominator": 499,
+      "numerator": 82,
+      "rate": 0.16432865731462926,
+      "wilson_95": [
+        0.1344019624969932,
+        0.19938407657450652
+      ]
+    },
+    "precision": {
+      "denominator": 102,
+      "numerator": 80,
+      "rate": 0.7843137254901961,
+      "wilson_95": [
+        0.6949614254678732,
+        0.8530279980174712
+      ]
+    },
+    "ranking_scored_only": {
+      "auroc": 0.9951161022401591,
+      "average_precision": 0.9782858441779752,
+      "n": 499,
+      "population": "scored subset only"
+    },
+    "recall": {
+      "denominator": 82,
+      "numerator": 80,
+      "rate": 0.975609756097561,
+      "wilson_95": [
+        0.9153662160893606,
+        0.9932856296688367
+      ]
+    }
+  },
+  "features": {
+    "backbone_weights_sha256": "80c49dee3da4822c009c5a7fe591e9223c5a2cfcf95a4067ca4dfb5a7b89c612",
+    "channels": 384,
+    "grid": [
+      32,
+      80
+    ],
+    "layers": [
+      "layer2",
+      "layer3"
+    ],
+    "precision": "float16 roundtrip then float32",
+    "spatial_pool": "3x3 average, stride 1, padding 1"
+  },
+  "frozen_at_utc": "2026-10-20T06:47:58.537519+00:00",
+  "input_configuration": {
+    "height": 256,
+    "rotation_clockwise_degrees": 90,
+    "width": 640
+  },
+  "manifest_identity": "39fabf3c59c6b579bbefa7aba642d2a59f67003a336b1460eb75a2c230c5fd7e",
+  "model": {
+    "metadata": {
+      "cache": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-round1\\features",
+      "channels": 384,
+      "fine": false,
+      "focal": true,
+      "hard_negative_refinement": true,
+      "hidden": 32,
+      "lighting": false,
+      "parent_recipe": {
+        "fusion": null,
+        "model": "focal",
+        "rule": "top_0.1_percent"
+      },
+      "seed": 4217
+    },
+    "path": "components\\outputs\\recall-round2\\hard_refined\\head.pt",
+    "sha256": "180084ca4586143aa707d83a11232f130f917a612e7acd94a07776ba16c9c3fe"
+  },
+  "patchcore_bank": null,
+  "recipe": {
+    "fusion": null,
+    "model": "hard_refined",
+    "rule": "top_0.1_percent"
+  },
+  "repeat_training_seeds_not_used_for_selection": [
+    4218,
+    4219
+  ],
+  "result_sha256": "cbb59e42f4a6214ee27dcd515b826dcadaf1745b5b086d34a9b0949c2f100caa",
+  "scope": "observed development candidate frozen before either repeat seed was evaluated; no independent validation or factory acceptance",
+  "selected_result": "hard_refined",
+  "threshold_record": {
+    "alpha": 0.1,
+    "comparison": "strict_greater",
+    "empirical_fpr": 0.09592326139088729,
+    "k": 377,
+    "n": 417,
+    "threshold": 0.4049701690673828,
+    "ties_at_threshold": 1
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "all_three_point_goals_met": false,
+  "no_seed_replaces_primary_or_final_model": true,
+  "primary_counts": {
+    "FN": 15,
+    "FP": 144,
+    "TN": 1524,
+    "TP": 231,
+    "rejected_anomalies": 0,
+    "rejected_normals": 0
+  },
+  "repeat_plan_identity": "6c65c0447ba35f2299c5da970f13bfaa8906189e5daeb4a639385367a8ec94aa",
+  "repeats": {
+    "1000": {
+      "counts": {
+        "FN": 15,
+        "FP": 129,
+        "TN": 1539,
+        "TP": 231,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "folds": {
+        "0": {
+          "counts": {
+            "FN": 8,
+            "FP": 33,
+            "TN": 523,
+            "TP": 74,
+            "rejected_anomalies": 0,
+            "rejected_normals": 0
+          },
+          "small_defects": {
+            "detected": 8,
+            "total": 15
+          }
+        },
+        "1": {
+          "counts": {
+            "FN": 2,
+            "FP": 57,
+            "TN": 499,
+            "TP": 80,
+            "rejected_anomalies": 0,
+            "rejected_normals": 0
+          },
+          "small_defects": {
+            "detected": 14,
+            "total": 15
+          }
+        },
+        "2": {
+          "counts": {
+            "FN": 5,
+            "FP": 39,
+            "TN": 517,
+            "TP": 77,
+            "rejected_anomalies": 0,
+            "rejected_normals": 0
+          },
+          "small_defects": {
+            "detected": 14,
+            "total": 15
+          }
+        }
+      },
+      "normal_fpr": 0.07733812949640288,
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 36,
+        "total": 45
+      }
+    },
+    "2000": {
+      "counts": {
+        "FN": 15,
+        "FP": 158,
+        "TN": 1510,
+        "TP": 231,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "folds": {
+        "0": {
+          "counts": {
+            "FN": 7,
+            "FP": 52,
+            "TN": 504,
+            "TP": 75,
+            "rejected_anomalies": 0,
+            "rejected_normals": 0
+          },
+          "small_defects": {
+            "detected": 9,
+            "total": 15
+          }
+        },
+        "1": {
+          "counts": {
+            "FN": 2,
+            "FP": 68,
+            "TN": 488,
+            "TP": 80,
+            "rejected_anomalies": 0,
+            "rejected_normals": 0
+          },
+          "small_defects": {
+            "detected": 14,
+            "total": 15
+          }
+        },
+        "2": {
+          "counts": {
+            "FN": 6,
+            "FP": 38,
+            "TN": 518,
+            "TP": 76,
+            "rejected_anomalies": 0,
+            "rejected_normals": 0
+          },
+          "small_defects": {
+            "detected": 13,
+            "total": 15
+          }
+        }
+      },
+      "normal_fpr": 0.09472422062350119,
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 36,
+        "total": 45
+      }
+    }
+  },
+  "same_246_defects_and_1668_normals_are_not_tripled": true,
+  "scope": "outer-refit initialization/order stability; inner model-selection fits are not repeated"
+}

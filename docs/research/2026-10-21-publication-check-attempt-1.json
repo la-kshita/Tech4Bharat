@@ -1,0 +1,53 @@
+{
+  "action": "Add supervisor to canonical-LF comparison and explicit CRLF checkout attributes; do not rewrite frozen source bytes, checkpoints, predictions or thresholds.",
+  "cause": "Checker inherited the six older CRLF-source exceptions; this protocol also freezes the CRLF supervisor. The numerical source itself still matches its registered working-byte hash.",
+  "checker_sha256": "f5b4d62d362fbb8a85cac070308475b99d0f5b53f90f95271e696d919ce34c1a",
+  "error": "AssertionError: Staged bytes differ: components/src/component_inspector/vision/resources.py",
+  "models_changed": false,
+  "numeric_code_changed": false,
+  "source_differences": [
+    {
+      "actual_frozen_sha256": "dc188b79cf2f08f3aeda0df4b2acd914407f47e9fbe416af6e3ff47176f9e841",
+      "matches_after_crlf_to_lf": true,
+      "path": "components/src/component_inspector/data/acquire.py",
+      "staged_blob_sha256": "004746ecc83c0085fa37121ff19e5a19ad138df9c70912ddddf52e63692a9bb3"
+    },
+    {
+      "actual_frozen_sha256": "1cc29e498b340da165915cc2bb15e1cf02d6f60194e043df832193737e89def3",
+      "matches_after_crlf_to_lf": true,
+      "path": "components/src/component_inspector/evaluation/calibration.py",
+      "staged_blob_sha256": "791db95c06a3c472ceedeb4ca005ed8affcd06592666038e2ed9a628f1dd9eed"
+    },
+    {
+      "actual_frozen_sha256": "00ad22c9f3623d9579ce5fcf8fe5b22063752966cb2e22992fc321cfc43b17b5",
+      "matches_after_crlf_to_lf": true,
+      "path": "components/src/component_inspector/evaluation/metrics.py",
+      "staged_blob_sha256": "e04f149529cff755dc99adb19060aed5be3d3bb00752f34a86e5115d383d3544"
+    },
+    {
+      "actual_frozen_sha256": "b16e5c69eac5d8ce9a8393f92b8a169fb376d5fad0b678e2c01c6191099737cb",
+      "matches_after_crlf_to_lf": true,
+      "path": "components/src/component_inspector/vision/geometry.py",
+      "staged_blob_sha256": "dce8e09a3d9fe343c02ab412fb53c13d1fb1c91129b7821d1672b008272d31d8"
+    },
+    {
+      "actual_frozen_sha256": "4ad63d1efac585b0e62ed8a1a3829fb2ec9e19897a00080c7a8f4505323f281e",
+      "matches_after_crlf_to_lf": true,
+      "path": "components/src/component_inspector/vision/padim_adapter.py",
+      "staged_blob_sha256": "ae017b2ac293168f1eba339763c0222afaaff56d3168dc577335c609fcc8f7fd"
+    },
+    {
+      "actual_frozen_sha256": "aeea16fbff6382c7775783a519e5de9f48a1e74d4e40df26836df3d621be0b7e",
+      "matches_after_crlf_to_lf": true,
+      "path": "components/src/component_inspector/vision/resources.py",
+      "staged_blob_sha256": "0c205a89f2e53aced612e99c8ead9986a3871550fbae7119e048a0b8a896ea5b"
+    },
+    {
+      "actual_frozen_sha256": "47798f6019227fa4e212496dcee116678473a1b89998cfd973dc945d6e77fbe7",
+      "matches_after_crlf_to_lf": true,
+      "path": "components/src/component_inspector/vision/spike_worker.py",
+      "staged_blob_sha256": "6fefda06df3d88157358df5467475dd784b73219604e1422116df1940696781d"
+    }
+  ],
+  "stage": "publication byte check, before real-data publication"
+}

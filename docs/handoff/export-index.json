@@ -1,0 +1,37 @@
+{
+  "files": {
+    "isolated-source-smoke.json": {
+      "bytes": 747,
+      "sha256": "57a3d33bbc65356aecfff44978334a9a924aca5334daee4267a6f52b6768a847"
+    },
+    "portable-model-parity.json": {
+      "bytes": 162706,
+      "sha256": "17c70d1c2e424e4d66921d4ec95b38171d434bbbe3d84d5afa3c3c42c613a6f4"
+    },
+    "portable-model-resources.json": {
+      "bytes": 304,
+      "sha256": "3e540ff0b860b2e82aa11af0d2b5022de1621c127be7520245b7e17dc99f665b"
+    },
+    "portable-model-worker.log": {
+      "bytes": 273,
+      "sha256": "bf1fefd83b2159081d41ebe2499f33a0f440c075889db68bcf2b6ba9bc5e7e01"
+    },
+    "software-checks.json": {
+      "bytes": 575,
+      "sha256": "19e73b70a0de43015b628591a00ff5d52d052f3cb8cf09685f7951a34f14d94a"
+    },
+    "software-junit.xml": {
+      "bytes": 20607,
+      "sha256": "c1a5856ccbacf93fea6c2fc7fef6ed40922d8c38842e5625db15c793aa1b5412"
+    },
+    "software-resources.json": {
+      "bytes": 304,
+      "sha256": "932e366508e3cb972e19c8b20e639a6a79afc13613e20311a3a722007d2af673"
+    },
+    "software-worker.log": {
+      "bytes": 1662,
+      "sha256": "8173c99f8f5253effe6b3548ded3aaa44ce30650f8d60ea3e5a95312831afc72"
+    }
+  },
+  "scope": "Handoff implementation proof; no new model selection, training, calibration or official-test evaluation."
+}

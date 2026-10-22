@@ -1,0 +1,8 @@
+TRAIN control-outer-0 1 0.6153853206407456
+TRAIN control-outer-0 6 0.1312905403120177
+TRAIN control-outer-0 11 0.08609068175511701
+TRAIN control-outer-0 16 0.06792282238602639
+TRAIN control-outer-0 21 0.05489361873340039
+TRAIN control-outer-0 26 0.04508624255125012
+TRAIN control-outer-0 30 0.03700002835442622
+RESULT eval-0.json {'TP': 77, 'FN': 5, 'FP': 41, 'TN': 515, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 10, 'total': 15}

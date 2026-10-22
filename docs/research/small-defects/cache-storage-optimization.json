@@ -1,0 +1,15 @@
+{
+  "after_allocated_bytes": 6394060800,
+  "before_allocated_bytes": 17535355648,
+  "elapsed_seconds": 313.84987989999354,
+  "file_count": 4320,
+  "full_feature_hash_validation": "deferred to the mandatory independent final verifier",
+  "logical_bytes": 17593774080,
+  "pilot_all_hashes_unchanged": true,
+  "returncode": 0,
+  "scope": "lossless NTFS compression of generated cache arrays only; logical bytes, tensor values, source, models, thresholds and experiment rules unchanged",
+  "started_utc": "2026-10-20T09:27:30.941344+00:00",
+  "stderr": "",
+  "stdout_summary": "\n Compressing files in C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\features\\\n\n\n4310 files within 1 directories were compressed.\n17,502,022,400 total bytes of data are stored in 6,360,727,552 bytes.\nThe compression ratio is 2.8 to 1.\n",
+  "timing_caveat": "I/O intervention overlaps one fitting phase; phase timing is not a clean hardware speed comparison"
+}

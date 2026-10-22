@@ -1,6 +1,23 @@
 # Tech4Bharat component inspector
 
-Local anomaly-detection research implementation for the [Codex execution plan](../Tech4Bharat_Codex_Execution_Plan.md).
+**Current deliverable: frozen ML model and teammate handoff.** Application work
+is intentionally left for the teammate. No API, frontend or database is implemented.
+
+- [Start here: setup, inference and continuation](../docs/handoff/START_HERE.md)
+- [Model card and exact threshold](../docs/handoff/MODEL_CARD.md)
+- [Next application tasks](../docs/handoff/NEXT_STEPS.md)
+- [Research reports and proof](../docs/research/README.md)
+- [Tool groups](tools/README.md) and [selected model registry](model_registry/README.md)
+
+The active candidate is `ksdd2-ensemble-mvp-v1`: three existing `longer108`
+supervised ResNet18-feature heads with the saved alpha-.08 calibration cutoff.
+The model card distinguishes this exact frozen instance from procedure-level
+cross-validation results. The setting is promising for an assisted prototype;
+small-defect recall, a generalization gap and fresh factory validation remain open.
+
+The standalone `vision/ksdd2_ensemble.py` interface is ready for teammate
+integration. Historical stage records below describe earlier experiments, not
+newly completed application work. Root handoff documentation gives current status.
 
 ## Current scope
 

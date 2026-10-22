@@ -1,0 +1,9 @@
+{
+  "recipe": {
+    "fusion": null,
+    "model": "hard_refined",
+    "rule": "top_0.1_percent"
+  },
+  "selected_result": "hard_refined",
+  "selection_exposure": "observed development; new seeds are repeat-training checks on the same membership"
+}

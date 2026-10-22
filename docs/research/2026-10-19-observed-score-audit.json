@@ -1,0 +1,241 @@
+{
+  "algorithm": "Join saved rows to exact manifest test IDs; verify original flags/counts; enumerate every distinct score plus a threshold just below the minimum; preserve score ties; use strict >; maximize TP under each FPR budget and minimize FP at each recall target. These test-label-informed cuts are diagnostic only and must not be used as operational thresholds.",
+  "analysis_status": "retrospective_saved_output_analysis_not_independent_validation",
+  "comparison": "strict_score_greater_than_threshold",
+  "date": "2026-10-19",
+  "historical_thresholds_changed": false,
+  "manifest": {
+    "canonical_json_sha256": "b769d8598112008728d354145526815eceeaaf32e477861af22c25a541a1ecc9",
+    "checkout_sha256": "82b0416823871196898c3c656553522187d5243bcfeda9853d313429744a0d78",
+    "lf_normalized_sha256": "f1fdd9113745565f00827529f475989192465562e881478a3f6d3d31f59b4863",
+    "path": "components/data/manifests/stage2/b769d8598112008728d354145526815eceeaaf32e477861af22c25a541a1ecc9/manifest.json"
+  },
+  "methods": [
+    {
+      "best_observed_at_fpr_budgets": {
+        "0.05": {
+          "fp": 43,
+          "fpr": 0.04809843400447427,
+          "recall": 0.6454545454545455,
+          "threshold": 0.01838628388941288,
+          "tp": 71
+        },
+        "0.1": {
+          "fp": 82,
+          "fpr": 0.09172259507829977,
+          "recall": 0.7,
+          "threshold": 0.016932101920247078,
+          "tp": 77
+        },
+        "0.2": {
+          "fp": 160,
+          "fpr": 0.1789709172259508,
+          "recall": 0.8181818181818182,
+          "threshold": 0.015786314383149147,
+          "tp": 90
+        }
+      },
+      "checkout_sha256": "2ecf1696f6301e62d6986a60819a7cc48fe21aa5c4d1f8238226eb2dd8a66cfc",
+      "lf_normalized_sha256": "a25d3fca155291271490b0db930c0d978a6a4b5093fa400a8c05516804beaf96",
+      "lowest_observed_fpr_at_recall_targets": {
+        "0.9": {
+          "fp": 328,
+          "fpr": 0.3668903803131991,
+          "recall": 0.9,
+          "threshold": 0.01450382824987173,
+          "tp": 99
+        },
+        "0.95": {
+          "fp": 495,
+          "fpr": 0.5536912751677853,
+          "recall": 0.9545454545454546,
+          "threshold": 0.013696221634745598,
+          "tp": 105
+        }
+      },
+      "method": "reference",
+      "normal_count": 894,
+      "original_counts": {
+        "FN": 36,
+        "FP": 75,
+        "TN": 819,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "path": "components/historical_benchmark/frozen-20261019T041652Z-9c825801/evaluation/ksdd2_surface_reference/ksdd2_surface_reference.json",
+      "positive_count": 110,
+      "recipe": "ksdd2_surface"
+    },
+    {
+      "best_observed_at_fpr_budgets": {
+        "0.05": {
+          "fp": 44,
+          "fpr": 0.049217002237136466,
+          "recall": 0.6818181818181818,
+          "threshold": 53.85935592651367,
+          "tp": 75
+        },
+        "0.1": {
+          "fp": 88,
+          "fpr": 0.09843400447427293,
+          "recall": 0.8,
+          "threshold": 45.38508987426758,
+          "tp": 88
+        },
+        "0.2": {
+          "fp": 178,
+          "fpr": 0.19910514541387025,
+          "recall": 0.8909090909090909,
+          "threshold": 38.2891731262207,
+          "tp": 98
+        }
+      },
+      "checkout_sha256": "bdb19259a8107d0eea1eae06e680810443547a25b3e4bc23b68cd9460aa40d72",
+      "lf_normalized_sha256": "0d1ac9f848cdfd34face109579ea443868bb8363cd1b9993856e4dc3c7e56e42",
+      "lowest_observed_fpr_at_recall_targets": {
+        "0.9": {
+          "fp": 196,
+          "fpr": 0.21923937360178972,
+          "recall": 0.9,
+          "threshold": 37.62907791137695,
+          "tp": 99
+        },
+        "0.95": {
+          "fp": 285,
+          "fpr": 0.3187919463087248,
+          "recall": 0.9545454545454546,
+          "threshold": 34.259376525878906,
+          "tp": 105
+        }
+      },
+      "method": "padim",
+      "normal_count": 894,
+      "original_counts": {
+        "FN": 26,
+        "FP": 77,
+        "TN": 817,
+        "TP": 84,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "path": "components/historical_benchmark/frozen-20261019T041652Z-9c825801/evaluation/ksdd2_surface_padim/ksdd2_surface_padim.json",
+      "positive_count": 110,
+      "recipe": "ksdd2_surface"
+    },
+    {
+      "best_observed_at_fpr_budgets": {
+        "0.05": {
+          "fp": 1,
+          "fpr": 0.047619047619047616,
+          "recall": 0.09195402298850575,
+          "threshold": 0.2835386395454407,
+          "tp": 8
+        },
+        "0.1": {
+          "fp": 2,
+          "fpr": 0.09523809523809523,
+          "recall": 0.10344827586206896,
+          "threshold": 0.27796661853790283,
+          "tp": 9
+        },
+        "0.2": {
+          "fp": 4,
+          "fpr": 0.19047619047619047,
+          "recall": 0.28735632183908044,
+          "threshold": 0.24772541224956512,
+          "tp": 25
+        }
+      },
+      "checkout_sha256": "cf96965882d481ebe89dfa3781df4d1e0444008efef0eeece3be7145431ee649",
+      "lf_normalized_sha256": "2816a7b1a301cab8b608e3b773a724dcca470c84460e35f8bb8414e181a90939",
+      "lowest_observed_fpr_at_recall_targets": {
+        "0.9": {
+          "fp": 20,
+          "fpr": 0.9523809523809523,
+          "recall": 0.9080459770114943,
+          "threshold": 0.13209782540798187,
+          "tp": 79
+        },
+        "0.95": {
+          "fp": 20,
+          "fpr": 0.9523809523809523,
+          "recall": 0.9540229885057471,
+          "threshold": 0.12674735486507416,
+          "tp": 83
+        }
+      },
+      "method": "reference",
+      "normal_count": 21,
+      "original_counts": {
+        "FN": 84,
+        "FP": 1,
+        "TN": 20,
+        "TP": 3,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "path": "components/historical_benchmark/frozen-20261019T041652Z-9c825801/evaluation/mvtec_3d_cable_gland_rgb_reference/mvtec_3d_cable_gland_rgb_reference.json",
+      "positive_count": 87,
+      "recipe": "mvtec_3d_cable_gland_rgb"
+    },
+    {
+      "best_observed_at_fpr_budgets": {
+        "0.05": {
+          "fp": 1,
+          "fpr": 0.047619047619047616,
+          "recall": 0.4367816091954023,
+          "threshold": 32.45866012573242,
+          "tp": 38
+        },
+        "0.1": {
+          "fp": 2,
+          "fpr": 0.09523809523809523,
+          "recall": 0.4827586206896552,
+          "threshold": 30.676742553710938,
+          "tp": 42
+        },
+        "0.2": {
+          "fp": 3,
+          "fpr": 0.14285714285714285,
+          "recall": 0.5632183908045977,
+          "threshold": 29.3858585357666,
+          "tp": 49
+        }
+      },
+      "checkout_sha256": "f5f487b7eafb7b2e680250b4f61bb07646abb31951e562d935d9f6d4c4a6a665",
+      "lf_normalized_sha256": "af6240d407dbf6875149fc74bf873c8f8bed67408d059a28cc001d6ba212efe4",
+      "lowest_observed_fpr_at_recall_targets": {
+        "0.9": {
+          "fp": 15,
+          "fpr": 0.7142857142857143,
+          "recall": 0.9080459770114943,
+          "threshold": 23.200042724609375,
+          "tp": 79
+        },
+        "0.95": {
+          "fp": 18,
+          "fpr": 0.8571428571428571,
+          "recall": 0.9540229885057471,
+          "threshold": 20.735105514526367,
+          "tp": 83
+        }
+      },
+      "method": "padim",
+      "normal_count": 21,
+      "original_counts": {
+        "FN": 76,
+        "FP": 1,
+        "TN": 20,
+        "TP": 11,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "path": "components/historical_benchmark/frozen-20261019T041652Z-9c825801/evaluation/mvtec_3d_cable_gland_rgb_padim/mvtec_3d_cable_gland_rgb_padim.json",
+      "positive_count": 87,
+      "recipe": "mvtec_3d_cable_gland_rgb"
+    }
+  ],
+  "model_inference_performed": false,
+  "repository_commit": "fb4a370ff5c77901e27c4024734527d99cca8824"
+}

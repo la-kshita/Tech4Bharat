@@ -1,3 +1,18 @@
+# Current handoff â€” 22 October 2026
+
+ML finalization and teammate handoff are complete. The active experimental
+candidate is `ksdd2-ensemble-mvp-v1`; exact heads/calibration and a standalone
+prediction adapter are supplied. Application implementation is intentionally
+left to the teammate. See [start here](../../docs/handoff/START_HERE.md),
+[model card](../../docs/handoff/MODEL_CARD.md) and
+[next steps](../../docs/handoff/NEXT_STEPS.md).
+
+The dated stage entries below are preserved history. Their original no-go,
+setup-only and no-Git statements do not describe the current repository;
+none of those earlier benchmark decisions has been rewritten as a success.
+
+---
+
 # Current checkpoint - stage 5 run finished, NO GO (19 October 2026)
 
 Calibration, original evaluation, paired stress and reports are complete. Both methods failed the 90% recall screen on both datasets. Application stages 6-10 are stopped by the plan gate. Software suite: 99 passed. Reporting limitations remain explicit. See STAGE5_REPORT.md and STAGE5_VERIFICATION.json. Earlier checkpoints below are history.
@@ -31,7 +46,7 @@ this edit updates supporting files, not a claim that the stages have executed.
 
 ---
 
-# Setup progress — 18 October 2026
+# Setup progress â€” 18 October 2026
 
 Plan: [Tech4Bharat_Codex_Execution_Plan.md](../../Tech4Bharat_Codex_Execution_Plan.md).
 
@@ -81,7 +96,7 @@ Official archive access/licence/source ledger, safe acquisition and extraction t
 and actual dataset acquisition remain unimplemented. Follow with T02 split auditing
 before any model fitting. No performance or readiness result is implied by setup.
 
-## Stage 0 verification — 18 October 2026
+## Stage 0 verification â€” 18 October 2026
 
 - Gate passed for the existing scaffold only. Stage 1 was not executed.
 - Branch `main` tracks `origin/main`; HEAD before this verification was `d30447b`.
@@ -115,7 +130,7 @@ before any model fitting. No performance or readiness result is implied by setup
   source/terms inspection, safe acquisition and tests remain future work.
 
 
-## Stage 1 / remaining T01 — 18 October 2026
+## Stage 1 / remaining T01 â€” 18 October 2026
 
 Current authorisation is safe acquisition only. Software is verified; the complete
 stage/data gate is **blocked**, because MVTec requires the user's personal form
@@ -136,7 +151,7 @@ step. Stage 2 and all model/application stages were not started.
   terms are acceptable, then provide its local path. No terms were accepted.
 - KSDD2: 853,126,555 downloaded bytes; 852,612,567 extracted bytes in 6,677 files;
   archive + raw logical total 1,705,739,122 bytes (~1.589 GiB). One training image
-  decoded at 229×645. Source/inventory/byte hashes and notices are in DATA_SOURCES.md
+  decoded at 229Ã—645. Source/inventory/byte hashes and notices are in DATA_SOURCES.md
   and STAGE1_SOURCES.json. Reuse verified all saved hashes and file membership.
 - Release layout includes train/test PNGs and five inert .pyb files. Training-file
   count needs reconciliation against provider image counts in stage 2; no label,

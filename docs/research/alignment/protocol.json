@@ -1,0 +1,89 @@
+{
+  "commit": "d72f6c920685c2d210a2e2bca8bf2a0ba8ba1bbc",
+  "config": {
+    "adaptive_limit": {
+      "combined_training_variants": 1,
+      "hard_negative_add_count": 128,
+      "hard_negative_variants": 1,
+      "refinement_epochs": 12
+    },
+    "aggregation": [
+      "maximum",
+      "top_0.1_percent",
+      "maximum_local_3x3_average"
+    ],
+    "aligned_training": {
+      "base_epochs": 60,
+      "fixed_seeds": [
+        4217,
+        4218,
+        4219
+      ],
+      "hard_normal_count": 128,
+      "image_pool": "top_0.1_percent",
+      "refinement_epochs": 12,
+      "seed_policy": "4217 canonical; both repeats always reported; no best-seed selection"
+    },
+    "claim": "continued selection on observed development data; not independent validation",
+    "ensemble": {
+      "normalization_fraction": 0.5,
+      "rules": [
+        "maximum_normal_cdf",
+        "head_0.75_patchcore_0.25_robust_z"
+      ]
+    },
+    "fine_features": {
+      "grid": [
+        64,
+        160
+      ],
+      "layers": [
+        "layer1",
+        "layer2",
+        "layer3"
+      ],
+      "projection_channels": 96,
+      "projection_seed": 7319
+    },
+    "focal": {
+      "gamma": 2.0,
+      "positive_weight": 8.0
+    },
+    "lighting": {
+      "brightness": [
+        0.8,
+        1.2
+      ],
+      "contrast": [
+        0.8,
+        1.2
+      ],
+      "training_probability": 0.5,
+      "variants_per_original": 1
+    },
+    "normal_calibration_alpha": 0.1,
+    "padim_retained_channels": 50,
+    "parent_run": "components/outputs/recall-round1",
+    "resources": {
+      "available_ram_fraction": 0.6,
+      "phase_seconds": 1800,
+      "rss_cap_gib": 4,
+      "threads": 4
+    },
+    "schema_version": 1,
+    "scope": [
+      "R05/R06 training-scoring alignment after seed collapse"
+    ],
+    "seed": 4217,
+    "selection": "predeclared canonical seed 4217; report both fixed repeat seeds without replacing canonical result",
+    "stability_seeds": [
+      4218,
+      4219
+    ]
+  },
+  "label_exposure": "same already observed development split; not independent confirmation",
+  "manifest_identity": "39fabf3c59c6b579bbefa7aba642d2a59f67003a336b1460eb75a2c230c5fd7e",
+  "parent": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-round1",
+  "reason": "reproducible seed4219 collapse; learned negative maximum coefficient conflicts with positive-oriented inference pooling",
+  "source_sha256": "ff424a3cd06f8e6b2f8166fff4274700399d8c8d90403c62308b862b649dbd79"
+}

@@ -1,0 +1,4485 @@
+{
+  "accuracy_claim": "none; same original TRAIN scores replayed",
+  "feature_caches_or_masks_read": false,
+  "flag_mismatches": 0,
+  "identity": "8ddcac9907af4c033cbc9ff208f452ce572ea6b251da373cf267c2a3df95f355",
+  "maximum_score_difference": 0.0,
+  "model_id": "ksdd2-ensemble-mvp-v1",
+  "official_test_accessed": false,
+  "originals": 638,
+  "per_image_seconds_in_this_run": {
+    "median": 0.23403565000626259,
+    "p95": 0.2634693750034785
+  },
+  "predictions": [
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10003.png",
+      "reference_score": 0.29493196137999705,
+      "score": 0.29493196137999705
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10004.png",
+      "reference_score": 0.008505381901604247,
+      "score": 0.008505381901604247
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10010.png",
+      "reference_score": 0.10064912655164103,
+      "score": 0.10064912655164103
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10013.png",
+      "reference_score": 0.24750620981760765,
+      "score": 0.24750620981760765
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10014.png",
+      "reference_score": 0.003932146208100787,
+      "score": 0.003932146208100787
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10017.png",
+      "reference_score": 0.11572091711255005,
+      "score": 0.11572091711255005
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10018.png",
+      "reference_score": 0.04481846704565957,
+      "score": 0.04481846704565957
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10021.png",
+      "reference_score": 0.9999533056499786,
+      "score": 0.9999533056499786
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10022.png",
+      "reference_score": 0.023112293437143338,
+      "score": 0.023112293437143338
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10025.png",
+      "reference_score": 0.011251328293367398,
+      "score": 0.011251328293367398
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10033.png",
+      "reference_score": 0.08162972156900897,
+      "score": 0.08162972156900897
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10035.png",
+      "reference_score": 0.013484639476175722,
+      "score": 0.013484639476175722
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10036.png",
+      "reference_score": 0.051349193812010675,
+      "score": 0.051349193812010675
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10053.png",
+      "reference_score": 0.007983099748739281,
+      "score": 0.007983099748739281
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10057.png",
+      "reference_score": 0.9998863426536383,
+      "score": 0.9998863426536383
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10064.png",
+      "reference_score": 0.17578571162429135,
+      "score": 0.17578571162429135
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10068.png",
+      "reference_score": 0.07975069750640194,
+      "score": 0.07975069750640194
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10072.png",
+      "reference_score": 0.012515415724814698,
+      "score": 0.012515415724814698
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10073.png",
+      "reference_score": 0.2953792926743574,
+      "score": 0.2953792926743574
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10078.png",
+      "reference_score": 0.06059670688835248,
+      "score": 0.06059670688835248
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10079.png",
+      "reference_score": 0.009077799670074426,
+      "score": 0.009077799670074426
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10080.png",
+      "reference_score": 0.05774660457784605,
+      "score": 0.05774660457784605
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10094.png",
+      "reference_score": 0.012246455896318051,
+      "score": 0.012246455896318051
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10096.png",
+      "reference_score": 0.041322818748613106,
+      "score": 0.041322818748613106
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10097.png",
+      "reference_score": 0.024289496883638396,
+      "score": 0.024289496883638396
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10098.png",
+      "reference_score": 0.02914506549008541,
+      "score": 0.02914506549008541
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10103.png",
+      "reference_score": 0.04556434521412652,
+      "score": 0.04556434521412652
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10105.png",
+      "reference_score": 0.18044779563054028,
+      "score": 0.18044779563054028
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10108.png",
+      "reference_score": 0.030470301777737446,
+      "score": 0.030470301777737446
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10112.png",
+      "reference_score": 0.017196472538714546,
+      "score": 0.017196472538714546
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10113.png",
+      "reference_score": 0.005753523419293961,
+      "score": 0.005753523419293961
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10114.png",
+      "reference_score": 0.18400806623778987,
+      "score": 0.18400806623778987
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10116.png",
+      "reference_score": 0.2014377407967439,
+      "score": 0.2014377407967439
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10122.png",
+      "reference_score": 0.029758738107238617,
+      "score": 0.029758738107238617
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10124.png",
+      "reference_score": 0.031180648010739886,
+      "score": 0.031180648010739886
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10125.png",
+      "reference_score": 0.007753548416950233,
+      "score": 0.007753548416950233
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10130.png",
+      "reference_score": 0.011015798819812501,
+      "score": 0.011015798819812501
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10131.png",
+      "reference_score": 0.08510823280698793,
+      "score": 0.08510823280698793
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10132.png",
+      "reference_score": 0.04514150098418093,
+      "score": 0.04514150098418093
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10133.png",
+      "reference_score": 0.3181130253232723,
+      "score": 0.3181130253232723
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10134.png",
+      "reference_score": 0.013701958121272013,
+      "score": 0.013701958121272013
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10139.png",
+      "reference_score": 0.03655106184337304,
+      "score": 0.03655106184337304
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10141.png",
+      "reference_score": 0.015266732237783678,
+      "score": 0.015266732237783678
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10155.png",
+      "reference_score": 0.005203582174217018,
+      "score": 0.005203582174217018
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10157.png",
+      "reference_score": 0.9999685306424052,
+      "score": 0.9999685306424052
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10159.png",
+      "reference_score": 0.9975310765758456,
+      "score": 0.9975310765758456
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10160.png",
+      "reference_score": 0.013734701823973383,
+      "score": 0.013734701823973383
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10162.png",
+      "reference_score": 0.017823186180033947,
+      "score": 0.017823186180033947
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10165.png",
+      "reference_score": 0.018558699955995274,
+      "score": 0.018558699955995274
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10179.png",
+      "reference_score": 0.08673222516242092,
+      "score": 0.08673222516242092
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10180.png",
+      "reference_score": 0.01664717658617507,
+      "score": 0.01664717658617507
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10181.png",
+      "reference_score": 0.11271008231256481,
+      "score": 0.11271008231256481
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10182.png",
+      "reference_score": 0.05740973721934911,
+      "score": 0.05740973721934911
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10183.png",
+      "reference_score": 0.22036940538377184,
+      "score": 0.22036940538377184
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10185.png",
+      "reference_score": 0.07843343308201901,
+      "score": 0.07843343308201901
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10186.png",
+      "reference_score": 0.026291752422262976,
+      "score": 0.026291752422262976
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10188.png",
+      "reference_score": 0.0540033362959636,
+      "score": 0.0540033362959636
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10189.png",
+      "reference_score": 0.03519974339234508,
+      "score": 0.03519974339234508
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10192.png",
+      "reference_score": 0.018120619929696356,
+      "score": 0.018120619929696356
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10197.png",
+      "reference_score": 0.0305330924139218,
+      "score": 0.0305330924139218
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10202.png",
+      "reference_score": 0.04271140324542267,
+      "score": 0.04271140324542267
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10206.png",
+      "reference_score": 0.9873732312291175,
+      "score": 0.9873732312291175
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10208.png",
+      "reference_score": 0.9999973209528171,
+      "score": 0.9999973209528171
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10218.png",
+      "reference_score": 0.03727135517841438,
+      "score": 0.03727135517841438
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10220.png",
+      "reference_score": 0.02086457300456568,
+      "score": 0.02086457300456568
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10222.png",
+      "reference_score": 0.007027066596420557,
+      "score": 0.007027066596420557
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10224.png",
+      "reference_score": 0.29692822398074054,
+      "score": 0.29692822398074054
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10226.png",
+      "reference_score": 0.024049468614103443,
+      "score": 0.024049468614103443
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10228.png",
+      "reference_score": 0.21705001817264935,
+      "score": 0.21705001817264935
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10229.png",
+      "reference_score": 0.06487852592643382,
+      "score": 0.06487852592643382
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10238.png",
+      "reference_score": 0.028978420419743998,
+      "score": 0.028978420419743998
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10243.png",
+      "reference_score": 0.010459265254093771,
+      "score": 0.010459265254093771
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10252.png",
+      "reference_score": 0.03576605899239582,
+      "score": 0.03576605899239582
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10255.png",
+      "reference_score": 0.016745212610260993,
+      "score": 0.016745212610260993
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10264.png",
+      "reference_score": 0.08700369719177821,
+      "score": 0.08700369719177821
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10277.png",
+      "reference_score": 0.0824785251427833,
+      "score": 0.0824785251427833
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10278.png",
+      "reference_score": 0.12074927977631152,
+      "score": 0.12074927977631152
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10279.png",
+      "reference_score": 0.32388223877159883,
+      "score": 0.32388223877159883
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10281.png",
+      "reference_score": 0.9998710499711052,
+      "score": 0.9998710499711052
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10283.png",
+      "reference_score": 0.17488778418213766,
+      "score": 0.17488778418213766
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10285.png",
+      "reference_score": 0.10682973346689606,
+      "score": 0.10682973346689606
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10295.png",
+      "reference_score": 0.04133336714944096,
+      "score": 0.04133336714944096
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10297.png",
+      "reference_score": 0.3646278291057621,
+      "score": 0.3646278291057621
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10298.png",
+      "reference_score": 0.0695595009945721,
+      "score": 0.0695595009945721
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10309.png",
+      "reference_score": 0.9999919580449942,
+      "score": 0.9999919580449942
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10312.png",
+      "reference_score": 0.9999079647249483,
+      "score": 0.9999079647249483
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10313.png",
+      "reference_score": 0.05466906400879055,
+      "score": 0.05466906400879055
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10317.png",
+      "reference_score": 0.012401950012270402,
+      "score": 0.012401950012270402
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10323.png",
+      "reference_score": 0.021189416015201624,
+      "score": 0.021189416015201624
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10333.png",
+      "reference_score": 0.11076587184307933,
+      "score": 0.11076587184307933
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10335.png",
+      "reference_score": 0.993729117485911,
+      "score": 0.993729117485911
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10337.png",
+      "reference_score": 0.9999673327154665,
+      "score": 0.9999673327154665
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10338.png",
+      "reference_score": 0.009591207872072604,
+      "score": 0.009591207872072604
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10340.png",
+      "reference_score": 0.16835554412757234,
+      "score": 0.16835554412757234
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10351.png",
+      "reference_score": 0.3780609494053498,
+      "score": 0.3780609494053498
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10353.png",
+      "reference_score": 0.12711224467531376,
+      "score": 0.12711224467531376
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10354.png",
+      "reference_score": 0.8943115658139477,
+      "score": 0.8943115658139477
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10356.png",
+      "reference_score": 0.015908377001678253,
+      "score": 0.015908377001678253
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10364.png",
+      "reference_score": 0.024812629233005788,
+      "score": 0.024812629233005788
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10366.png",
+      "reference_score": 0.0625275363715308,
+      "score": 0.0625275363715308
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10369.png",
+      "reference_score": 0.4161242391334194,
+      "score": 0.4161242391334194
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10371.png",
+      "reference_score": 0.03977251391396331,
+      "score": 0.03977251391396331
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10373.png",
+      "reference_score": 0.39260681258483404,
+      "score": 0.39260681258483404
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10376.png",
+      "reference_score": 0.02651489564755107,
+      "score": 0.02651489564755107
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10377.png",
+      "reference_score": 0.02728479832251858,
+      "score": 0.02728479832251858
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10378.png",
+      "reference_score": 0.012462467419468382,
+      "score": 0.012462467419468382
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10379.png",
+      "reference_score": 0.022010369180340494,
+      "score": 0.022010369180340494
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10387.png",
+      "reference_score": 0.013267744038278661,
+      "score": 0.013267744038278661
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10390.png",
+      "reference_score": 0.012484845992098302,
+      "score": 0.012484845992098302
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10393.png",
+      "reference_score": 0.03174343625613386,
+      "score": 0.03174343625613386
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10395.png",
+      "reference_score": 0.05434226314968373,
+      "score": 0.05434226314968373
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10401.png",
+      "reference_score": 0.9973681761447063,
+      "score": 0.9973681761447063
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10402.png",
+      "reference_score": 0.9994325984729722,
+      "score": 0.9994325984729722
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10403.png",
+      "reference_score": 0.3990534372400356,
+      "score": 0.3990534372400356
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10404.png",
+      "reference_score": 0.021119397139878187,
+      "score": 0.021119397139878187
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10415.png",
+      "reference_score": 0.06948844636544692,
+      "score": 0.06948844636544692
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10420.png",
+      "reference_score": 0.11375687504953619,
+      "score": 0.11375687504953619
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10423.png",
+      "reference_score": 0.9999803968726878,
+      "score": 0.9999803968726878
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10427.png",
+      "reference_score": 0.025841747918117983,
+      "score": 0.025841747918117983
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10428.png",
+      "reference_score": 0.005818585129661911,
+      "score": 0.005818585129661911
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10429.png",
+      "reference_score": 0.193939900137541,
+      "score": 0.193939900137541
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10430.png",
+      "reference_score": 0.006296431117987906,
+      "score": 0.006296431117987906
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10455.png",
+      "reference_score": 0.0048405554142329915,
+      "score": 0.0048405554142329915
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10456.png",
+      "reference_score": 0.012619658844198153,
+      "score": 0.012619658844198153
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10466.png",
+      "reference_score": 0.9999955941577506,
+      "score": 0.9999955941577506
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10471.png",
+      "reference_score": 0.01188883221328639,
+      "score": 0.01188883221328639
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10475.png",
+      "reference_score": 0.006040553293140561,
+      "score": 0.006040553293140561
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10478.png",
+      "reference_score": 0.9999818821617502,
+      "score": 0.9999818821617502
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10479.png",
+      "reference_score": 0.3747559638555163,
+      "score": 0.3747559638555163
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10484.png",
+      "reference_score": 0.3916654242115239,
+      "score": 0.3916654242115239
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10498.png",
+      "reference_score": 0.14256887688567568,
+      "score": 0.14256887688567568
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10499.png",
+      "reference_score": 0.9995060792929173,
+      "score": 0.9995060792929173
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10502.png",
+      "reference_score": 0.7950336786101088,
+      "score": 0.7950336786101088
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10504.png",
+      "reference_score": 0.07251480553920409,
+      "score": 0.07251480553920409
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10505.png",
+      "reference_score": 0.15374731968343536,
+      "score": 0.15374731968343536
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10518.png",
+      "reference_score": 0.19044944551438872,
+      "score": 0.19044944551438872
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10520.png",
+      "reference_score": 0.12799440726263955,
+      "score": 0.12799440726263955
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10521.png",
+      "reference_score": 0.1045182680650255,
+      "score": 0.1045182680650255
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10522.png",
+      "reference_score": 0.016794861685369537,
+      "score": 0.016794861685369537
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10525.png",
+      "reference_score": 0.09420424165645513,
+      "score": 0.09420424165645513
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10534.png",
+      "reference_score": 0.05406026703595093,
+      "score": 0.05406026703595093
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10537.png",
+      "reference_score": 0.06833995966364241,
+      "score": 0.06833995966364241
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10547.png",
+      "reference_score": 0.03791119494115865,
+      "score": 0.03791119494115865
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10554.png",
+      "reference_score": 0.9650194664402795,
+      "score": 0.9650194664402795
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10556.png",
+      "reference_score": 0.03119163805951714,
+      "score": 0.03119163805951714
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10558.png",
+      "reference_score": 0.005116839868067575,
+      "score": 0.005116839868067575
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10564.png",
+      "reference_score": 0.041422074518606314,
+      "score": 0.041422074518606314
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10568.png",
+      "reference_score": 0.04105905895436516,
+      "score": 0.04105905895436516
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10574.png",
+      "reference_score": 0.7376834782067392,
+      "score": 0.7376834782067392
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10579.png",
+      "reference_score": 0.025905350392996702,
+      "score": 0.025905350392996702
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10580.png",
+      "reference_score": 0.05196015170831395,
+      "score": 0.05196015170831395
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10582.png",
+      "reference_score": 0.05343608693765664,
+      "score": 0.05343608693765664
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10583.png",
+      "reference_score": 0.9453754714944868,
+      "score": 0.9453754714944868
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10590.png",
+      "reference_score": 0.2145252005238456,
+      "score": 0.2145252005238456
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10591.png",
+      "reference_score": 0.1791692791980267,
+      "score": 0.1791692791980267
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10594.png",
+      "reference_score": 0.06294919380851317,
+      "score": 0.06294919380851317
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10596.png",
+      "reference_score": 0.006868400595785157,
+      "score": 0.006868400595785157
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10603.png",
+      "reference_score": 0.06854723079419188,
+      "score": 0.06854723079419188
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10608.png",
+      "reference_score": 0.18125962304456286,
+      "score": 0.18125962304456286
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10611.png",
+      "reference_score": 0.021147202535763836,
+      "score": 0.021147202535763836
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10615.png",
+      "reference_score": 0.006216963340910382,
+      "score": 0.006216963340910382
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10623.png",
+      "reference_score": 0.01449057412712118,
+      "score": 0.01449057412712118
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10625.png",
+      "reference_score": 0.006526158826207489,
+      "score": 0.006526158826207489
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10627.png",
+      "reference_score": 0.013347163008453544,
+      "score": 0.013347163008453544
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10629.png",
+      "reference_score": 0.02762225003359683,
+      "score": 0.02762225003359683
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10632.png",
+      "reference_score": 0.00799337378758314,
+      "score": 0.00799337378758314
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10637.png",
+      "reference_score": 0.9999595334846815,
+      "score": 0.9999595334846815
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10639.png",
+      "reference_score": 0.17553434663547143,
+      "score": 0.17553434663547143
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10640.png",
+      "reference_score": 0.1562556041713936,
+      "score": 0.1562556041713936
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10645.png",
+      "reference_score": 0.06627250613858612,
+      "score": 0.06627250613858612
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10647.png",
+      "reference_score": 0.9986508353735113,
+      "score": 0.9986508353735113
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10652.png",
+      "reference_score": 0.007420785908363945,
+      "score": 0.007420785908363945
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10653.png",
+      "reference_score": 0.2688600155653587,
+      "score": 0.2688600155653587
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10661.png",
+      "reference_score": 0.9998833170965972,
+      "score": 0.9998833170965972
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10662.png",
+      "reference_score": 0.28523216669376894,
+      "score": 0.28523216669376894
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10675.png",
+      "reference_score": 0.15938722515215725,
+      "score": 0.15938722515215725
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10680.png",
+      "reference_score": 0.012676272563216425,
+      "score": 0.012676272563216425
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10683.png",
+      "reference_score": 0.07887966497622811,
+      "score": 0.07887966497622811
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10686.png",
+      "reference_score": 0.05261807014636932,
+      "score": 0.05261807014636932
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10688.png",
+      "reference_score": 0.08349766019765285,
+      "score": 0.08349766019765285
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10689.png",
+      "reference_score": 0.02465366278932178,
+      "score": 0.02465366278932178
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10698.png",
+      "reference_score": 0.00889272112058242,
+      "score": 0.00889272112058242
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10700.png",
+      "reference_score": 0.10985584821002099,
+      "score": 0.10985584821002099
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10704.png",
+      "reference_score": 0.044460887451272656,
+      "score": 0.044460887451272656
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10706.png",
+      "reference_score": 0.04030646747049579,
+      "score": 0.04030646747049579
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10712.png",
+      "reference_score": 0.9999715871579532,
+      "score": 0.9999715871579532
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10713.png",
+      "reference_score": 0.008480208673757312,
+      "score": 0.008480208673757312
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10716.png",
+      "reference_score": 0.05174269996177185,
+      "score": 0.05174269996177185
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10720.png",
+      "reference_score": 0.033544926322361966,
+      "score": 0.033544926322361966
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10721.png",
+      "reference_score": 0.027806421610367272,
+      "score": 0.027806421610367272
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10727.png",
+      "reference_score": 0.15619660640782437,
+      "score": 0.15619660640782437
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10730.png",
+      "reference_score": 0.037042310437918155,
+      "score": 0.037042310437918155
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10731.png",
+      "reference_score": 0.06182186215047896,
+      "score": 0.06182186215047896
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10732.png",
+      "reference_score": 0.03024564858800711,
+      "score": 0.03024564858800711
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10742.png",
+      "reference_score": 0.021829658006865208,
+      "score": 0.021829658006865208
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10743.png",
+      "reference_score": 0.9998314734092726,
+      "score": 0.9998314734092726
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10746.png",
+      "reference_score": 0.07534774912044327,
+      "score": 0.07534774912044327
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10751.png",
+      "reference_score": 0.021104301819459877,
+      "score": 0.021104301819459877
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10758.png",
+      "reference_score": 0.03915812047270627,
+      "score": 0.03915812047270627
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10761.png",
+      "reference_score": 0.03228379442880105,
+      "score": 0.03228379442880105
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10772.png",
+      "reference_score": 0.01748806668378859,
+      "score": 0.01748806668378859
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10773.png",
+      "reference_score": 0.03542604351300261,
+      "score": 0.03542604351300261
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10774.png",
+      "reference_score": 0.6324337287498634,
+      "score": 0.6324337287498634
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10777.png",
+      "reference_score": 0.010625501707103227,
+      "score": 0.010625501707103227
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10781.png",
+      "reference_score": 0.01725302476994808,
+      "score": 0.01725302476994808
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10785.png",
+      "reference_score": 0.006609645984209408,
+      "score": 0.006609645984209408
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10790.png",
+      "reference_score": 0.02127681376913067,
+      "score": 0.02127681376913067
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10791.png",
+      "reference_score": 0.012748865445771815,
+      "score": 0.012748865445771815
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10798.png",
+      "reference_score": 0.008257435924159411,
+      "score": 0.008257435924159411
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10800.png",
+      "reference_score": 0.036726494933584666,
+      "score": 0.036726494933584666
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10803.png",
+      "reference_score": 0.017093987907764008,
+      "score": 0.017093987907764008
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10804.png",
+      "reference_score": 0.02301965852228212,
+      "score": 0.02301965852228212
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10806.png",
+      "reference_score": 0.011863142499133499,
+      "score": 0.011863142499133499
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10808.png",
+      "reference_score": 0.5036771053730608,
+      "score": 0.5036771053730608
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10821.png",
+      "reference_score": 0.9995713445553561,
+      "score": 0.9995713445553561
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10827.png",
+      "reference_score": 0.07272641364638038,
+      "score": 0.07272641364638038
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10836.png",
+      "reference_score": 0.011244155450134801,
+      "score": 0.011244155450134801
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10839.png",
+      "reference_score": 0.01105234583483919,
+      "score": 0.01105234583483919
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10841.png",
+      "reference_score": 0.238999459880097,
+      "score": 0.238999459880097
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10842.png",
+      "reference_score": 0.011280369488907939,
+      "score": 0.011280369488907939
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10843.png",
+      "reference_score": 0.0407865479589971,
+      "score": 0.0407865479589971
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10848.png",
+      "reference_score": 0.10015077853886101,
+      "score": 0.10015077853886101
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10849.png",
+      "reference_score": 0.9999756525424393,
+      "score": 0.9999756525424393
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10850.png",
+      "reference_score": 0.009891952703158515,
+      "score": 0.009891952703158515
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10854.png",
+      "reference_score": 0.012069705485437308,
+      "score": 0.012069705485437308
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10858.png",
+      "reference_score": 0.04681466788488172,
+      "score": 0.04681466788488172
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10859.png",
+      "reference_score": 0.03487490216998298,
+      "score": 0.03487490216998298
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10863.png",
+      "reference_score": 0.21365623698427003,
+      "score": 0.21365623698427003
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10867.png",
+      "reference_score": 0.008394719516966959,
+      "score": 0.008394719516966959
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10868.png",
+      "reference_score": 0.1409329985030506,
+      "score": 0.1409329985030506
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10870.png",
+      "reference_score": 0.8791160449880763,
+      "score": 0.8791160449880763
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10872.png",
+      "reference_score": 0.02287436737234816,
+      "score": 0.02287436737234816
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10878.png",
+      "reference_score": 0.15381149738791286,
+      "score": 0.15381149738791286
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10880.png",
+      "reference_score": 0.0716354606391331,
+      "score": 0.0716354606391331
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10884.png",
+      "reference_score": 0.033872092760745556,
+      "score": 0.033872092760745556
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10887.png",
+      "reference_score": 0.007343844824976822,
+      "score": 0.007343844824976822
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10889.png",
+      "reference_score": 0.0657884980355959,
+      "score": 0.0657884980355959
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10893.png",
+      "reference_score": 0.9999604998265604,
+      "score": 0.9999604998265604
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10894.png",
+      "reference_score": 0.01810436635052832,
+      "score": 0.01810436635052832
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10896.png",
+      "reference_score": 0.007060583562308066,
+      "score": 0.007060583562308066
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10897.png",
+      "reference_score": 0.006928893913984165,
+      "score": 0.006928893913984165
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10898.png",
+      "reference_score": 0.059035129915157976,
+      "score": 0.059035129915157976
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10900.png",
+      "reference_score": 0.934677551733599,
+      "score": 0.934677551733599
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10903.png",
+      "reference_score": 0.01629401228020188,
+      "score": 0.01629401228020188
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10906.png",
+      "reference_score": 0.16631356379951068,
+      "score": 0.16631356379951068
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10907.png",
+      "reference_score": 0.99820602593739,
+      "score": 0.99820602593739
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10908.png",
+      "reference_score": 0.021395954549347784,
+      "score": 0.021395954549347784
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10909.png",
+      "reference_score": 0.2554959473767991,
+      "score": 0.2554959473767991
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10914.png",
+      "reference_score": 0.06701721110137278,
+      "score": 0.06701721110137278
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10922.png",
+      "reference_score": 0.005280906339880144,
+      "score": 0.005280906339880144
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10925.png",
+      "reference_score": 0.024777880009982062,
+      "score": 0.024777880009982062
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10929.png",
+      "reference_score": 0.011218716512631129,
+      "score": 0.011218716512631129
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10936.png",
+      "reference_score": 0.04976996051059399,
+      "score": 0.04976996051059399
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10938.png",
+      "reference_score": 0.1384603750082445,
+      "score": 0.1384603750082445
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10943.png",
+      "reference_score": 0.11911226308964584,
+      "score": 0.11911226308964584
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10946.png",
+      "reference_score": 0.1391369128945802,
+      "score": 0.1391369128945802
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10948.png",
+      "reference_score": 0.04107408706909304,
+      "score": 0.04107408706909304
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10953.png",
+      "reference_score": 0.6315550672067725,
+      "score": 0.6315550672067725
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10954.png",
+      "reference_score": 0.043658411915108504,
+      "score": 0.043658411915108504
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10955.png",
+      "reference_score": 0.029549074923014715,
+      "score": 0.029549074923014715
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10956.png",
+      "reference_score": 0.04839499954737723,
+      "score": 0.04839499954737723
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10964.png",
+      "reference_score": 0.0094916980937464,
+      "score": 0.0094916980937464
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10976.png",
+      "reference_score": 0.03663841180515122,
+      "score": 0.03663841180515122
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10980.png",
+      "reference_score": 0.027379887443276185,
+      "score": 0.027379887443276185
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10986.png",
+      "reference_score": 0.025123276794709336,
+      "score": 0.025123276794709336
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10990.png",
+      "reference_score": 0.0940560332239424,
+      "score": 0.0940560332239424
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10992.png",
+      "reference_score": 0.002990952845555611,
+      "score": 0.002990952845555611
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10995.png",
+      "reference_score": 0.002996864491466272,
+      "score": 0.002996864491466272
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10996.png",
+      "reference_score": 0.24124429849716614,
+      "score": 0.24124429849716614
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11002.png",
+      "reference_score": 0.9999898569114704,
+      "score": 0.9999898569114704
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11007.png",
+      "reference_score": 0.00817899764929197,
+      "score": 0.00817899764929197
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11013.png",
+      "reference_score": 0.10636764819003412,
+      "score": 0.10636764819003412
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11017.png",
+      "reference_score": 0.12780331889378518,
+      "score": 0.12780331889378518
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11021.png",
+      "reference_score": 0.07885138772486162,
+      "score": 0.07885138772486162
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11024.png",
+      "reference_score": 0.12633582233514573,
+      "score": 0.12633582233514573
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11027.png",
+      "reference_score": 0.08465869766323973,
+      "score": 0.08465869766323973
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11030.png",
+      "reference_score": 0.6584644762232329,
+      "score": 0.6584644762232329
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11031.png",
+      "reference_score": 0.021898709017037457,
+      "score": 0.021898709017037457
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11032.png",
+      "reference_score": 0.03028263024586639,
+      "score": 0.03028263024586639
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11033.png",
+      "reference_score": 0.0345264411362386,
+      "score": 0.0345264411362386
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11036.png",
+      "reference_score": 0.010979911141634907,
+      "score": 0.010979911141634907
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11043.png",
+      "reference_score": 0.012924741090077617,
+      "score": 0.012924741090077617
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11050.png",
+      "reference_score": 0.5632423185952949,
+      "score": 0.5632423185952949
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11054.png",
+      "reference_score": 0.01109626985043762,
+      "score": 0.01109626985043762
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11055.png",
+      "reference_score": 0.05535377422190487,
+      "score": 0.05535377422190487
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11056.png",
+      "reference_score": 0.06185340092294942,
+      "score": 0.06185340092294942
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11067.png",
+      "reference_score": 0.026690470592158677,
+      "score": 0.026690470592158677
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11069.png",
+      "reference_score": 0.03469495246300408,
+      "score": 0.03469495246300408
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11086.png",
+      "reference_score": 0.03266204403818055,
+      "score": 0.03266204403818055
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11087.png",
+      "reference_score": 0.032775629578280736,
+      "score": 0.032775629578280736
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11098.png",
+      "reference_score": 0.03596379090285199,
+      "score": 0.03596379090285199
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11101.png",
+      "reference_score": 0.9999653813164628,
+      "score": 0.9999653813164628
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11103.png",
+      "reference_score": 0.033774069553923536,
+      "score": 0.033774069553923536
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11106.png",
+      "reference_score": 0.0787079215586564,
+      "score": 0.0787079215586564
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11107.png",
+      "reference_score": 0.024094103312071166,
+      "score": 0.024094103312071166
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11111.png",
+      "reference_score": 0.0998534475867245,
+      "score": 0.0998534475867245
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11113.png",
+      "reference_score": 0.11013727603228042,
+      "score": 0.11013727603228042
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11126.png",
+      "reference_score": 0.012212528390453933,
+      "score": 0.012212528390453933
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11129.png",
+      "reference_score": 0.3912731020537709,
+      "score": 0.3912731020537709
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11137.png",
+      "reference_score": 0.015210756687135923,
+      "score": 0.015210756687135923
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11138.png",
+      "reference_score": 0.1940892090441894,
+      "score": 0.1940892090441894
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11140.png",
+      "reference_score": 0.03359245458090781,
+      "score": 0.03359245458090781
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11152.png",
+      "reference_score": 0.047475396330537205,
+      "score": 0.047475396330537205
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11157.png",
+      "reference_score": 0.05032080100355971,
+      "score": 0.05032080100355971
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11161.png",
+      "reference_score": 0.05074032686884954,
+      "score": 0.05074032686884954
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11162.png",
+      "reference_score": 0.0552107543823468,
+      "score": 0.0552107543823468
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11170.png",
+      "reference_score": 0.039661229877805765,
+      "score": 0.039661229877805765
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11171.png",
+      "reference_score": 0.2937534041476734,
+      "score": 0.2937534041476734
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11176.png",
+      "reference_score": 0.0554205763345381,
+      "score": 0.0554205763345381
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11178.png",
+      "reference_score": 0.9538781319221542,
+      "score": 0.9538781319221542
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11179.png",
+      "reference_score": 0.1577144644939108,
+      "score": 0.1577144644939108
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11180.png",
+      "reference_score": 0.1166999239032246,
+      "score": 0.1166999239032246
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11181.png",
+      "reference_score": 0.2448193346806982,
+      "score": 0.2448193346806982
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11185.png",
+      "reference_score": 0.506258618826654,
+      "score": 0.506258618826654
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11187.png",
+      "reference_score": 0.9991990170708912,
+      "score": 0.9991990170708912
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11195.png",
+      "reference_score": 0.4759404969851235,
+      "score": 0.4759404969851235
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11196.png",
+      "reference_score": 0.03032684544140346,
+      "score": 0.03032684544140346
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11197.png",
+      "reference_score": 0.35959443599053936,
+      "score": 0.35959443599053936
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11204.png",
+      "reference_score": 0.026748167117662317,
+      "score": 0.026748167117662317
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11210.png",
+      "reference_score": 0.08459195392612705,
+      "score": 0.08459195392612705
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11211.png",
+      "reference_score": 0.031093538525033423,
+      "score": 0.031093538525033423
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11214.png",
+      "reference_score": 0.9999569444270642,
+      "score": 0.9999569444270642
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11218.png",
+      "reference_score": 0.25292946350307016,
+      "score": 0.25292946350307016
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11220.png",
+      "reference_score": 0.01773506740631792,
+      "score": 0.01773506740631792
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11224.png",
+      "reference_score": 0.03307403963036782,
+      "score": 0.03307403963036782
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11227.png",
+      "reference_score": 0.009362437837712893,
+      "score": 0.009362437837712893
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11231.png",
+      "reference_score": 0.10113797431091892,
+      "score": 0.10113797431091892
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11235.png",
+      "reference_score": 0.053997612774659344,
+      "score": 0.053997612774659344
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11239.png",
+      "reference_score": 0.007113884990493888,
+      "score": 0.007113884990493888
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11241.png",
+      "reference_score": 0.02423881607349788,
+      "score": 0.02423881607349788
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11243.png",
+      "reference_score": 0.04281542221632876,
+      "score": 0.04281542221632876
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11247.png",
+      "reference_score": 0.022461617367629427,
+      "score": 0.022461617367629427
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11250.png",
+      "reference_score": 0.9999935948989193,
+      "score": 0.9999935948989193
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11253.png",
+      "reference_score": 0.34687312921048,
+      "score": 0.34687312921048
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11256.png",
+      "reference_score": 0.028609503222658688,
+      "score": 0.028609503222658688
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11260.png",
+      "reference_score": 0.8028554002698659,
+      "score": 0.8028554002698659
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11261.png",
+      "reference_score": 0.09931267756745389,
+      "score": 0.09931267756745389
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11265.png",
+      "reference_score": 0.0142787380580977,
+      "score": 0.0142787380580977
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11268.png",
+      "reference_score": 0.043697162865223245,
+      "score": 0.043697162865223245
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11269.png",
+      "reference_score": 0.6265708956978155,
+      "score": 0.6265708956978155
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11271.png",
+      "reference_score": 0.09775650585327883,
+      "score": 0.09775650585327883
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11272.png",
+      "reference_score": 0.012883792869213975,
+      "score": 0.012883792869213975
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11273.png",
+      "reference_score": 0.007773200111352138,
+      "score": 0.007773200111352138
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11278.png",
+      "reference_score": 0.19223197242791212,
+      "score": 0.19223197242791212
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11282.png",
+      "reference_score": 0.9988143093023943,
+      "score": 0.9988143093023943
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11283.png",
+      "reference_score": 0.013150051837357407,
+      "score": 0.013150051837357407
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11285.png",
+      "reference_score": 0.1727061675182916,
+      "score": 0.1727061675182916
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11287.png",
+      "reference_score": 0.011443152785784158,
+      "score": 0.011443152785784158
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11289.png",
+      "reference_score": 0.03753103180500724,
+      "score": 0.03753103180500724
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11290.png",
+      "reference_score": 0.20736242651806588,
+      "score": 0.20736242651806588
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11291.png",
+      "reference_score": 0.02526492769411127,
+      "score": 0.02526492769411127
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11295.png",
+      "reference_score": 0.011420281666848034,
+      "score": 0.011420281666848034
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11305.png",
+      "reference_score": 0.09586237813393617,
+      "score": 0.09586237813393617
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11306.png",
+      "reference_score": 0.11799239231336656,
+      "score": 0.11799239231336656
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11309.png",
+      "reference_score": 0.010622439484586231,
+      "score": 0.010622439484586231
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11310.png",
+      "reference_score": 0.005380600945649224,
+      "score": 0.005380600945649224
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11319.png",
+      "reference_score": 0.06320156668233777,
+      "score": 0.06320156668233777
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11320.png",
+      "reference_score": 0.010959519172966168,
+      "score": 0.010959519172966168
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11330.png",
+      "reference_score": 0.19359483944909428,
+      "score": 0.19359483944909428
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11334.png",
+      "reference_score": 0.16525508474473788,
+      "score": 0.16525508474473788
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11335.png",
+      "reference_score": 0.505381280047888,
+      "score": 0.505381280047888
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11336.png",
+      "reference_score": 0.05234986451333024,
+      "score": 0.05234986451333024
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11343.png",
+      "reference_score": 0.9731228277364276,
+      "score": 0.9731228277364276
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11346.png",
+      "reference_score": 0.16467328647794943,
+      "score": 0.16467328647794943
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11347.png",
+      "reference_score": 0.031074158805165078,
+      "score": 0.031074158805165078
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11351.png",
+      "reference_score": 0.9920941766664152,
+      "score": 0.9920941766664152
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11357.png",
+      "reference_score": 0.07761630203330118,
+      "score": 0.07761630203330118
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11359.png",
+      "reference_score": 0.05734521490640687,
+      "score": 0.05734521490640687
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11360.png",
+      "reference_score": 0.9996335189000901,
+      "score": 0.9996335189000901
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11361.png",
+      "reference_score": 0.03444627665303232,
+      "score": 0.03444627665303232
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11364.png",
+      "reference_score": 0.9945045149289333,
+      "score": 0.9945045149289333
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11365.png",
+      "reference_score": 0.012834705325242507,
+      "score": 0.012834705325242507
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11372.png",
+      "reference_score": 0.030137237043788335,
+      "score": 0.030137237043788335
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11383.png",
+      "reference_score": 0.005995056593275666,
+      "score": 0.005995056593275666
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11389.png",
+      "reference_score": 0.021288799932065533,
+      "score": 0.021288799932065533
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11393.png",
+      "reference_score": 0.07653986924913646,
+      "score": 0.07653986924913646
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11400.png",
+      "reference_score": 0.013242185733528705,
+      "score": 0.013242185733528705
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11407.png",
+      "reference_score": 0.025908263511380068,
+      "score": 0.025908263511380068
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11411.png",
+      "reference_score": 0.042767318580425616,
+      "score": 0.042767318580425616
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11416.png",
+      "reference_score": 0.11831511341715335,
+      "score": 0.11831511341715335
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11417.png",
+      "reference_score": 0.15077654965908824,
+      "score": 0.15077654965908824
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11427.png",
+      "reference_score": 0.2851163309843789,
+      "score": 0.2851163309843789
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11428.png",
+      "reference_score": 0.06100956531753863,
+      "score": 0.06100956531753863
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11430.png",
+      "reference_score": 0.9998648309504129,
+      "score": 0.9998648309504129
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11432.png",
+      "reference_score": 0.9999956255220258,
+      "score": 0.9999956255220258
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11433.png",
+      "reference_score": 0.21439592613081068,
+      "score": 0.21439592613081068
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11434.png",
+      "reference_score": 0.025716958050348085,
+      "score": 0.025716958050348085
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11439.png",
+      "reference_score": 0.5758371361033543,
+      "score": 0.5758371361033543
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11442.png",
+      "reference_score": 0.3060362764290508,
+      "score": 0.3060362764290508
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11443.png",
+      "reference_score": 0.3256266124069435,
+      "score": 0.3256266124069435
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11445.png",
+      "reference_score": 0.08898060641780696,
+      "score": 0.08898060641780696
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11449.png",
+      "reference_score": 0.021105058311864867,
+      "score": 0.021105058311864867
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11451.png",
+      "reference_score": 0.05395240711285093,
+      "score": 0.05395240711285093
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11453.png",
+      "reference_score": 0.13352861083298495,
+      "score": 0.13352861083298495
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11455.png",
+      "reference_score": 0.011509573318627309,
+      "score": 0.011509573318627309
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11456.png",
+      "reference_score": 0.024440827333364903,
+      "score": 0.024440827333364903
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11461.png",
+      "reference_score": 0.035763587142465546,
+      "score": 0.035763587142465546
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11462.png",
+      "reference_score": 0.2526860025174152,
+      "score": 0.2526860025174152
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11466.png",
+      "reference_score": 0.03254071781210725,
+      "score": 0.03254071781210725
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11467.png",
+      "reference_score": 0.03281082160979581,
+      "score": 0.03281082160979581
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11469.png",
+      "reference_score": 0.03232339863557324,
+      "score": 0.03232339863557324
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11474.png",
+      "reference_score": 0.19465473857828983,
+      "score": 0.19465473857828983
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11475.png",
+      "reference_score": 0.26127506662602984,
+      "score": 0.26127506662602984
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11476.png",
+      "reference_score": 0.037490225335298076,
+      "score": 0.037490225335298076
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11477.png",
+      "reference_score": 0.9998500119458732,
+      "score": 0.9998500119458732
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11478.png",
+      "reference_score": 0.05021006661328278,
+      "score": 0.05021006661328278
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11482.png",
+      "reference_score": 0.9193951574411309,
+      "score": 0.9193951574411309
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11488.png",
+      "reference_score": 0.07219510862934046,
+      "score": 0.07219510862934046
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11490.png",
+      "reference_score": 0.04830313418336873,
+      "score": 0.04830313418336873
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11494.png",
+      "reference_score": 0.3338597511283212,
+      "score": 0.3338597511283212
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11496.png",
+      "reference_score": 0.09971911984855268,
+      "score": 0.09971911984855268
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11497.png",
+      "reference_score": 0.007616242304072908,
+      "score": 0.007616242304072908
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11498.png",
+      "reference_score": 0.018524196585184623,
+      "score": 0.018524196585184623
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11500.png",
+      "reference_score": 0.9999964698985518,
+      "score": 0.9999964698985518
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11507.png",
+      "reference_score": 0.026582704693984133,
+      "score": 0.026582704693984133
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11510.png",
+      "reference_score": 0.005406772993744605,
+      "score": 0.005406772993744605
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11513.png",
+      "reference_score": 0.015250635586871042,
+      "score": 0.015250635586871042
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11521.png",
+      "reference_score": 0.5484136207342792,
+      "score": 0.5484136207342792
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11522.png",
+      "reference_score": 0.21931909668414115,
+      "score": 0.21931909668414115
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11530.png",
+      "reference_score": 0.01591732961349712,
+      "score": 0.01591732961349712
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11543.png",
+      "reference_score": 0.995491219961238,
+      "score": 0.995491219961238
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11544.png",
+      "reference_score": 0.1282533570301657,
+      "score": 0.1282533570301657
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11547.png",
+      "reference_score": 0.008569096623819715,
+      "score": 0.008569096623819715
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11548.png",
+      "reference_score": 0.011018421483216606,
+      "score": 0.011018421483216606
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11549.png",
+      "reference_score": 0.9991767012892336,
+      "score": 0.9991767012892336
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11550.png",
+      "reference_score": 0.05795691100114877,
+      "score": 0.05795691100114877
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11558.png",
+      "reference_score": 0.3120701335058128,
+      "score": 0.3120701335058128
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11559.png",
+      "reference_score": 0.06910190814068888,
+      "score": 0.06910190814068888
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11564.png",
+      "reference_score": 0.008146233985464189,
+      "score": 0.008146233985464189
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11568.png",
+      "reference_score": 0.05312631667432227,
+      "score": 0.05312631667432227
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11569.png",
+      "reference_score": 0.08555182615346657,
+      "score": 0.08555182615346657
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11574.png",
+      "reference_score": 0.9999287249531411,
+      "score": 0.9999287249531411
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11575.png",
+      "reference_score": 0.022953958684920662,
+      "score": 0.022953958684920662
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11577.png",
+      "reference_score": 0.07424054182802944,
+      "score": 0.07424054182802944
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11579.png",
+      "reference_score": 0.017783638417068485,
+      "score": 0.017783638417068485
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11584.png",
+      "reference_score": 0.9997427104676936,
+      "score": 0.9997427104676936
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11585.png",
+      "reference_score": 0.9997451913305883,
+      "score": 0.9997451913305883
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11589.png",
+      "reference_score": 0.013783162356701267,
+      "score": 0.013783162356701267
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11590.png",
+      "reference_score": 0.9998863967952051,
+      "score": 0.9998863967952051
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11591.png",
+      "reference_score": 0.009629343538038841,
+      "score": 0.009629343538038841
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11592.png",
+      "reference_score": 0.7791948160109854,
+      "score": 0.7791948160109854
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11598.png",
+      "reference_score": 0.1603857473704263,
+      "score": 0.1603857473704263
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11599.png",
+      "reference_score": 0.012606281226748792,
+      "score": 0.012606281226748792
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11600.png",
+      "reference_score": 0.024196083439079637,
+      "score": 0.024196083439079637
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11604.png",
+      "reference_score": 0.13215519046437105,
+      "score": 0.13215519046437105
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11606.png",
+      "reference_score": 0.04295735601806209,
+      "score": 0.04295735601806209
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11610.png",
+      "reference_score": 0.042104533132134615,
+      "score": 0.042104533132134615
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11617.png",
+      "reference_score": 0.0172495801210187,
+      "score": 0.0172495801210187
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11619.png",
+      "reference_score": 0.07171924671163864,
+      "score": 0.07171924671163864
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11631.png",
+      "reference_score": 0.0036955672393644344,
+      "score": 0.0036955672393644344
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11633.png",
+      "reference_score": 0.05294648758420447,
+      "score": 0.05294648758420447
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11635.png",
+      "reference_score": 0.11379688271039752,
+      "score": 0.11379688271039752
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11641.png",
+      "reference_score": 0.9681409440303345,
+      "score": 0.9681409440303345
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11643.png",
+      "reference_score": 0.985176947626651,
+      "score": 0.985176947626651
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11645.png",
+      "reference_score": 0.022126984824553067,
+      "score": 0.022126984824553067
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11648.png",
+      "reference_score": 0.4917067658670082,
+      "score": 0.4917067658670082
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11649.png",
+      "reference_score": 0.032249961953656,
+      "score": 0.032249961953656
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11656.png",
+      "reference_score": 0.01789718340280347,
+      "score": 0.01789718340280347
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11658.png",
+      "reference_score": 0.49973658291772177,
+      "score": 0.49973658291772177
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11663.png",
+      "reference_score": 0.0157106997668515,
+      "score": 0.0157106997668515
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11667.png",
+      "reference_score": 0.026286498122111934,
+      "score": 0.026286498122111934
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11674.png",
+      "reference_score": 0.007150522957001255,
+      "score": 0.007150522957001255
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11678.png",
+      "reference_score": 0.2758663312129248,
+      "score": 0.2758663312129248
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11681.png",
+      "reference_score": 0.013503181415627405,
+      "score": 0.013503181415627405
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11688.png",
+      "reference_score": 0.028180627262009164,
+      "score": 0.028180627262009164
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11695.png",
+      "reference_score": 0.9073243254866412,
+      "score": 0.9073243254866412
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11697.png",
+      "reference_score": 0.16297144893515342,
+      "score": 0.16297144893515342
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11701.png",
+      "reference_score": 0.0427337986339835,
+      "score": 0.0427337986339835
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11706.png",
+      "reference_score": 0.15286893153211056,
+      "score": 0.15286893153211056
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11708.png",
+      "reference_score": 0.01516385713681677,
+      "score": 0.01516385713681677
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11716.png",
+      "reference_score": 0.046321840382186646,
+      "score": 0.046321840382186646
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11717.png",
+      "reference_score": 0.06387480173497735,
+      "score": 0.06387480173497735
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11720.png",
+      "reference_score": 0.06922713213887131,
+      "score": 0.06922713213887131
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11722.png",
+      "reference_score": 0.03017665280712943,
+      "score": 0.03017665280712943
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11724.png",
+      "reference_score": 0.044761510571522646,
+      "score": 0.044761510571522646
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11725.png",
+      "reference_score": 0.0185783003465472,
+      "score": 0.0185783003465472
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11726.png",
+      "reference_score": 0.050180890304075305,
+      "score": 0.050180890304075305
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11729.png",
+      "reference_score": 0.008343434701629985,
+      "score": 0.008343434701629985
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11733.png",
+      "reference_score": 0.012644592952379725,
+      "score": 0.012644592952379725
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11737.png",
+      "reference_score": 0.2870223889290751,
+      "score": 0.2870223889290751
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11739.png",
+      "reference_score": 0.8095367316905654,
+      "score": 0.8095367316905654
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11742.png",
+      "reference_score": 0.013624400669517032,
+      "score": 0.013624400669517032
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11745.png",
+      "reference_score": 0.04064993706289965,
+      "score": 0.04064993706289965
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11748.png",
+      "reference_score": 0.019279085668737195,
+      "score": 0.019279085668737195
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11751.png",
+      "reference_score": 0.04248449194233498,
+      "score": 0.04248449194233498
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11754.png",
+      "reference_score": 0.017683093892022776,
+      "score": 0.017683093892022776
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11755.png",
+      "reference_score": 0.9998938439454301,
+      "score": 0.9998938439454301
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11761.png",
+      "reference_score": 0.028709959714007954,
+      "score": 0.028709959714007954
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11762.png",
+      "reference_score": 0.02289402905472458,
+      "score": 0.02289402905472458
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11763.png",
+      "reference_score": 0.026186182470503153,
+      "score": 0.026186182470503153
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11765.png",
+      "reference_score": 0.04323167915464223,
+      "score": 0.04323167915464223
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11767.png",
+      "reference_score": 0.0735942731745172,
+      "score": 0.0735942731745172
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11769.png",
+      "reference_score": 0.04785513164149851,
+      "score": 0.04785513164149851
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11772.png",
+      "reference_score": 0.20626381214455003,
+      "score": 0.20626381214455003
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11773.png",
+      "reference_score": 0.5257836520917077,
+      "score": 0.5257836520917077
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11776.png",
+      "reference_score": 0.03481555456037474,
+      "score": 0.03481555456037474
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11779.png",
+      "reference_score": 0.07111769791955508,
+      "score": 0.07111769791955508
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11781.png",
+      "reference_score": 0.04849478438745112,
+      "score": 0.04849478438745112
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11782.png",
+      "reference_score": 0.024825992494674293,
+      "score": 0.024825992494674293
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11788.png",
+      "reference_score": 0.013172740646893633,
+      "score": 0.013172740646893633
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11790.png",
+      "reference_score": 0.005056922801601208,
+      "score": 0.005056922801601208
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11793.png",
+      "reference_score": 0.07937572873587483,
+      "score": 0.07937572873587483
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11796.png",
+      "reference_score": 0.004293335766720466,
+      "score": 0.004293335766720466
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11800.png",
+      "reference_score": 0.9997908255748816,
+      "score": 0.9997908255748816
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11803.png",
+      "reference_score": 0.11263385722567414,
+      "score": 0.11263385722567414
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11812.png",
+      "reference_score": 0.007728246798435506,
+      "score": 0.007728246798435506
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11817.png",
+      "reference_score": 0.030552735182769904,
+      "score": 0.030552735182769904
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11819.png",
+      "reference_score": 0.12968900551935444,
+      "score": 0.12968900551935444
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11823.png",
+      "reference_score": 0.0171109040972956,
+      "score": 0.0171109040972956
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11836.png",
+      "reference_score": 0.9957658437742724,
+      "score": 0.9957658437742724
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11839.png",
+      "reference_score": 0.13225800392494705,
+      "score": 0.13225800392494705
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11840.png",
+      "reference_score": 0.37418495994426976,
+      "score": 0.37418495994426976
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11841.png",
+      "reference_score": 0.5014413898838925,
+      "score": 0.5014413898838925
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11843.png",
+      "reference_score": 0.013744108266484535,
+      "score": 0.013744108266484535
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11848.png",
+      "reference_score": 0.09010221750075502,
+      "score": 0.09010221750075502
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11852.png",
+      "reference_score": 0.00937198234704913,
+      "score": 0.00937198234704913
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11861.png",
+      "reference_score": 0.24678151286673855,
+      "score": 0.24678151286673855
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11862.png",
+      "reference_score": 0.03260299835637437,
+      "score": 0.03260299835637437
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11863.png",
+      "reference_score": 0.1551111297529078,
+      "score": 0.1551111297529078
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11864.png",
+      "reference_score": 0.007048582146690907,
+      "score": 0.007048582146690907
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11866.png",
+      "reference_score": 0.31941647647320964,
+      "score": 0.31941647647320964
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11867.png",
+      "reference_score": 0.35424021496032426,
+      "score": 0.35424021496032426
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11878.png",
+      "reference_score": 0.08318150490736252,
+      "score": 0.08318150490736252
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11880.png",
+      "reference_score": 0.13096305261949517,
+      "score": 0.13096305261949517
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11882.png",
+      "reference_score": 0.019862145904088014,
+      "score": 0.019862145904088014
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11885.png",
+      "reference_score": 0.142031723851154,
+      "score": 0.142031723851154
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11887.png",
+      "reference_score": 0.015576576932334774,
+      "score": 0.015576576932334774
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11888.png",
+      "reference_score": 0.05087864639277448,
+      "score": 0.05087864639277448
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11892.png",
+      "reference_score": 0.015419435017307914,
+      "score": 0.015419435017307914
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11894.png",
+      "reference_score": 0.08113998977708602,
+      "score": 0.08113998977708602
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11895.png",
+      "reference_score": 0.3932741445627394,
+      "score": 0.3932741445627394
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11899.png",
+      "reference_score": 0.999969475364254,
+      "score": 0.999969475364254
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11901.png",
+      "reference_score": 0.021441710569789597,
+      "score": 0.021441710569789597
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11903.png",
+      "reference_score": 0.26202473814261756,
+      "score": 0.26202473814261756
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11908.png",
+      "reference_score": 0.050955119227530814,
+      "score": 0.050955119227530814
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11912.png",
+      "reference_score": 0.2659210112622585,
+      "score": 0.2659210112622585
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11914.png",
+      "reference_score": 0.1888339256914946,
+      "score": 0.1888339256914946
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11917.png",
+      "reference_score": 0.9992845353151271,
+      "score": 0.9992845353151271
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11921.png",
+      "reference_score": 0.10765993250065457,
+      "score": 0.10765993250065457
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11926.png",
+      "reference_score": 0.0972890700242,
+      "score": 0.0972890700242
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11934.png",
+      "reference_score": 0.6516629579683251,
+      "score": 0.6516629579683251
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11935.png",
+      "reference_score": 0.18118779399642979,
+      "score": 0.18118779399642979
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11936.png",
+      "reference_score": 0.014763033080433327,
+      "score": 0.014763033080433327
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11937.png",
+      "reference_score": 0.09155765520569777,
+      "score": 0.09155765520569777
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11939.png",
+      "reference_score": 0.04592014403464858,
+      "score": 0.04592014403464858
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11947.png",
+      "reference_score": 0.2831866271466394,
+      "score": 0.2831866271466394
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11948.png",
+      "reference_score": 0.00910667872580329,
+      "score": 0.00910667872580329
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11951.png",
+      "reference_score": 0.03606398778459377,
+      "score": 0.03606398778459377
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11952.png",
+      "reference_score": 0.04449072329026832,
+      "score": 0.04449072329026832
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11955.png",
+      "reference_score": 0.033044513483650576,
+      "score": 0.033044513483650576
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11956.png",
+      "reference_score": 0.95449851452319,
+      "score": 0.95449851452319
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11958.png",
+      "reference_score": 0.0923865812000839,
+      "score": 0.0923865812000839
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11959.png",
+      "reference_score": 0.45424909264705926,
+      "score": 0.45424909264705926
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11962.png",
+      "reference_score": 0.9998056246811501,
+      "score": 0.9998056246811501
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11969.png",
+      "reference_score": 0.5314573801859829,
+      "score": 0.5314573801859829
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11970.png",
+      "reference_score": 0.01485179530486186,
+      "score": 0.01485179530486186
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11975.png",
+      "reference_score": 0.1289220747457457,
+      "score": 0.1289220747457457
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11981.png",
+      "reference_score": 0.006581878433483869,
+      "score": 0.006581878433483869
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11982.png",
+      "reference_score": 0.020966503588110873,
+      "score": 0.020966503588110873
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11989.png",
+      "reference_score": 0.049497371402152934,
+      "score": 0.049497371402152934
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11994.png",
+      "reference_score": 0.07182018679715281,
+      "score": 0.07182018679715281
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11998.png",
+      "reference_score": 0.40122533277320516,
+      "score": 0.40122533277320516
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12002.png",
+      "reference_score": 0.03313667470760687,
+      "score": 0.03313667470760687
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12003.png",
+      "reference_score": 0.03478123282577804,
+      "score": 0.03478123282577804
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12008.png",
+      "reference_score": 0.9965007687264192,
+      "score": 0.9965007687264192
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12009.png",
+      "reference_score": 0.0319509438606101,
+      "score": 0.0319509438606101
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12014.png",
+      "reference_score": 0.0789648447352567,
+      "score": 0.0789648447352567
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12018.png",
+      "reference_score": 0.07520222758035383,
+      "score": 0.07520222758035383
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12023.png",
+      "reference_score": 0.04439019312851525,
+      "score": 0.04439019312851525
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12025.png",
+      "reference_score": 0.0230341182428619,
+      "score": 0.0230341182428619
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12042.png",
+      "reference_score": 0.1187289738281132,
+      "score": 0.1187289738281132
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12046.png",
+      "reference_score": 0.4493083226867789,
+      "score": 0.4493083226867789
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12049.png",
+      "reference_score": 0.16995800664824326,
+      "score": 0.16995800664824326
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12051.png",
+      "reference_score": 0.07648398261909013,
+      "score": 0.07648398261909013
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12060.png",
+      "reference_score": 0.0171403836826076,
+      "score": 0.0171403836826076
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12061.png",
+      "reference_score": 0.10835140604468951,
+      "score": 0.10835140604468951
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12064.png",
+      "reference_score": 0.025530489602688028,
+      "score": 0.025530489602688028
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12069.png",
+      "reference_score": 0.009710858481218417,
+      "score": 0.009710858481218417
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12075.png",
+      "reference_score": 0.018962276390842928,
+      "score": 0.018962276390842928
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12077.png",
+      "reference_score": 0.032030062787785606,
+      "score": 0.032030062787785606
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12080.png",
+      "reference_score": 0.999637747362971,
+      "score": 0.999637747362971
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12081.png",
+      "reference_score": 0.9999989732031881,
+      "score": 0.9999989732031881
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12082.png",
+      "reference_score": 0.018864013903518363,
+      "score": 0.018864013903518363
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12087.png",
+      "reference_score": 0.03221987363809326,
+      "score": 0.03221987363809326
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12094.png",
+      "reference_score": 0.11367051530459794,
+      "score": 0.11367051530459794
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12097.png",
+      "reference_score": 0.9305098257654466,
+      "score": 0.9305098257654466
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12109.png",
+      "reference_score": 0.999998888647419,
+      "score": 0.999998888647419
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12110.png",
+      "reference_score": 0.2537717264327259,
+      "score": 0.2537717264327259
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12117.png",
+      "reference_score": 0.012691204881656431,
+      "score": 0.012691204881656431
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12119.png",
+      "reference_score": 0.1492952266173475,
+      "score": 0.1492952266173475
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12124.png",
+      "reference_score": 0.010528411868678623,
+      "score": 0.010528411868678623
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12126.png",
+      "reference_score": 0.29024333326199,
+      "score": 0.29024333326199
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12128.png",
+      "reference_score": 0.01850649753986534,
+      "score": 0.01850649753986534
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12130.png",
+      "reference_score": 0.47038865503781335,
+      "score": 0.47038865503781335
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12149.png",
+      "reference_score": 0.018781083969657376,
+      "score": 0.018781083969657376
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12151.png",
+      "reference_score": 0.1498531627360767,
+      "score": 0.1498531627360767
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12153.png",
+      "reference_score": 0.0833579308919183,
+      "score": 0.0833579308919183
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12164.png",
+      "reference_score": 0.05010346557024833,
+      "score": 0.05010346557024833
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12167.png",
+      "reference_score": 0.46717144468455857,
+      "score": 0.46717144468455857
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12170.png",
+      "reference_score": 0.016548272523462908,
+      "score": 0.016548272523462908
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12172.png",
+      "reference_score": 0.013466330503466468,
+      "score": 0.013466330503466468
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12180.png",
+      "reference_score": 0.020896798009185286,
+      "score": 0.020896798009185286
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12181.png",
+      "reference_score": 0.006173345499198346,
+      "score": 0.006173345499198346
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12189.png",
+      "reference_score": 0.08560201023004249,
+      "score": 0.08560201023004249
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12192.png",
+      "reference_score": 0.08979308996377727,
+      "score": 0.08979308996377727
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12194.png",
+      "reference_score": 0.02126660452267201,
+      "score": 0.02126660452267201
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12200.png",
+      "reference_score": 0.08774897358267016,
+      "score": 0.08774897358267016
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12204.png",
+      "reference_score": 0.04315497269488373,
+      "score": 0.04315497269488373
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12205.png",
+      "reference_score": 0.08133383336838582,
+      "score": 0.08133383336838582
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12207.png",
+      "reference_score": 0.042513460181182884,
+      "score": 0.042513460181182884
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12210.png",
+      "reference_score": 0.9989831581510319,
+      "score": 0.9989831581510319
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12212.png",
+      "reference_score": 0.011074240355305931,
+      "score": 0.011074240355305931
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12217.png",
+      "reference_score": 0.03937332407738416,
+      "score": 0.03937332407738416
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12222.png",
+      "reference_score": 0.011665113605351099,
+      "score": 0.011665113605351099
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12224.png",
+      "reference_score": 0.06904101804830799,
+      "score": 0.06904101804830799
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12227.png",
+      "reference_score": 0.013016071213151412,
+      "score": 0.013016071213151412
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12228.png",
+      "reference_score": 0.026754825526118964,
+      "score": 0.026754825526118964
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12229.png",
+      "reference_score": 0.04656348912189016,
+      "score": 0.04656348912189016
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12238.png",
+      "reference_score": 0.5922313331652553,
+      "score": 0.5922313331652553
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12246.png",
+      "reference_score": 0.05896056323434292,
+      "score": 0.05896056323434292
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12250.png",
+      "reference_score": 0.14708308247668248,
+      "score": 0.14708308247668248
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12259.png",
+      "reference_score": 0.03483406177345864,
+      "score": 0.03483406177345864
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12263.png",
+      "reference_score": 0.03635788301112503,
+      "score": 0.03635788301112503
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12276.png",
+      "reference_score": 0.06511851721597153,
+      "score": 0.06511851721597153
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12278.png",
+      "reference_score": 0.11962141366591139,
+      "score": 0.11962141366591139
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12279.png",
+      "reference_score": 0.007924192969182097,
+      "score": 0.007924192969182097
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12282.png",
+      "reference_score": 0.06296393866403575,
+      "score": 0.06296393866403575
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12287.png",
+      "reference_score": 0.9999932590564935,
+      "score": 0.9999932590564935
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12291.png",
+      "reference_score": 0.05356370395631132,
+      "score": 0.05356370395631132
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12293.png",
+      "reference_score": 0.041888272814123606,
+      "score": 0.041888272814123606
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12294.png",
+      "reference_score": 0.00884715926534592,
+      "score": 0.00884715926534592
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12304.png",
+      "reference_score": 0.15922392370882946,
+      "score": 0.15922392370882946
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12312.png",
+      "reference_score": 0.2562484102374527,
+      "score": 0.2562484102374527
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12316.png",
+      "reference_score": 0.007204988365170674,
+      "score": 0.007204988365170674
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12320.png",
+      "reference_score": 0.010708996208301472,
+      "score": 0.010708996208301472
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12321.png",
+      "reference_score": 0.030817735341498093,
+      "score": 0.030817735341498093
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12323.png",
+      "reference_score": 0.06926008377014668,
+      "score": 0.06926008377014668
+    },
+    {
+      "absolute_difference": 0.0,
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12328.png",
+      "reference_score": 0.325302750467963,
+      "score": 0.325302750467963
+    }
+  ],
+  "runtime_source_sha256": "f95470ce1c057396fc78ba59f2f8ba3ba4ec4c7c2eaa497181fc8ce3bee7f99a",
+  "source_record_sha256": "1159458828cde684553de1b8b7ce26e51dded1b1e122445764e7b7d6867d9ebc",
+  "verifier_sha256": "d93c3ee866fa59d7fa56a43d94f8f3d2b73c2bd224c20fab405947c498b73a59"
+}

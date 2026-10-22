@@ -1,0 +1,9 @@
+TRAIN outer-0 1 1.2270110368728637
+TRAIN outer-0 6 0.5470231033506847
+TRAIN outer-0 11 0.4167799806311017
+TRAIN outer-0 16 0.36594956008096535
+TRAIN outer-0 21 0.3371248116095861
+TRAIN outer-0 26 0.3313762064668394
+TRAIN outer-0 30 0.30033844761727824
+RESULT fitting-diagnostic.json {'TP': 164, 'FN': 0, 'FP': 1, 'TN': 255, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 30, 'total': 30}
+RESULT eval-0.json {'TP': 74, 'FN': 8, 'FP': 37, 'TN': 519, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 7, 'total': 15}

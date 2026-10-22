@@ -1,0 +1,19 @@
+{
+  "affected_non_numeric_readmes": {
+    "README.md": {
+      "canonical_staged_sha256": "c70915342a80f57e3992de55e7d37143c12df20865622d4254608babf2af865d",
+      "only_line_endings_differ": true,
+      "working_sha256_before": "e7a5938a651420ecff9b960870266399f783fea995e3ba4070741b8e56c26149"
+    },
+    "components/README.md": {
+      "canonical_staged_sha256": "d0e5b6fa3525c1b3879895dc8fdbd316daed889b55398ac8cb86998aa6e9f551",
+      "only_line_endings_differ": true,
+      "working_sha256_before": "459e0f41bdbf9146b3bc89545315272b21a33181c5b2b8d41aeb8e8230612360"
+    }
+  },
+  "attempt": "Final staged publication check, attempt 1",
+  "checker_sha256": "1759f63e5a60a7005efe13ff0e24b005f34a4023b081f7191caf59dc044ab05e",
+  "error": "AssertionError: Staged bytes differ: README.md",
+  "repair": "Normalize only the two non-archived README working files to their already-staged LF content; preserve numerical sources, models, predictions, reports and both verified checkpoint archives unchanged.",
+  "status": "failed"
+}

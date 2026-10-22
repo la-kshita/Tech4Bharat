@@ -1,0 +1,8 @@
+TRAIN 24 1 0.29559151688147156
+TRAIN 24 6 0.29915468818729835
+TRAIN 24 11 0.2404051585389035
+TRAIN 24 16 0.22914802762014524
+TRAIN 24 21 0.23573014404447307
+TRAIN 24 24 0.277616693540698
+RESULT dev-f1-s4219-tiles_small108 0.05 {'TP': 76, 'FN': 6, 'FP': 24, 'TN': 532, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 13, 'total': 15}
+RESULT dev-f1-s4219-tiles_small108 0.08 {'TP': 77, 'FN': 5, 'FP': 32, 'TN': 524, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 13, 'total': 15}

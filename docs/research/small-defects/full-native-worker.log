@@ -1,0 +1,26 @@
+C:\Users\rehtr\Downloads\tech4bharat\components\.venv-p0\Lib\site-packages\timm\models\layers\__init__.py:49: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\rehtr\Downloads\tech4bharat\components\.venv-p0\Lib\site-packages\anomalib\models\image\dinomaly\components\layers.py:22: FutureWarning: The anomalib.models.components.dinov2 package is deprecated and will be removed in a future release. Please use the timm-based feature extractor instead: anomalib.models.components.feature_extractors.TimmFeatureExtractor
+  from anomalib.models.components.dinov2.layers import Attention, DropPath, LayerScale, MemEffAttention
+FULL NATIVE REPLAY 1 / 1914
+FULL NATIVE REPLAY 101 / 1914
+FULL NATIVE REPLAY 201 / 1914
+FULL NATIVE REPLAY 301 / 1914
+FULL NATIVE REPLAY 401 / 1914
+FULL NATIVE REPLAY 501 / 1914
+FULL NATIVE REPLAY 601 / 1914
+FULL NATIVE REPLAY 701 / 1914
+FULL NATIVE REPLAY 801 / 1914
+FULL NATIVE REPLAY 901 / 1914
+FULL NATIVE REPLAY 1001 / 1914
+FULL NATIVE REPLAY 1101 / 1914
+FULL NATIVE REPLAY 1201 / 1914
+FULL NATIVE REPLAY 1301 / 1914
+FULL NATIVE REPLAY 1401 / 1914
+FULL NATIVE REPLAY 1501 / 1914
+FULL NATIVE REPLAY 1601 / 1914
+FULL NATIVE REPLAY 1701 / 1914
+FULL NATIVE REPLAY 1801 / 1914
+FULL NATIVE REPLAY 1901 / 1914
+FULL NATIVE REPLAY 1914 / 1914
+FULL NATIVE REPLAY PASSED {'primary': 0.0, 'control': 0.0, 'repeat1000': 0.0, 'repeat2000': 0.0, 'legacy08': 0.0, 'legacy10': 0.0} {'primary': 0, 'control': 0, 'repeat1000': 0, 'repeat2000': 0, 'legacy08': 0, 'legacy10': 0}

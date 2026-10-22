@@ -1,0 +1,19 @@
+{
+  "cache": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-round1\\features",
+  "channels": 384,
+  "fine": false,
+  "focal": true,
+  "hard_negative_refinement": true,
+  "hidden": 32,
+  "image_objective": "fixed positive-oriented top 0.1 percent logit BCE",
+  "learned_classifier_used_for_training_or_inference": false,
+  "lighting": false,
+  "parent_recipe": {
+    "fusion": null,
+    "model": "focal",
+    "rule": "top_0.1_percent"
+  },
+  "seed": 4217,
+  "source_checkpoint_sha256": "180084ca4586143aa707d83a11232f130f917a612e7acd94a07776ba16c9c3fe",
+  "warm_alignment": true
+}

@@ -1,0 +1,5397 @@
+{
+  "calibration_scores": [
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10000.png",
+      "score": 0.45483053807457186
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10006.png",
+      "score": 0.013407156370667165
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10019.png",
+      "score": 0.0341798850909931
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10043.png",
+      "score": 0.04222053250530445
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10044.png",
+      "score": 0.15467300219567548
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10055.png",
+      "score": 0.06529129804772132
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10082.png",
+      "score": 0.025739019564813215
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10092.png",
+      "score": 0.028281296986159252
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10093.png",
+      "score": 0.03856046623116142
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10115.png",
+      "score": 0.046369537921941616
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10117.png",
+      "score": 0.006677722765943198
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10123.png",
+      "score": 0.04013598134253963
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10149.png",
+      "score": 0.010120189030926366
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10150.png",
+      "score": 0.03590714529680732
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10156.png",
+      "score": 0.03534331791787558
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10168.png",
+      "score": 0.1633926404430913
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10171.png",
+      "score": 0.02124883632871685
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10173.png",
+      "score": 0.05218934763470059
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10174.png",
+      "score": 0.018202378200555154
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10175.png",
+      "score": 0.20123692782068944
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10233.png",
+      "score": 0.1195126710941568
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10234.png",
+      "score": 0.023829253201978446
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10250.png",
+      "score": 0.037937272535503705
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10253.png",
+      "score": 0.010717440835058859
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10257.png",
+      "score": 0.02245922634671674
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10262.png",
+      "score": 0.03153616104692641
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10263.png",
+      "score": 0.10065083612032831
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10269.png",
+      "score": 0.026979150472847584
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10272.png",
+      "score": 0.019648072322245837
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10276.png",
+      "score": 0.01124648245265844
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10319.png",
+      "score": 0.0778611026729575
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10331.png",
+      "score": 0.009300198922072072
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10339.png",
+      "score": 0.02834917347825606
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10347.png",
+      "score": 0.017706853733460665
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10348.png",
+      "score": 0.010117191125321752
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10370.png",
+      "score": 0.03595980678615188
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10386.png",
+      "score": 0.051189838050945395
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10389.png",
+      "score": 0.0712968527610529
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10392.png",
+      "score": 0.008080372933317571
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10394.png",
+      "score": 0.011108335098555093
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10440.png",
+      "score": 0.08564497368529661
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10445.png",
+      "score": 0.07659567889074281
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10449.png",
+      "score": 0.010217460505908183
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10464.png",
+      "score": 0.005019774688760595
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10465.png",
+      "score": 0.14803394836942413
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10480.png",
+      "score": 0.3948430829498115
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10488.png",
+      "score": 0.04601092855224254
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10511.png",
+      "score": 0.006296703157419786
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10529.png",
+      "score": 0.013080231152289422
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10538.png",
+      "score": 0.011844589944154127
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10542.png",
+      "score": 0.05816315845523521
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10544.png",
+      "score": 0.07051612373864838
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10562.png",
+      "score": 0.018544823655788033
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10571.png",
+      "score": 0.009255169050823452
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10572.png",
+      "score": 0.01507033134586972
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10581.png",
+      "score": 0.0029631940976063732
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10587.png",
+      "score": 0.20260555616012602
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10597.png",
+      "score": 0.33108379983608666
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10598.png",
+      "score": 0.5847015544724026
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10604.png",
+      "score": 0.01853398465112263
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10610.png",
+      "score": 0.020164095994497328
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10641.png",
+      "score": 0.018302997692729875
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10646.png",
+      "score": 0.11817459708968314
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10650.png",
+      "score": 0.0068058112872663125
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10657.png",
+      "score": 0.04246468394579475
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10666.png",
+      "score": 0.15585165105437013
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10673.png",
+      "score": 0.052679184321822725
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10702.png",
+      "score": 0.012308048308229602
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10709.png",
+      "score": 0.16762646337610831
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10715.png",
+      "score": 0.05303493622420229
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10735.png",
+      "score": 0.17569932273862224
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10768.png",
+      "score": 0.06494934726850866
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10771.png",
+      "score": 0.027556916263335996
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10792.png",
+      "score": 0.012347008182757996
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10802.png",
+      "score": 0.024180319237822632
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10811.png",
+      "score": 0.06715674027773888
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10817.png",
+      "score": 0.10852704553421867
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10833.png",
+      "score": 0.5184422887050669
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10840.png",
+      "score": 0.052137460253137674
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10864.png",
+      "score": 0.050713058548587764
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10865.png",
+      "score": 0.03891589041022331
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10871.png",
+      "score": 0.07870853352739185
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10890.png",
+      "score": 0.007055236427871744
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10902.png",
+      "score": 0.037041506093260186
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10910.png",
+      "score": 0.5912870486735294
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10923.png",
+      "score": 0.26433661626628463
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10930.png",
+      "score": 0.36037117085289316
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10950.png",
+      "score": 0.0223961925380414
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10957.png",
+      "score": 0.22885847556131086
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10959.png",
+      "score": 0.009316695960983523
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10974.png",
+      "score": 0.01205259973955975
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10989.png",
+      "score": 0.20969546001101025
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11006.png",
+      "score": 0.013599839669791051
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11064.png",
+      "score": 0.032244916853117804
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11081.png",
+      "score": 0.007734125850942949
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11090.png",
+      "score": 0.030672483415735464
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11109.png",
+      "score": 0.028546034218634164
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11114.png",
+      "score": 0.09570701344228172
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11116.png",
+      "score": 0.15309320654840122
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11151.png",
+      "score": 0.023188430562624544
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11182.png",
+      "score": 0.021246258463725142
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11208.png",
+      "score": 0.05505960617353034
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11223.png",
+      "score": 0.03128713070945396
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11236.png",
+      "score": 0.017715753839071428
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11244.png",
+      "score": 0.17658532114657424
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11267.png",
+      "score": 0.002073103195132078
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11300.png",
+      "score": 0.011757450652934818
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11302.png",
+      "score": 0.05068659326635288
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11303.png",
+      "score": 0.014953967086893926
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11312.png",
+      "score": 0.2997577103768621
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11322.png",
+      "score": 0.006393966263074259
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11349.png",
+      "score": 0.016396976622126674
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11354.png",
+      "score": 0.0628445892387262
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11355.png",
+      "score": 0.024845054046220883
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11356.png",
+      "score": 0.21497806788671261
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11368.png",
+      "score": 0.4244869976940357
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11377.png",
+      "score": 0.05497870528815952
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11378.png",
+      "score": 0.016696806166487516
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11379.png",
+      "score": 0.019943195938726538
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11381.png",
+      "score": 0.00800375175032467
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11397.png",
+      "score": 0.046767929833477405
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11409.png",
+      "score": 0.2051204407722613
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11414.png",
+      "score": 0.11824575656291676
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11418.png",
+      "score": 0.9005948354698124
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11424.png",
+      "score": 0.26638226826853
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11480.png",
+      "score": 0.13453199732649515
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11491.png",
+      "score": 0.07911369634166829
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11502.png",
+      "score": 0.04230105552252905
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11503.png",
+      "score": 0.0816757266621092
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11504.png",
+      "score": 0.10533487133409743
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11508.png",
+      "score": 0.02590188064577252
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11509.png",
+      "score": 0.12157598969895513
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11516.png",
+      "score": 0.004269336865601857
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11517.png",
+      "score": 0.05468382079043315
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11520.png",
+      "score": 0.006320869709941908
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11525.png",
+      "score": 0.08666538808997447
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11541.png",
+      "score": 0.6055157215894859
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11545.png",
+      "score": 0.04217071720159654
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11570.png",
+      "score": 0.07164756042985866
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11571.png",
+      "score": 0.020850740399004548
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11586.png",
+      "score": 0.01026676897120232
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11594.png",
+      "score": 0.07951687772804451
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11595.png",
+      "score": 0.023270406570370727
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11597.png",
+      "score": 0.2214567220814759
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11605.png",
+      "score": 0.41834410469625344
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11608.png",
+      "score": 0.24136337729649202
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11621.png",
+      "score": 0.02198787484795826
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11623.png",
+      "score": 0.9372055215258596
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11636.png",
+      "score": 0.0162935553125276
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11637.png",
+      "score": 0.021702961581781376
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11659.png",
+      "score": 0.024354093565117155
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11675.png",
+      "score": 0.08903013421423746
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11685.png",
+      "score": 0.020112266317447544
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11686.png",
+      "score": 0.12592132262384725
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11692.png",
+      "score": 0.10117167420326496
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11723.png",
+      "score": 0.43067205973145706
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11759.png",
+      "score": 0.026324035725077632
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11771.png",
+      "score": 0.09443558558624776
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11783.png",
+      "score": 0.03265504079986857
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11786.png",
+      "score": 0.14623629737444138
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11801.png",
+      "score": 0.3534876005829411
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11806.png",
+      "score": 0.035944303522145775
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11814.png",
+      "score": 0.04404480563406327
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11827.png",
+      "score": 0.032338508006450876
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11828.png",
+      "score": 0.028939741777368373
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11847.png",
+      "score": 0.016661090157815667
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11869.png",
+      "score": 0.34651648418743025
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11883.png",
+      "score": 0.018899437209076015
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11891.png",
+      "score": 0.00463167663379295
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11904.png",
+      "score": 0.044264881766838016
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11922.png",
+      "score": 0.017071439955921478
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11932.png",
+      "score": 0.0105708285858312
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11949.png",
+      "score": 0.006841481413008843
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11983.png",
+      "score": 0.035810676206738355
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12001.png",
+      "score": 0.031859984803549936
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12033.png",
+      "score": 0.032604141044379656
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12057.png",
+      "score": 0.15332514692342827
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12074.png",
+      "score": 0.017931362570152515
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12086.png",
+      "score": 0.014220204116020594
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12088.png",
+      "score": 0.028611085463581154
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12099.png",
+      "score": 0.08971459214666816
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12104.png",
+      "score": 0.014045391355094453
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12106.png",
+      "score": 0.03875049181321142
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12139.png",
+      "score": 0.17805323990227748
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12154.png",
+      "score": 0.6272235996924891
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12156.png",
+      "score": 0.031195094301359787
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12166.png",
+      "score": 0.027408461170106604
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12171.png",
+      "score": 0.16554382046027374
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12175.png",
+      "score": 0.04285624141472932
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12178.png",
+      "score": 0.034658827273780654
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12202.png",
+      "score": 0.013687878466784468
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12208.png",
+      "score": 0.23729595142821425
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12215.png",
+      "score": 0.011737276712699092
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12219.png",
+      "score": 0.16016080580794137
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12243.png",
+      "score": 0.006971320779241307
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12247.png",
+      "score": 0.06357137669657693
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12280.png",
+      "score": 0.01463225563889408
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12290.png",
+      "score": 0.009708733744001793
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12298.png",
+      "score": 0.00976715446391097
+    },
+    {
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12302.png",
+      "score": 0.15212912265075523
+    }
+  ],
+  "fold": 0,
+  "members": [
+    {
+      "model_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\confirm-f0-s4220-longer108\\model.pt",
+      "model_sha256": "51e2fcf5d771d35f7aeec97d1cf61ac0add065b158512845bae17576009ef60f",
+      "record_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\confirm-f0-s4220-longer108\\alpha-0.05.json",
+      "record_sha256": "842d2faf1c0ab7b7eafc6f10935093b3eb44ffc71468ed1c6709f8d3eb7e1222"
+    },
+    {
+      "model_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4221\\confirm-f0-s4221-longer108\\model.pt",
+      "model_sha256": "365c62cb81b713b38c0d699f845b19babb8ca370b27109b9ec782c5de3f35b77",
+      "record_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4221\\confirm-f0-s4221-longer108\\alpha-0.05.json",
+      "record_sha256": "2fdfacc9c2782b5025fa0f17a24e4f22875eccf4c4c292e494b97f7d6266a0b6"
+    },
+    {
+      "model_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4222\\confirm-f0-s4222-longer108\\model.pt",
+      "model_sha256": "56c693fcae67774887a76dfd2aa497d1507ccd8598af8b30cf8a2aa13151aa5c",
+      "record_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4222\\confirm-f0-s4222-longer108\\alpha-0.05.json",
+      "record_sha256": "6cbabe3c0874aeab2c001d2ab2fe6582be247ac72150db3b6f2f87a7a2202369"
+    }
+  ],
+  "metrics": {
+    "accepted_normal_fpr": {
+      "denominator": 556,
+      "numerator": 34,
+      "rate": 0.06115107913669065,
+      "wilson_95": [
+        0.044087255520161614,
+        0.08423739369754397
+      ]
+    },
+    "anomaly_coverage": {
+      "denominator": 82,
+      "numerator": 82,
+      "rate": 1.0,
+      "wilson_95": [
+        0.9552493763098998,
+        1
+      ]
+    },
+    "counts": {
+      "FN": 4,
+      "FP": 34,
+      "TN": 522,
+      "TP": 78,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coverage": {
+      "denominator": 638,
+      "numerator": 638,
+      "rate": 1.0,
+      "wilson_95": [
+        0.9940149412788755,
+        1
+      ]
+    },
+    "false_flags_all_normals": {
+      "denominator": 556,
+      "numerator": 34,
+      "rate": 0.06115107913669065,
+      "wilson_95": [
+        0.044087255520161614,
+        0.08423739369754397
+      ]
+    },
+    "normal_coverage": {
+      "denominator": 556,
+      "numerator": 556,
+      "rate": 1.0,
+      "wilson_95": [
+        0.9931383094978601,
+        1
+      ]
+    },
+    "observed_prevalence": {
+      "denominator": 638,
+      "numerator": 82,
+      "rate": 0.12852664576802508,
+      "wilson_95": [
+        0.10476311655750042,
+        0.15673675465537273
+      ]
+    },
+    "precision": {
+      "denominator": 112,
+      "numerator": 78,
+      "rate": 0.6964285714285714,
+      "wilson_95": [
+        0.6059310267363951,
+        0.773898444058734
+      ]
+    },
+    "ranking_scored_only": {
+      "auroc": 0.9858527811896823,
+      "average_precision": 0.9514266822568417,
+      "n": 638,
+      "population": "scored subset only"
+    },
+    "recall": {
+      "denominator": 82,
+      "numerator": 78,
+      "rate": 0.9512195121951219,
+      "wilson_95": [
+        0.8811853807742406,
+        0.9808689344322542
+      ]
+    }
+  },
+  "predictions": [
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10003.png",
+      "label": 0,
+      "score": 0.29493196137999705,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10004.png",
+      "label": 0,
+      "score": 0.008505381901604247,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10010.png",
+      "label": 0,
+      "score": 0.10064912655164103,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10013.png",
+      "label": 0,
+      "score": 0.24750620981760765,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10014.png",
+      "label": 0,
+      "score": 0.003932146208100787,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10017.png",
+      "label": 0,
+      "score": 0.11572091711255005,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10018.png",
+      "label": 0,
+      "score": 0.04481846704565957,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10021.png",
+      "label": 1,
+      "score": 0.9999533056499786,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10022.png",
+      "label": 0,
+      "score": 0.023112293437143338,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10025.png",
+      "label": 0,
+      "score": 0.011251328293367398,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10033.png",
+      "label": 0,
+      "score": 0.08162972156900897,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10035.png",
+      "label": 0,
+      "score": 0.013484639476175722,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10036.png",
+      "label": 0,
+      "score": 0.051349193812010675,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10053.png",
+      "label": 0,
+      "score": 0.007983099748739281,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10057.png",
+      "label": 1,
+      "score": 0.9998863426536383,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10064.png",
+      "label": 0,
+      "score": 0.17578571162429135,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10068.png",
+      "label": 0,
+      "score": 0.07975069750640194,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10072.png",
+      "label": 0,
+      "score": 0.012515415724814698,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10073.png",
+      "label": 0,
+      "score": 0.2953792926743574,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10078.png",
+      "label": 0,
+      "score": 0.06059670688835248,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10079.png",
+      "label": 0,
+      "score": 0.009077799670074426,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10080.png",
+      "label": 0,
+      "score": 0.05774660457784605,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10094.png",
+      "label": 0,
+      "score": 0.012246455896318051,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10096.png",
+      "label": 0,
+      "score": 0.041322818748613106,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10097.png",
+      "label": 0,
+      "score": 0.024289496883638396,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10098.png",
+      "label": 0,
+      "score": 0.02914506549008541,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10103.png",
+      "label": 0,
+      "score": 0.04556434521412652,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10105.png",
+      "label": 0,
+      "score": 0.18044779563054028,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10108.png",
+      "label": 0,
+      "score": 0.030470301777737446,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10112.png",
+      "label": 0,
+      "score": 0.017196472538714546,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10113.png",
+      "label": 0,
+      "score": 0.005753523419293961,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10114.png",
+      "label": 0,
+      "score": 0.18400806623778987,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10116.png",
+      "label": 0,
+      "score": 0.2014377407967439,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10122.png",
+      "label": 0,
+      "score": 0.029758738107238617,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10124.png",
+      "label": 0,
+      "score": 0.031180648010739886,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10125.png",
+      "label": 0,
+      "score": 0.007753548416950233,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10130.png",
+      "label": 0,
+      "score": 0.011015798819812501,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10131.png",
+      "label": 0,
+      "score": 0.08510823280698793,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10132.png",
+      "label": 0,
+      "score": 0.04514150098418093,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10133.png",
+      "label": 0,
+      "score": 0.3181130253232723,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10134.png",
+      "label": 0,
+      "score": 0.013701958121272013,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10139.png",
+      "label": 0,
+      "score": 0.03655106184337304,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10141.png",
+      "label": 0,
+      "score": 0.015266732237783678,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10155.png",
+      "label": 0,
+      "score": 0.005203582174217018,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10157.png",
+      "label": 1,
+      "score": 0.9999685306424052,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10159.png",
+      "label": 1,
+      "score": 0.9975310765758456,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10160.png",
+      "label": 0,
+      "score": 0.013734701823973383,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10162.png",
+      "label": 0,
+      "score": 0.017823186180033947,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10165.png",
+      "label": 0,
+      "score": 0.018558699955995274,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10179.png",
+      "label": 0,
+      "score": 0.08673222516242092,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10180.png",
+      "label": 0,
+      "score": 0.01664717658617507,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10181.png",
+      "label": 0,
+      "score": 0.11271008231256481,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10182.png",
+      "label": 0,
+      "score": 0.05740973721934911,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10183.png",
+      "label": 0,
+      "score": 0.22036940538377184,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10185.png",
+      "label": 0,
+      "score": 0.07843343308201901,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10186.png",
+      "label": 0,
+      "score": 0.026291752422262976,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10188.png",
+      "label": 0,
+      "score": 0.0540033362959636,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10189.png",
+      "label": 0,
+      "score": 0.03519974339234508,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10192.png",
+      "label": 0,
+      "score": 0.018120619929696356,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10197.png",
+      "label": 0,
+      "score": 0.0305330924139218,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10202.png",
+      "label": 0,
+      "score": 0.04271140324542267,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10206.png",
+      "label": 1,
+      "score": 0.9873732312291175,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10208.png",
+      "label": 1,
+      "score": 0.9999973209528171,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10218.png",
+      "label": 0,
+      "score": 0.03727135517841438,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10220.png",
+      "label": 0,
+      "score": 0.02086457300456568,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10222.png",
+      "label": 0,
+      "score": 0.007027066596420557,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10224.png",
+      "label": 0,
+      "score": 0.29692822398074054,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10226.png",
+      "label": 0,
+      "score": 0.024049468614103443,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10228.png",
+      "label": 0,
+      "score": 0.21705001817264935,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10229.png",
+      "label": 0,
+      "score": 0.06487852592643382,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10238.png",
+      "label": 0,
+      "score": 0.028978420419743998,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10243.png",
+      "label": 0,
+      "score": 0.010459265254093771,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10252.png",
+      "label": 0,
+      "score": 0.03576605899239582,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10255.png",
+      "label": 0,
+      "score": 0.016745212610260993,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10264.png",
+      "label": 0,
+      "score": 0.08700369719177821,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10277.png",
+      "label": 0,
+      "score": 0.0824785251427833,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10278.png",
+      "label": 0,
+      "score": 0.12074927977631152,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10279.png",
+      "label": 0,
+      "score": 0.32388223877159883,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10281.png",
+      "label": 1,
+      "score": 0.9998710499711052,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10283.png",
+      "label": 0,
+      "score": 0.17488778418213766,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10285.png",
+      "label": 0,
+      "score": 0.10682973346689606,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10295.png",
+      "label": 0,
+      "score": 0.04133336714944096,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10297.png",
+      "label": 0,
+      "score": 0.3646278291057621,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10298.png",
+      "label": 0,
+      "score": 0.0695595009945721,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10309.png",
+      "label": 1,
+      "score": 0.9999919580449942,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10312.png",
+      "label": 1,
+      "score": 0.9999079647249483,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10313.png",
+      "label": 0,
+      "score": 0.05466906400879055,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10317.png",
+      "label": 0,
+      "score": 0.012401950012270402,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10323.png",
+      "label": 0,
+      "score": 0.021189416015201624,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10333.png",
+      "label": 0,
+      "score": 0.11076587184307933,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10335.png",
+      "label": 1,
+      "score": 0.993729117485911,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10337.png",
+      "label": 1,
+      "score": 0.9999673327154665,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10338.png",
+      "label": 0,
+      "score": 0.009591207872072604,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10340.png",
+      "label": 0,
+      "score": 0.16835554412757234,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10351.png",
+      "label": 0,
+      "score": 0.3780609494053498,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10353.png",
+      "label": 0,
+      "score": 0.12711224467531376,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10354.png",
+      "label": 1,
+      "score": 0.8943115658139477,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10356.png",
+      "label": 0,
+      "score": 0.015908377001678253,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10364.png",
+      "label": 0,
+      "score": 0.024812629233005788,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10366.png",
+      "label": 0,
+      "score": 0.0625275363715308,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10369.png",
+      "label": 0,
+      "score": 0.4161242391334194,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10371.png",
+      "label": 0,
+      "score": 0.03977251391396331,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10373.png",
+      "label": 0,
+      "score": 0.39260681258483404,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10376.png",
+      "label": 0,
+      "score": 0.02651489564755107,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10377.png",
+      "label": 0,
+      "score": 0.02728479832251858,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10378.png",
+      "label": 0,
+      "score": 0.012462467419468382,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10379.png",
+      "label": 0,
+      "score": 0.022010369180340494,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10387.png",
+      "label": 0,
+      "score": 0.013267744038278661,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10390.png",
+      "label": 0,
+      "score": 0.012484845992098302,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10393.png",
+      "label": 0,
+      "score": 0.03174343625613386,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10395.png",
+      "label": 0,
+      "score": 0.05434226314968373,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10401.png",
+      "label": 1,
+      "score": 0.9973681761447063,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10402.png",
+      "label": 1,
+      "score": 0.9994325984729722,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10403.png",
+      "label": 1,
+      "score": 0.3990534372400356,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10404.png",
+      "label": 0,
+      "score": 0.021119397139878187,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10415.png",
+      "label": 0,
+      "score": 0.06948844636544692,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10420.png",
+      "label": 0,
+      "score": 0.11375687504953619,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10423.png",
+      "label": 1,
+      "score": 0.9999803968726878,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10427.png",
+      "label": 0,
+      "score": 0.025841747918117983,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10428.png",
+      "label": 0,
+      "score": 0.005818585129661911,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10429.png",
+      "label": 0,
+      "score": 0.193939900137541,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10430.png",
+      "label": 0,
+      "score": 0.006296431117987906,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10455.png",
+      "label": 0,
+      "score": 0.0048405554142329915,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10456.png",
+      "label": 0,
+      "score": 0.012619658844198153,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10466.png",
+      "label": 1,
+      "score": 0.9999955941577506,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10471.png",
+      "label": 0,
+      "score": 0.01188883221328639,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10475.png",
+      "label": 0,
+      "score": 0.006040553293140561,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10478.png",
+      "label": 1,
+      "score": 0.9999818821617502,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10479.png",
+      "label": 0,
+      "score": 0.3747559638555163,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10484.png",
+      "label": 0,
+      "score": 0.3916654242115239,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10498.png",
+      "label": 0,
+      "score": 0.14256887688567568,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10499.png",
+      "label": 1,
+      "score": 0.9995060792929173,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10502.png",
+      "label": 1,
+      "score": 0.7950336786101088,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10504.png",
+      "label": 0,
+      "score": 0.07251480553920409,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10505.png",
+      "label": 0,
+      "score": 0.15374731968343536,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10518.png",
+      "label": 0,
+      "score": 0.19044944551438872,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10520.png",
+      "label": 0,
+      "score": 0.12799440726263955,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10521.png",
+      "label": 0,
+      "score": 0.1045182680650255,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10522.png",
+      "label": 0,
+      "score": 0.016794861685369537,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10525.png",
+      "label": 0,
+      "score": 0.09420424165645513,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10534.png",
+      "label": 0,
+      "score": 0.05406026703595093,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10537.png",
+      "label": 0,
+      "score": 0.06833995966364241,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10547.png",
+      "label": 0,
+      "score": 0.03791119494115865,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10554.png",
+      "label": 1,
+      "score": 0.9650194664402795,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10556.png",
+      "label": 0,
+      "score": 0.03119163805951714,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10558.png",
+      "label": 0,
+      "score": 0.005116839868067575,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10564.png",
+      "label": 0,
+      "score": 0.041422074518606314,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10568.png",
+      "label": 0,
+      "score": 0.04105905895436516,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10574.png",
+      "label": 1,
+      "score": 0.7376834782067392,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10579.png",
+      "label": 0,
+      "score": 0.025905350392996702,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10580.png",
+      "label": 0,
+      "score": 0.05196015170831395,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10582.png",
+      "label": 0,
+      "score": 0.05343608693765664,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10583.png",
+      "label": 1,
+      "score": 0.9453754714944868,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10590.png",
+      "label": 0,
+      "score": 0.2145252005238456,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10591.png",
+      "label": 0,
+      "score": 0.1791692791980267,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10594.png",
+      "label": 0,
+      "score": 0.06294919380851317,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10596.png",
+      "label": 0,
+      "score": 0.006868400595785157,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10603.png",
+      "label": 0,
+      "score": 0.06854723079419188,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10608.png",
+      "label": 0,
+      "score": 0.18125962304456286,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10611.png",
+      "label": 0,
+      "score": 0.021147202535763836,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10615.png",
+      "label": 0,
+      "score": 0.006216963340910382,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10623.png",
+      "label": 0,
+      "score": 0.01449057412712118,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10625.png",
+      "label": 0,
+      "score": 0.006526158826207489,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10627.png",
+      "label": 0,
+      "score": 0.013347163008453544,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10629.png",
+      "label": 0,
+      "score": 0.02762225003359683,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10632.png",
+      "label": 0,
+      "score": 0.00799337378758314,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10637.png",
+      "label": 1,
+      "score": 0.9999595334846815,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10639.png",
+      "label": 0,
+      "score": 0.17553434663547143,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10640.png",
+      "label": 0,
+      "score": 0.1562556041713936,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10645.png",
+      "label": 0,
+      "score": 0.06627250613858612,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10647.png",
+      "label": 1,
+      "score": 0.9986508353735113,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10652.png",
+      "label": 0,
+      "score": 0.007420785908363945,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10653.png",
+      "label": 0,
+      "score": 0.2688600155653587,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10661.png",
+      "label": 1,
+      "score": 0.9998833170965972,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10662.png",
+      "label": 0,
+      "score": 0.28523216669376894,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10675.png",
+      "label": 0,
+      "score": 0.15938722515215725,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10680.png",
+      "label": 0,
+      "score": 0.012676272563216425,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10683.png",
+      "label": 0,
+      "score": 0.07887966497622811,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10686.png",
+      "label": 0,
+      "score": 0.05261807014636932,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10688.png",
+      "label": 0,
+      "score": 0.08349766019765285,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10689.png",
+      "label": 0,
+      "score": 0.02465366278932178,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10698.png",
+      "label": 0,
+      "score": 0.00889272112058242,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10700.png",
+      "label": 0,
+      "score": 0.10985584821002099,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10704.png",
+      "label": 0,
+      "score": 0.044460887451272656,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10706.png",
+      "label": 0,
+      "score": 0.04030646747049579,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10712.png",
+      "label": 1,
+      "score": 0.9999715871579532,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10713.png",
+      "label": 0,
+      "score": 0.008480208673757312,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10716.png",
+      "label": 0,
+      "score": 0.05174269996177185,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10720.png",
+      "label": 0,
+      "score": 0.033544926322361966,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10721.png",
+      "label": 0,
+      "score": 0.027806421610367272,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10727.png",
+      "label": 1,
+      "score": 0.15619660640782437,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10730.png",
+      "label": 0,
+      "score": 0.037042310437918155,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10731.png",
+      "label": 0,
+      "score": 0.06182186215047896,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10732.png",
+      "label": 0,
+      "score": 0.03024564858800711,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10742.png",
+      "label": 0,
+      "score": 0.021829658006865208,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10743.png",
+      "label": 1,
+      "score": 0.9998314734092726,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10746.png",
+      "label": 0,
+      "score": 0.07534774912044327,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10751.png",
+      "label": 0,
+      "score": 0.021104301819459877,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10758.png",
+      "label": 0,
+      "score": 0.03915812047270627,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10761.png",
+      "label": 0,
+      "score": 0.03228379442880105,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10772.png",
+      "label": 0,
+      "score": 0.01748806668378859,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10773.png",
+      "label": 0,
+      "score": 0.03542604351300261,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10774.png",
+      "label": 1,
+      "score": 0.6324337287498634,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10777.png",
+      "label": 0,
+      "score": 0.010625501707103227,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10781.png",
+      "label": 0,
+      "score": 0.01725302476994808,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10785.png",
+      "label": 0,
+      "score": 0.006609645984209408,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10790.png",
+      "label": 0,
+      "score": 0.02127681376913067,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10791.png",
+      "label": 0,
+      "score": 0.012748865445771815,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10798.png",
+      "label": 0,
+      "score": 0.008257435924159411,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10800.png",
+      "label": 0,
+      "score": 0.036726494933584666,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10803.png",
+      "label": 0,
+      "score": 0.017093987907764008,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10804.png",
+      "label": 0,
+      "score": 0.02301965852228212,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10806.png",
+      "label": 0,
+      "score": 0.011863142499133499,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10808.png",
+      "label": 1,
+      "score": 0.5036771053730608,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10821.png",
+      "label": 1,
+      "score": 0.9995713445553561,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10827.png",
+      "label": 0,
+      "score": 0.07272641364638038,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10836.png",
+      "label": 0,
+      "score": 0.011244155450134801,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10839.png",
+      "label": 0,
+      "score": 0.01105234583483919,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10841.png",
+      "label": 0,
+      "score": 0.238999459880097,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10842.png",
+      "label": 0,
+      "score": 0.011280369488907939,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10843.png",
+      "label": 0,
+      "score": 0.0407865479589971,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10848.png",
+      "label": 0,
+      "score": 0.10015077853886101,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10849.png",
+      "label": 1,
+      "score": 0.9999756525424393,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10850.png",
+      "label": 0,
+      "score": 0.009891952703158515,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10854.png",
+      "label": 0,
+      "score": 0.012069705485437308,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10858.png",
+      "label": 0,
+      "score": 0.04681466788488172,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10859.png",
+      "label": 0,
+      "score": 0.03487490216998298,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10863.png",
+      "label": 0,
+      "score": 0.21365623698427003,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10867.png",
+      "label": 0,
+      "score": 0.008394719516966959,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10868.png",
+      "label": 0,
+      "score": 0.1409329985030506,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10870.png",
+      "label": 0,
+      "score": 0.8791160449880763,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10872.png",
+      "label": 0,
+      "score": 0.02287436737234816,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10878.png",
+      "label": 0,
+      "score": 0.15381149738791286,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10880.png",
+      "label": 0,
+      "score": 0.0716354606391331,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10884.png",
+      "label": 0,
+      "score": 0.033872092760745556,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10887.png",
+      "label": 0,
+      "score": 0.007343844824976822,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10889.png",
+      "label": 0,
+      "score": 0.0657884980355959,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10893.png",
+      "label": 1,
+      "score": 0.9999604998265604,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10894.png",
+      "label": 0,
+      "score": 0.01810436635052832,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10896.png",
+      "label": 0,
+      "score": 0.007060583562308066,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10897.png",
+      "label": 0,
+      "score": 0.006928893913984165,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10898.png",
+      "label": 0,
+      "score": 0.059035129915157976,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10900.png",
+      "label": 1,
+      "score": 0.934677551733599,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10903.png",
+      "label": 0,
+      "score": 0.01629401228020188,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10906.png",
+      "label": 0,
+      "score": 0.16631356379951068,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10907.png",
+      "label": 1,
+      "score": 0.99820602593739,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10908.png",
+      "label": 0,
+      "score": 0.021395954549347784,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10909.png",
+      "label": 0,
+      "score": 0.2554959473767991,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10914.png",
+      "label": 0,
+      "score": 0.06701721110137278,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10922.png",
+      "label": 0,
+      "score": 0.005280906339880144,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10925.png",
+      "label": 0,
+      "score": 0.024777880009982062,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10929.png",
+      "label": 0,
+      "score": 0.011218716512631129,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10936.png",
+      "label": 0,
+      "score": 0.04976996051059399,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10938.png",
+      "label": 0,
+      "score": 0.1384603750082445,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10943.png",
+      "label": 0,
+      "score": 0.11911226308964584,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10946.png",
+      "label": 0,
+      "score": 0.1391369128945802,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10948.png",
+      "label": 0,
+      "score": 0.04107408706909304,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10953.png",
+      "label": 0,
+      "score": 0.6315550672067725,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10954.png",
+      "label": 0,
+      "score": 0.043658411915108504,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10955.png",
+      "label": 0,
+      "score": 0.029549074923014715,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10956.png",
+      "label": 0,
+      "score": 0.04839499954737723,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10964.png",
+      "label": 0,
+      "score": 0.0094916980937464,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10976.png",
+      "label": 0,
+      "score": 0.03663841180515122,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10980.png",
+      "label": 0,
+      "score": 0.027379887443276185,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10986.png",
+      "label": 0,
+      "score": 0.025123276794709336,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10990.png",
+      "label": 0,
+      "score": 0.0940560332239424,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10992.png",
+      "label": 0,
+      "score": 0.002990952845555611,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10995.png",
+      "label": 0,
+      "score": 0.002996864491466272,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10996.png",
+      "label": 0,
+      "score": 0.24124429849716614,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11002.png",
+      "label": 1,
+      "score": 0.9999898569114704,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11007.png",
+      "label": 0,
+      "score": 0.00817899764929197,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11013.png",
+      "label": 0,
+      "score": 0.10636764819003412,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11017.png",
+      "label": 0,
+      "score": 0.12780331889378518,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11021.png",
+      "label": 0,
+      "score": 0.07885138772486162,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11024.png",
+      "label": 0,
+      "score": 0.12633582233514573,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11027.png",
+      "label": 0,
+      "score": 0.08465869766323973,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11030.png",
+      "label": 0,
+      "score": 0.6584644762232329,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11031.png",
+      "label": 0,
+      "score": 0.021898709017037457,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11032.png",
+      "label": 0,
+      "score": 0.03028263024586639,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11033.png",
+      "label": 0,
+      "score": 0.0345264411362386,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11036.png",
+      "label": 0,
+      "score": 0.010979911141634907,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11043.png",
+      "label": 0,
+      "score": 0.012924741090077617,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11050.png",
+      "label": 0,
+      "score": 0.5632423185952949,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11054.png",
+      "label": 0,
+      "score": 0.01109626985043762,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11055.png",
+      "label": 0,
+      "score": 0.05535377422190487,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11056.png",
+      "label": 0,
+      "score": 0.06185340092294942,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11067.png",
+      "label": 0,
+      "score": 0.026690470592158677,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11069.png",
+      "label": 0,
+      "score": 0.03469495246300408,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11086.png",
+      "label": 0,
+      "score": 0.03266204403818055,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11087.png",
+      "label": 0,
+      "score": 0.032775629578280736,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11098.png",
+      "label": 0,
+      "score": 0.03596379090285199,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11101.png",
+      "label": 1,
+      "score": 0.9999653813164628,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11103.png",
+      "label": 0,
+      "score": 0.033774069553923536,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11106.png",
+      "label": 0,
+      "score": 0.0787079215586564,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11107.png",
+      "label": 0,
+      "score": 0.024094103312071166,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11111.png",
+      "label": 0,
+      "score": 0.0998534475867245,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11113.png",
+      "label": 0,
+      "score": 0.11013727603228042,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11126.png",
+      "label": 0,
+      "score": 0.012212528390453933,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11129.png",
+      "label": 0,
+      "score": 0.3912731020537709,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11137.png",
+      "label": 0,
+      "score": 0.015210756687135923,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11138.png",
+      "label": 0,
+      "score": 0.1940892090441894,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11140.png",
+      "label": 0,
+      "score": 0.03359245458090781,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11152.png",
+      "label": 0,
+      "score": 0.047475396330537205,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11157.png",
+      "label": 0,
+      "score": 0.05032080100355971,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11161.png",
+      "label": 0,
+      "score": 0.05074032686884954,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11162.png",
+      "label": 0,
+      "score": 0.0552107543823468,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11170.png",
+      "label": 0,
+      "score": 0.039661229877805765,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11171.png",
+      "label": 0,
+      "score": 0.2937534041476734,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11176.png",
+      "label": 0,
+      "score": 0.0554205763345381,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11178.png",
+      "label": 1,
+      "score": 0.9538781319221542,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11179.png",
+      "label": 0,
+      "score": 0.1577144644939108,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11180.png",
+      "label": 0,
+      "score": 0.1166999239032246,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11181.png",
+      "label": 0,
+      "score": 0.2448193346806982,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11185.png",
+      "label": 0,
+      "score": 0.506258618826654,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11187.png",
+      "label": 1,
+      "score": 0.9991990170708912,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11195.png",
+      "label": 1,
+      "score": 0.4759404969851235,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11196.png",
+      "label": 0,
+      "score": 0.03032684544140346,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11197.png",
+      "label": 0,
+      "score": 0.35959443599053936,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11204.png",
+      "label": 0,
+      "score": 0.026748167117662317,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11210.png",
+      "label": 0,
+      "score": 0.08459195392612705,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11211.png",
+      "label": 0,
+      "score": 0.031093538525033423,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11214.png",
+      "label": 1,
+      "score": 0.9999569444270642,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11218.png",
+      "label": 0,
+      "score": 0.25292946350307016,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11220.png",
+      "label": 0,
+      "score": 0.01773506740631792,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11224.png",
+      "label": 0,
+      "score": 0.03307403963036782,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11227.png",
+      "label": 0,
+      "score": 0.009362437837712893,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11231.png",
+      "label": 0,
+      "score": 0.10113797431091892,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11235.png",
+      "label": 0,
+      "score": 0.053997612774659344,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11239.png",
+      "label": 0,
+      "score": 0.007113884990493888,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11241.png",
+      "label": 0,
+      "score": 0.02423881607349788,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11243.png",
+      "label": 0,
+      "score": 0.04281542221632876,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11247.png",
+      "label": 0,
+      "score": 0.022461617367629427,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11250.png",
+      "label": 1,
+      "score": 0.9999935948989193,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11253.png",
+      "label": 0,
+      "score": 0.34687312921048,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11256.png",
+      "label": 0,
+      "score": 0.028609503222658688,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11260.png",
+      "label": 0,
+      "score": 0.8028554002698659,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11261.png",
+      "label": 0,
+      "score": 0.09931267756745389,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11265.png",
+      "label": 0,
+      "score": 0.0142787380580977,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11268.png",
+      "label": 0,
+      "score": 0.043697162865223245,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11269.png",
+      "label": 1,
+      "score": 0.6265708956978155,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11271.png",
+      "label": 0,
+      "score": 0.09775650585327883,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11272.png",
+      "label": 0,
+      "score": 0.012883792869213975,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11273.png",
+      "label": 0,
+      "score": 0.007773200111352138,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11278.png",
+      "label": 0,
+      "score": 0.19223197242791212,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11282.png",
+      "label": 1,
+      "score": 0.9988143093023943,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11283.png",
+      "label": 0,
+      "score": 0.013150051837357407,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11285.png",
+      "label": 0,
+      "score": 0.1727061675182916,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11287.png",
+      "label": 0,
+      "score": 0.011443152785784158,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11289.png",
+      "label": 0,
+      "score": 0.03753103180500724,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11290.png",
+      "label": 0,
+      "score": 0.20736242651806588,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11291.png",
+      "label": 0,
+      "score": 0.02526492769411127,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11295.png",
+      "label": 0,
+      "score": 0.011420281666848034,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11305.png",
+      "label": 0,
+      "score": 0.09586237813393617,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11306.png",
+      "label": 0,
+      "score": 0.11799239231336656,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11309.png",
+      "label": 0,
+      "score": 0.010622439484586231,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11310.png",
+      "label": 0,
+      "score": 0.005380600945649224,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11319.png",
+      "label": 0,
+      "score": 0.06320156668233777,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11320.png",
+      "label": 0,
+      "score": 0.010959519172966168,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11330.png",
+      "label": 0,
+      "score": 0.19359483944909428,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11334.png",
+      "label": 0,
+      "score": 0.16525508474473788,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11335.png",
+      "label": 0,
+      "score": 0.505381280047888,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11336.png",
+      "label": 0,
+      "score": 0.05234986451333024,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11343.png",
+      "label": 0,
+      "score": 0.9731228277364276,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11346.png",
+      "label": 0,
+      "score": 0.16467328647794943,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11347.png",
+      "label": 0,
+      "score": 0.031074158805165078,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11351.png",
+      "label": 1,
+      "score": 0.9920941766664152,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11357.png",
+      "label": 0,
+      "score": 0.07761630203330118,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11359.png",
+      "label": 0,
+      "score": 0.05734521490640687,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11360.png",
+      "label": 1,
+      "score": 0.9996335189000901,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11361.png",
+      "label": 0,
+      "score": 0.03444627665303232,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11364.png",
+      "label": 1,
+      "score": 0.9945045149289333,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11365.png",
+      "label": 0,
+      "score": 0.012834705325242507,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11372.png",
+      "label": 0,
+      "score": 0.030137237043788335,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11383.png",
+      "label": 0,
+      "score": 0.005995056593275666,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11389.png",
+      "label": 0,
+      "score": 0.021288799932065533,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11393.png",
+      "label": 0,
+      "score": 0.07653986924913646,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11400.png",
+      "label": 0,
+      "score": 0.013242185733528705,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11407.png",
+      "label": 0,
+      "score": 0.025908263511380068,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11411.png",
+      "label": 0,
+      "score": 0.042767318580425616,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11416.png",
+      "label": 0,
+      "score": 0.11831511341715335,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11417.png",
+      "label": 1,
+      "score": 0.15077654965908824,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11427.png",
+      "label": 0,
+      "score": 0.2851163309843789,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11428.png",
+      "label": 0,
+      "score": 0.06100956531753863,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11430.png",
+      "label": 1,
+      "score": 0.9998648309504129,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11432.png",
+      "label": 1,
+      "score": 0.9999956255220258,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11433.png",
+      "label": 0,
+      "score": 0.21439592613081068,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11434.png",
+      "label": 0,
+      "score": 0.025716958050348085,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11439.png",
+      "label": 0,
+      "score": 0.5758371361033543,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11442.png",
+      "label": 0,
+      "score": 0.3060362764290508,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11443.png",
+      "label": 0,
+      "score": 0.3256266124069435,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11445.png",
+      "label": 0,
+      "score": 0.08898060641780696,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11449.png",
+      "label": 0,
+      "score": 0.021105058311864867,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11451.png",
+      "label": 0,
+      "score": 0.05395240711285093,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11453.png",
+      "label": 0,
+      "score": 0.13352861083298495,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11455.png",
+      "label": 0,
+      "score": 0.011509573318627309,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11456.png",
+      "label": 0,
+      "score": 0.024440827333364903,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11461.png",
+      "label": 0,
+      "score": 0.035763587142465546,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11462.png",
+      "label": 0,
+      "score": 0.2526860025174152,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11466.png",
+      "label": 0,
+      "score": 0.03254071781210725,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11467.png",
+      "label": 0,
+      "score": 0.03281082160979581,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11469.png",
+      "label": 0,
+      "score": 0.03232339863557324,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11474.png",
+      "label": 0,
+      "score": 0.19465473857828983,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11475.png",
+      "label": 0,
+      "score": 0.26127506662602984,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11476.png",
+      "label": 0,
+      "score": 0.037490225335298076,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11477.png",
+      "label": 1,
+      "score": 0.9998500119458732,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11478.png",
+      "label": 0,
+      "score": 0.05021006661328278,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11482.png",
+      "label": 1,
+      "score": 0.9193951574411309,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11488.png",
+      "label": 0,
+      "score": 0.07219510862934046,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11490.png",
+      "label": 0,
+      "score": 0.04830313418336873,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11494.png",
+      "label": 0,
+      "score": 0.3338597511283212,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11496.png",
+      "label": 0,
+      "score": 0.09971911984855268,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11497.png",
+      "label": 0,
+      "score": 0.007616242304072908,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11498.png",
+      "label": 0,
+      "score": 0.018524196585184623,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11500.png",
+      "label": 1,
+      "score": 0.9999964698985518,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11507.png",
+      "label": 0,
+      "score": 0.026582704693984133,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11510.png",
+      "label": 0,
+      "score": 0.005406772993744605,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11513.png",
+      "label": 0,
+      "score": 0.015250635586871042,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11521.png",
+      "label": 0,
+      "score": 0.5484136207342792,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11522.png",
+      "label": 0,
+      "score": 0.21931909668414115,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11530.png",
+      "label": 0,
+      "score": 0.01591732961349712,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11543.png",
+      "label": 1,
+      "score": 0.995491219961238,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11544.png",
+      "label": 0,
+      "score": 0.1282533570301657,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11547.png",
+      "label": 0,
+      "score": 0.008569096623819715,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11548.png",
+      "label": 0,
+      "score": 0.011018421483216606,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11549.png",
+      "label": 1,
+      "score": 0.9991767012892336,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11550.png",
+      "label": 0,
+      "score": 0.05795691100114877,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11558.png",
+      "label": 0,
+      "score": 0.3120701335058128,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11559.png",
+      "label": 0,
+      "score": 0.06910190814068888,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11564.png",
+      "label": 0,
+      "score": 0.008146233985464189,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11568.png",
+      "label": 1,
+      "score": 0.05312631667432227,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11569.png",
+      "label": 0,
+      "score": 0.08555182615346657,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11574.png",
+      "label": 1,
+      "score": 0.9999287249531411,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11575.png",
+      "label": 0,
+      "score": 0.022953958684920662,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11577.png",
+      "label": 0,
+      "score": 0.07424054182802944,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11579.png",
+      "label": 0,
+      "score": 0.017783638417068485,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11584.png",
+      "label": 1,
+      "score": 0.9997427104676936,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11585.png",
+      "label": 1,
+      "score": 0.9997451913305883,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11589.png",
+      "label": 0,
+      "score": 0.013783162356701267,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11590.png",
+      "label": 1,
+      "score": 0.9998863967952051,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11591.png",
+      "label": 0,
+      "score": 0.009629343538038841,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11592.png",
+      "label": 0,
+      "score": 0.7791948160109854,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11598.png",
+      "label": 0,
+      "score": 0.1603857473704263,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11599.png",
+      "label": 0,
+      "score": 0.012606281226748792,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11600.png",
+      "label": 0,
+      "score": 0.024196083439079637,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11604.png",
+      "label": 0,
+      "score": 0.13215519046437105,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11606.png",
+      "label": 0,
+      "score": 0.04295735601806209,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11610.png",
+      "label": 0,
+      "score": 0.042104533132134615,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11617.png",
+      "label": 0,
+      "score": 0.0172495801210187,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11619.png",
+      "label": 0,
+      "score": 0.07171924671163864,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11631.png",
+      "label": 0,
+      "score": 0.0036955672393644344,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11633.png",
+      "label": 0,
+      "score": 0.05294648758420447,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11635.png",
+      "label": 0,
+      "score": 0.11379688271039752,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11641.png",
+      "label": 1,
+      "score": 0.9681409440303345,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11643.png",
+      "label": 1,
+      "score": 0.985176947626651,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11645.png",
+      "label": 0,
+      "score": 0.022126984824553067,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11648.png",
+      "label": 0,
+      "score": 0.4917067658670082,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11649.png",
+      "label": 0,
+      "score": 0.032249961953656,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11656.png",
+      "label": 0,
+      "score": 0.01789718340280347,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11658.png",
+      "label": 1,
+      "score": 0.49973658291772177,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11663.png",
+      "label": 0,
+      "score": 0.0157106997668515,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11667.png",
+      "label": 0,
+      "score": 0.026286498122111934,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11674.png",
+      "label": 0,
+      "score": 0.007150522957001255,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11678.png",
+      "label": 0,
+      "score": 0.2758663312129248,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11681.png",
+      "label": 0,
+      "score": 0.013503181415627405,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11688.png",
+      "label": 0,
+      "score": 0.028180627262009164,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11695.png",
+      "label": 1,
+      "score": 0.9073243254866412,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11697.png",
+      "label": 0,
+      "score": 0.16297144893515342,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11701.png",
+      "label": 0,
+      "score": 0.0427337986339835,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11706.png",
+      "label": 0,
+      "score": 0.15286893153211056,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11708.png",
+      "label": 0,
+      "score": 0.01516385713681677,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11716.png",
+      "label": 0,
+      "score": 0.046321840382186646,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11717.png",
+      "label": 0,
+      "score": 0.06387480173497735,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11720.png",
+      "label": 0,
+      "score": 0.06922713213887131,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11722.png",
+      "label": 0,
+      "score": 0.03017665280712943,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11724.png",
+      "label": 0,
+      "score": 0.044761510571522646,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11725.png",
+      "label": 0,
+      "score": 0.0185783003465472,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11726.png",
+      "label": 0,
+      "score": 0.050180890304075305,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11729.png",
+      "label": 0,
+      "score": 0.008343434701629985,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11733.png",
+      "label": 0,
+      "score": 0.012644592952379725,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11737.png",
+      "label": 0,
+      "score": 0.2870223889290751,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11739.png",
+      "label": 1,
+      "score": 0.8095367316905654,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11742.png",
+      "label": 0,
+      "score": 0.013624400669517032,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11745.png",
+      "label": 0,
+      "score": 0.04064993706289965,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11748.png",
+      "label": 0,
+      "score": 0.019279085668737195,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11751.png",
+      "label": 0,
+      "score": 0.04248449194233498,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11754.png",
+      "label": 0,
+      "score": 0.017683093892022776,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11755.png",
+      "label": 1,
+      "score": 0.9998938439454301,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11761.png",
+      "label": 0,
+      "score": 0.028709959714007954,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11762.png",
+      "label": 0,
+      "score": 0.02289402905472458,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11763.png",
+      "label": 0,
+      "score": 0.026186182470503153,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11765.png",
+      "label": 0,
+      "score": 0.04323167915464223,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11767.png",
+      "label": 0,
+      "score": 0.0735942731745172,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11769.png",
+      "label": 0,
+      "score": 0.04785513164149851,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11772.png",
+      "label": 0,
+      "score": 0.20626381214455003,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11773.png",
+      "label": 0,
+      "score": 0.5257836520917077,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11776.png",
+      "label": 0,
+      "score": 0.03481555456037474,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11779.png",
+      "label": 0,
+      "score": 0.07111769791955508,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11781.png",
+      "label": 0,
+      "score": 0.04849478438745112,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11782.png",
+      "label": 0,
+      "score": 0.024825992494674293,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11788.png",
+      "label": 0,
+      "score": 0.013172740646893633,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11790.png",
+      "label": 0,
+      "score": 0.005056922801601208,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11793.png",
+      "label": 0,
+      "score": 0.07937572873587483,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11796.png",
+      "label": 0,
+      "score": 0.004293335766720466,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11800.png",
+      "label": 1,
+      "score": 0.9997908255748816,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11803.png",
+      "label": 0,
+      "score": 0.11263385722567414,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11812.png",
+      "label": 0,
+      "score": 0.007728246798435506,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11817.png",
+      "label": 0,
+      "score": 0.030552735182769904,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11819.png",
+      "label": 0,
+      "score": 0.12968900551935444,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11823.png",
+      "label": 0,
+      "score": 0.0171109040972956,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11836.png",
+      "label": 1,
+      "score": 0.9957658437742724,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11839.png",
+      "label": 0,
+      "score": 0.13225800392494705,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11840.png",
+      "label": 0,
+      "score": 0.37418495994426976,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11841.png",
+      "label": 0,
+      "score": 0.5014413898838925,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11843.png",
+      "label": 0,
+      "score": 0.013744108266484535,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11848.png",
+      "label": 0,
+      "score": 0.09010221750075502,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11852.png",
+      "label": 0,
+      "score": 0.00937198234704913,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11861.png",
+      "label": 0,
+      "score": 0.24678151286673855,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11862.png",
+      "label": 0,
+      "score": 0.03260299835637437,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11863.png",
+      "label": 0,
+      "score": 0.1551111297529078,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11864.png",
+      "label": 0,
+      "score": 0.007048582146690907,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11866.png",
+      "label": 0,
+      "score": 0.31941647647320964,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11867.png",
+      "label": 1,
+      "score": 0.35424021496032426,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11878.png",
+      "label": 0,
+      "score": 0.08318150490736252,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11880.png",
+      "label": 0,
+      "score": 0.13096305261949517,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11882.png",
+      "label": 0,
+      "score": 0.019862145904088014,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11885.png",
+      "label": 0,
+      "score": 0.142031723851154,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11887.png",
+      "label": 0,
+      "score": 0.015576576932334774,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11888.png",
+      "label": 0,
+      "score": 0.05087864639277448,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11892.png",
+      "label": 0,
+      "score": 0.015419435017307914,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11894.png",
+      "label": 0,
+      "score": 0.08113998977708602,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11895.png",
+      "label": 0,
+      "score": 0.3932741445627394,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11899.png",
+      "label": 1,
+      "score": 0.999969475364254,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11901.png",
+      "label": 0,
+      "score": 0.021441710569789597,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11903.png",
+      "label": 0,
+      "score": 0.26202473814261756,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11908.png",
+      "label": 0,
+      "score": 0.050955119227530814,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11912.png",
+      "label": 1,
+      "score": 0.2659210112622585,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11914.png",
+      "label": 0,
+      "score": 0.1888339256914946,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11917.png",
+      "label": 1,
+      "score": 0.9992845353151271,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11921.png",
+      "label": 0,
+      "score": 0.10765993250065457,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11926.png",
+      "label": 0,
+      "score": 0.0972890700242,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11934.png",
+      "label": 0,
+      "score": 0.6516629579683251,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11935.png",
+      "label": 0,
+      "score": 0.18118779399642979,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11936.png",
+      "label": 0,
+      "score": 0.014763033080433327,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11937.png",
+      "label": 0,
+      "score": 0.09155765520569777,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11939.png",
+      "label": 0,
+      "score": 0.04592014403464858,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11947.png",
+      "label": 0,
+      "score": 0.2831866271466394,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11948.png",
+      "label": 0,
+      "score": 0.00910667872580329,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11951.png",
+      "label": 0,
+      "score": 0.03606398778459377,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11952.png",
+      "label": 0,
+      "score": 0.04449072329026832,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11955.png",
+      "label": 0,
+      "score": 0.033044513483650576,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11956.png",
+      "label": 1,
+      "score": 0.95449851452319,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11958.png",
+      "label": 0,
+      "score": 0.0923865812000839,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11959.png",
+      "label": 0,
+      "score": 0.45424909264705926,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11962.png",
+      "label": 1,
+      "score": 0.9998056246811501,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11969.png",
+      "label": 1,
+      "score": 0.5314573801859829,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11970.png",
+      "label": 0,
+      "score": 0.01485179530486186,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11975.png",
+      "label": 0,
+      "score": 0.1289220747457457,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11981.png",
+      "label": 0,
+      "score": 0.006581878433483869,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11982.png",
+      "label": 0,
+      "score": 0.020966503588110873,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11989.png",
+      "label": 0,
+      "score": 0.049497371402152934,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11994.png",
+      "label": 0,
+      "score": 0.07182018679715281,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11998.png",
+      "label": 0,
+      "score": 0.40122533277320516,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12002.png",
+      "label": 0,
+      "score": 0.03313667470760687,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12003.png",
+      "label": 0,
+      "score": 0.03478123282577804,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12008.png",
+      "label": 1,
+      "score": 0.9965007687264192,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12009.png",
+      "label": 0,
+      "score": 0.0319509438606101,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12014.png",
+      "label": 0,
+      "score": 0.0789648447352567,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12018.png",
+      "label": 0,
+      "score": 0.07520222758035383,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12023.png",
+      "label": 0,
+      "score": 0.04439019312851525,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12025.png",
+      "label": 0,
+      "score": 0.0230341182428619,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12042.png",
+      "label": 0,
+      "score": 0.1187289738281132,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12046.png",
+      "label": 0,
+      "score": 0.4493083226867789,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12049.png",
+      "label": 0,
+      "score": 0.16995800664824326,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12051.png",
+      "label": 0,
+      "score": 0.07648398261909013,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12060.png",
+      "label": 0,
+      "score": 0.0171403836826076,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12061.png",
+      "label": 0,
+      "score": 0.10835140604468951,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12064.png",
+      "label": 0,
+      "score": 0.025530489602688028,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12069.png",
+      "label": 0,
+      "score": 0.009710858481218417,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12075.png",
+      "label": 0,
+      "score": 0.018962276390842928,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12077.png",
+      "label": 0,
+      "score": 0.032030062787785606,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12080.png",
+      "label": 1,
+      "score": 0.999637747362971,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12081.png",
+      "label": 1,
+      "score": 0.9999989732031881,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12082.png",
+      "label": 0,
+      "score": 0.018864013903518363,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12087.png",
+      "label": 0,
+      "score": 0.03221987363809326,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12094.png",
+      "label": 0,
+      "score": 0.11367051530459794,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12097.png",
+      "label": 0,
+      "score": 0.9305098257654466,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12109.png",
+      "label": 1,
+      "score": 0.999998888647419,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12110.png",
+      "label": 0,
+      "score": 0.2537717264327259,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12117.png",
+      "label": 0,
+      "score": 0.012691204881656431,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12119.png",
+      "label": 0,
+      "score": 0.1492952266173475,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12124.png",
+      "label": 0,
+      "score": 0.010528411868678623,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12126.png",
+      "label": 0,
+      "score": 0.29024333326199,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12128.png",
+      "label": 0,
+      "score": 0.01850649753986534,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12130.png",
+      "label": 0,
+      "score": 0.47038865503781335,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12149.png",
+      "label": 0,
+      "score": 0.018781083969657376,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12151.png",
+      "label": 0,
+      "score": 0.1498531627360767,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12153.png",
+      "label": 0,
+      "score": 0.0833579308919183,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12164.png",
+      "label": 0,
+      "score": 0.05010346557024833,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12167.png",
+      "label": 0,
+      "score": 0.46717144468455857,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12170.png",
+      "label": 0,
+      "score": 0.016548272523462908,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12172.png",
+      "label": 0,
+      "score": 0.013466330503466468,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12180.png",
+      "label": 0,
+      "score": 0.020896798009185286,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12181.png",
+      "label": 0,
+      "score": 0.006173345499198346,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12189.png",
+      "label": 0,
+      "score": 0.08560201023004249,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12192.png",
+      "label": 0,
+      "score": 0.08979308996377727,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12194.png",
+      "label": 0,
+      "score": 0.02126660452267201,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12200.png",
+      "label": 0,
+      "score": 0.08774897358267016,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12204.png",
+      "label": 0,
+      "score": 0.04315497269488373,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12205.png",
+      "label": 0,
+      "score": 0.08133383336838582,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12207.png",
+      "label": 0,
+      "score": 0.042513460181182884,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12210.png",
+      "label": 1,
+      "score": 0.9989831581510319,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12212.png",
+      "label": 0,
+      "score": 0.011074240355305931,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12217.png",
+      "label": 0,
+      "score": 0.03937332407738416,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12222.png",
+      "label": 0,
+      "score": 0.011665113605351099,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12224.png",
+      "label": 0,
+      "score": 0.06904101804830799,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12227.png",
+      "label": 0,
+      "score": 0.013016071213151412,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12228.png",
+      "label": 0,
+      "score": 0.026754825526118964,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12229.png",
+      "label": 0,
+      "score": 0.04656348912189016,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12238.png",
+      "label": 0,
+      "score": 0.5922313331652553,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12246.png",
+      "label": 0,
+      "score": 0.05896056323434292,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12250.png",
+      "label": 0,
+      "score": 0.14708308247668248,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12259.png",
+      "label": 0,
+      "score": 0.03483406177345864,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12263.png",
+      "label": 0,
+      "score": 0.03635788301112503,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12276.png",
+      "label": 0,
+      "score": 0.06511851721597153,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12278.png",
+      "label": 0,
+      "score": 0.11962141366591139,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12279.png",
+      "label": 0,
+      "score": 0.007924192969182097,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12282.png",
+      "label": 0,
+      "score": 0.06296393866403575,
+      "status": "scored"
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12287.png",
+      "label": 1,
+      "score": 0.9999932590564935,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12291.png",
+      "label": 0,
+      "score": 0.05356370395631132,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12293.png",
+      "label": 0,
+      "score": 0.041888272814123606,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12294.png",
+      "label": 0,
+      "score": 0.00884715926534592,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12304.png",
+      "label": 0,
+      "score": 0.15922392370882946,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12312.png",
+      "label": 0,
+      "score": 0.2562484102374527,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12316.png",
+      "label": 0,
+      "score": 0.007204988365170674,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12320.png",
+      "label": 0,
+      "score": 0.010708996208301472,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12321.png",
+      "label": 0,
+      "score": 0.030817735341498093,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12323.png",
+      "label": 0,
+      "score": 0.06926008377014668,
+      "status": "scored"
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12328.png",
+      "label": 0,
+      "score": 0.325302750467963,
+      "status": "scored"
+    }
+  ],
+  "primary": false,
+  "protocol_identity": "1b85991799852e768a2010d1910e9f00a663da7916be8b423a8642527ba8712d",
+  "small_defects": {
+    "detected": 12,
+    "total": 15
+  },
+  "stage": "confirm",
+  "threshold_record": {
+    "alpha": 0.08,
+    "comparison": "strict_greater",
+    "empirical_fpr": 0.075,
+    "k": 185,
+    "n": 200,
+    "threshold": 0.33108379983608666,
+    "ties_at_threshold": 1
+  }
+}

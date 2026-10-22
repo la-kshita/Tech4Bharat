@@ -1,0 +1,394 @@
+{
+  "all_nine_development_goals_met": false,
+  "alpha": 0.08,
+  "claim": "development selection; previously observed images; not an unbiased or independent test result",
+  "ensemble_extension_identity": "1b85991799852e768a2010d1910e9f00a663da7916be8b423a8642527ba8712d",
+  "identity": "b415bfe93f13a643c92d269bc062fcf68cd8da9a0d99ab3bff9c3621adefe1ef",
+  "input_files": {
+    "baseline84/0.05": [
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4217-baseline84\\alpha-0.05.json",
+        "sha256": "dd778b093b52dc8b4934b7f3d6e16a55a190086803d70e7889c909449b4a76b3"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4217-baseline84\\alpha-0.05.json",
+        "sha256": "2c73476ab0899da730732f67eca6ddd6e516753de6255f39fd80d57725562a88"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4217-baseline84\\alpha-0.05.json",
+        "sha256": "87363dbdc62c34b88c026d75a814c944317c387dcfa9c8c1beefe0f317bd1b3f"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4218-baseline84\\alpha-0.05.json",
+        "sha256": "d782aa64d517d64093e5108b65a28263227de3e75905f878ce25e40236b617ad"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4218-baseline84\\alpha-0.05.json",
+        "sha256": "53b943b97d534fcf506acbc75147152d26f0bc8ab8ca49e44d8ecd85d442af75"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4218-baseline84\\alpha-0.05.json",
+        "sha256": "13150e17b5769b9ce5160effac8480597f84ed2937238e1d334fbdb07ecf6938"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4219-baseline84\\alpha-0.05.json",
+        "sha256": "c646e03fe9eb83a473c51f573ff3d1c8116df5983d4893a20ef7d874c6912db2"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4219-baseline84\\alpha-0.05.json",
+        "sha256": "4ce8efdc3f88e89419da8d75c8e16dd60437f00f49d234a0965d9bbc444776e8"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4219-baseline84\\alpha-0.05.json",
+        "sha256": "b82d942bf203bc8063be0aa5b87fe0c45395e31d9cfedf68687e382790bf8d64"
+      }
+    ],
+    "baseline84/0.08": [
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4217-baseline84\\alpha-0.08.json",
+        "sha256": "ee0bca07fe54473bad25354e09f9b7d4b324740b31cc5c72cdacd517c7e97a19"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4217-baseline84\\alpha-0.08.json",
+        "sha256": "16dc73ecd83f93c475611d0542cc0498ee2084b0d4fd8767f3080351dea0ebd4"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4217-baseline84\\alpha-0.08.json",
+        "sha256": "c2d65c0edc4fad4deeb1540f94695d2a2bfd2694eb8451e0822a9b8fe8a5f18e"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4218-baseline84\\alpha-0.08.json",
+        "sha256": "b80829dcf6676ae761da74a0f8ac9e557cdda3623134a129135703af7970664e"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4218-baseline84\\alpha-0.08.json",
+        "sha256": "1a2c0acccb8f7efaa4a2470dc5033b7f060b23aa4374df03ba2d208cab831dd5"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4218-baseline84\\alpha-0.08.json",
+        "sha256": "68997d38f35ab9530157ddf57f0df97c8627ff1226ece58f83462f6cd8a1a36c"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4219-baseline84\\alpha-0.08.json",
+        "sha256": "abb587c7b9957fe83da530237013db47b093ecc9baa0458e1769871c3de42dce"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4219-baseline84\\alpha-0.08.json",
+        "sha256": "b2368b8e4d5d572f88ccb1ad98286d464d48e6afd256a113d003a5f75f8356f9"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4219-baseline84\\alpha-0.08.json",
+        "sha256": "55574c08617d1c05d7bd72027e4b6a139ea18941cfeb4a2677ba1ad0ce584d14"
+      }
+    ],
+    "longer108/0.05": [
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4217-longer108\\alpha-0.05.json",
+        "sha256": "ad84548e4824cfc554e08e64fe626c429a5b6c03d370829f04fc7ab969a4037e"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4217-longer108\\alpha-0.05.json",
+        "sha256": "0c51040b2893d6135b29fa768d9d3397408d8d053b4911e0eb730f4869f0c257"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4217-longer108\\alpha-0.05.json",
+        "sha256": "75c103bf9d0c3b77b11cb3448835e5a564f3f1c670c2af026d52f0d712b68809"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4218-longer108\\alpha-0.05.json",
+        "sha256": "3da912b25c10fc778da5aa64840f03e89a743c712d09fe56d582f47bb116f8a7"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4218-longer108\\alpha-0.05.json",
+        "sha256": "e193f30846abe1a04f5a93636d44dd1d709d8785c3f11db19159bb54bbef7444"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4218-longer108\\alpha-0.05.json",
+        "sha256": "93b12e20d11090d02a51a6ab062e81bdc774d860dfdff45d515c21768956ed56"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4219-longer108\\alpha-0.05.json",
+        "sha256": "2bf623592070766ce93ed075f4762031c09a6358d0be719184258586846bfbd8"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4219-longer108\\alpha-0.05.json",
+        "sha256": "d94fe0a984f0a81155e2f116fb539bfe2dede4e9272bd2ef86dab23988d5dd0b"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4219-longer108\\alpha-0.05.json",
+        "sha256": "edd65bc9fb8b82ccfe2aca982adac492ad1e7b483c5d68f32106815f2b1e0184"
+      }
+    ],
+    "longer108/0.08": [
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4217-longer108\\alpha-0.08.json",
+        "sha256": "1fca5e4ebeeb15d539262aaafb5515b5eb6d4e13b4cad306826adc2bafb7b9a6"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4217-longer108\\alpha-0.08.json",
+        "sha256": "3910ed5d09ea3c716b28e25f35bc316e984f673f5051552916bdc4fe0d6d2325"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4217-longer108\\alpha-0.08.json",
+        "sha256": "f4e89e20ce22b2e7d50ddc9d957ccdc9fc7359a54a6a1f756f80db67d58b1825"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4218-longer108\\alpha-0.08.json",
+        "sha256": "d3fc61ec20d96c07dc0a4e1ad0bbe75a09a166f8b225b09b19c87c6e0e83512d"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4218-longer108\\alpha-0.08.json",
+        "sha256": "68c004d3a7d4058d5ed6b9c81ae859274b3efd63491fced467b89bcfc8c4b2e9"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4218-longer108\\alpha-0.08.json",
+        "sha256": "e574df0b3d63717d71f83f7e1661828f580085f16cfca9a8c084be2baef7d63e"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4219-longer108\\alpha-0.08.json",
+        "sha256": "257c30ddf94c248b15301249f02434d5a13d7d0665892eec7660647bb3d6dc25"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4219-longer108\\alpha-0.08.json",
+        "sha256": "5041e5189edd3acaf0820a74828a1f788d041de4bd1d0c638844b6279c5095ac"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4219-longer108\\alpha-0.08.json",
+        "sha256": "a133f3b11aa683fec9c54ca3f4ff1f337577c1dd8432c7f5c0a66ef5958afa18"
+      }
+    ],
+    "small108/0.05": [
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4217-small108\\alpha-0.05.json",
+        "sha256": "8df24c6e240264519eac130320d7c0ce2b5120b165c3f7909c92b98781e08024"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4217-small108\\alpha-0.05.json",
+        "sha256": "4e7eaceaeb7dbf056e37434a5739d5c8f76811958f029b9c47a04619084049f7"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4217-small108\\alpha-0.05.json",
+        "sha256": "512f611b505f044d129cb51dcd49948cb36d8a878394d193ec5d8df272ef7b57"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4218-small108\\alpha-0.05.json",
+        "sha256": "c164b49ea661822df31d4fd4ac007d7ed7f0199300f9e97fb433aae27a814d79"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4218-small108\\alpha-0.05.json",
+        "sha256": "1d550b8e3ecb5332dc0e7898d240a204c7668ea0d3dfbe349f086088102daee4"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4218-small108\\alpha-0.05.json",
+        "sha256": "0900326241d38a79d9e7672f7a0c870d85838e7333d384ba40e23ba194d0b991"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4219-small108\\alpha-0.05.json",
+        "sha256": "7cf10a19176e00e85f38217a712b8768299f7cc10084341b11676ca634a0bed9"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4219-small108\\alpha-0.05.json",
+        "sha256": "f2ab0e7263bdb2584373fd15cd8a53f4c640db36c00ff3f66020f31a75c4003a"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4219-small108\\alpha-0.05.json",
+        "sha256": "276cafdcdb913ebcf01d4689f1a740876b40d2f66aaf5e4a193b7eb6202dd896"
+      }
+    ],
+    "small108/0.08": [
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4217-small108\\alpha-0.08.json",
+        "sha256": "c27e7a1158083ef2176069f21e574da0ab9e75064bd0dc8560686610719fa432"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4217-small108\\alpha-0.08.json",
+        "sha256": "8b390e3cc55d3873d848cfb18b25311a87e584e628af8c0e88b5578bee519967"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4217-small108\\alpha-0.08.json",
+        "sha256": "9793d61e192c94e3f760eef1e85aeb2f11fcb4ca12840c95847148ed760772e6"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4218-small108\\alpha-0.08.json",
+        "sha256": "7c7d77cd32076fc47804dbfa8fd2a0561c4c45cb2e1836674fc7218e36b6062a"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4218-small108\\alpha-0.08.json",
+        "sha256": "9726b6eb60821add86d5dc138803cf32eb591fd273f2ead950191fb72975f7df"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4218-small108\\alpha-0.08.json",
+        "sha256": "cac1f05568305e78ce9a0e828a679caa9eec9ed7541d023b1892ebec36e868d7"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4219-small108\\alpha-0.08.json",
+        "sha256": "5788c5ffeb1fcbf06657db94bfd3057737beb3c7b1df1785c2c994277add8caa"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4219-small108\\alpha-0.08.json",
+        "sha256": "4469c2733e8071aa25750cadd9ef45e262a02803b137f20d631ae8cc3777f746"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4219-small108\\alpha-0.08.json",
+        "sha256": "cee57c7719767038984bd119d269f68b34159dadf7ca0457ed0c2696ac2e980c"
+      }
+    ],
+    "tiles108/0.05": [
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4217-tiles108\\alpha-0.05.json",
+        "sha256": "d0ae00d2faae6673ecffbc558446e46a99f50f0cdb4ab92fcb1855e9b8bee3be"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4217-tiles108\\alpha-0.05.json",
+        "sha256": "b209b6ef5a4934027b09cd409e871645637860ea0c762d7b72e137cc6207c85f"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4217-tiles108\\alpha-0.05.json",
+        "sha256": "aa3326402e2ec6e811788894f90ef82ca9513875e10fd65a95c1ec7691ae1af9"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4218-tiles108\\alpha-0.05.json",
+        "sha256": "34d14919b5815c8ae898b96335a5e52f3cd182e978d6e57e27620c701c68fe8b"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4218-tiles108\\alpha-0.05.json",
+        "sha256": "1f3599bf4cbf1be3cf310d341c772b7efb9945ab8f9c4f646c22f9af6ae5e3dc"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4218-tiles108\\alpha-0.05.json",
+        "sha256": "25e860d7dc3d93c67106861398f9e909b352478da80a57f4619b726b043d6fe3"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4219-tiles108\\alpha-0.05.json",
+        "sha256": "c330fb108a8184aac279b32ce37131792224fe756054293e3b8be091b9f25de3"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4219-tiles108\\alpha-0.05.json",
+        "sha256": "b5cc2579bcbf7515f8d1e5ef05e7eadfe2b923f608bf58f5129d29345aa193dd"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4219-tiles108\\alpha-0.05.json",
+        "sha256": "a4e8bd8b7a639265e748188789ccc31af68438a29938dfd2a761d2ad204c24b1"
+      }
+    ],
+    "tiles108/0.08": [
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4217-tiles108\\alpha-0.08.json",
+        "sha256": "7f5d227b04d0a6d5c1c5bf98a448858a37a457a660e67b0529a98e67cc9ca0e0"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4217-tiles108\\alpha-0.08.json",
+        "sha256": "de4b571bb593047ec6f7c19c031ef6e7c45331d70687c26d50a9206522450862"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4217-tiles108\\alpha-0.08.json",
+        "sha256": "ba2f3bf078d64c581cfd8aa862db5634d243fb0c02c7242d830bb4abb998ac24"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4218-tiles108\\alpha-0.08.json",
+        "sha256": "d291f201b12de851aec061565463b3e8e90c5524bbf37a65000bc410c0c6f5a0"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4218-tiles108\\alpha-0.08.json",
+        "sha256": "78b30094f16c11e0970076e02aa88e1fb81013df89150494411ff87b3524ab7a"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4218-tiles108\\alpha-0.08.json",
+        "sha256": "842269ad8004f7f78cb9e01e763856eacaab30408b5c84cd9dcff13c01d5ac99"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4219-tiles108\\alpha-0.08.json",
+        "sha256": "a3734c0c114959fd6a1bf40980ef4d2be979477fdb16ad085c0499a2f93f75cb"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4219-tiles108\\alpha-0.08.json",
+        "sha256": "d91b7e40eef1157672a5967eefe10524cbb7893469fa35c4db50f330a9dccc8a"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4219-tiles108\\alpha-0.08.json",
+        "sha256": "cb29a6faec29cb4ec9a4288986046c7c2021f7eaf89ada6ff373457aaf306ff7"
+      }
+    ],
+    "tiles_small108/0.05": [
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4217-tiles_small108\\alpha-0.05.json",
+        "sha256": "bf73f88b1d34b6c26289fc119224efb3b88e92465b581eb49616f9b0d10fe9e5"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4217-tiles_small108\\alpha-0.05.json",
+        "sha256": "38d48fb71aa46f3356f2099bbc68d7ca5a3f4ff555cb1324e3ca85895dba1aa8"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4217-tiles_small108\\alpha-0.05.json",
+        "sha256": "1f6e6bf6ddb9ad4681a943eb6bfa0f42ffff0490a711774acd6759718d7d7e0b"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4218-tiles_small108\\alpha-0.05.json",
+        "sha256": "65ee015f871f5383b8b1400dd2e0130a3fcc4ddc10b33183f92ba437d8098210"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4218-tiles_small108\\alpha-0.05.json",
+        "sha256": "1daae93ad0154e18c85f0c6a14646f011ecedd4c1cd7669a749215918e1d93fb"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4218-tiles_small108\\alpha-0.05.json",
+        "sha256": "7eeef009ef1b1689e9e0b331b9497a141cdb5897a2ce1d70c7ee4d297795e235"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4219-tiles_small108\\alpha-0.05.json",
+        "sha256": "3078aa15029a8df38e8345e01f1ec0157d7f7537939c69b9be66c5a8b33feea4"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4219-tiles_small108\\alpha-0.05.json",
+        "sha256": "16fc30eca9424a3e9c8660c5f78d9b506de52db249f5ece71c8243fa8d195181"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4219-tiles_small108\\alpha-0.05.json",
+        "sha256": "ef0376e279d91c899691adecf5a667eeebb0ed7ac3095ae055cfb49b9c3d068f"
+      }
+    ],
+    "tiles_small108/0.08": [
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4217-tiles_small108\\alpha-0.08.json",
+        "sha256": "142bdf573f074e2aa824b43b55447cf235ddc9d45f396028641f99217ef098e3"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4217-tiles_small108\\alpha-0.08.json",
+        "sha256": "a2755793159080d93b72f4686533f2690be03f69050ae7dbf34194c4749ae441"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4217-tiles_small108\\alpha-0.08.json",
+        "sha256": "2d4520e19876053f96783f70b4cfcc1823b1d10c805c6b96fddf67028ca5278b"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4218-tiles_small108\\alpha-0.08.json",
+        "sha256": "3818d247006edbd9fa5b456a62989f003203b39583d85f2a92eb900023b8ad53"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4218-tiles_small108\\alpha-0.08.json",
+        "sha256": "1a05d5ddd6291af1c77fdc0bdb4134341e41879635dc3d6468c96d450adf2b43"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4218-tiles_small108\\alpha-0.08.json",
+        "sha256": "e93e9761287df692563eef721b7ba06afdd7f3a80045843f79c51956add7b7eb"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f0-s4219-tiles_small108\\alpha-0.08.json",
+        "sha256": "20509185c705b09bbc32f88d3d0a3c8d327772b14cfdd596a64856ca763ab9dd"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f1-s4219-tiles_small108\\alpha-0.08.json",
+        "sha256": "47983bdc4e55c9d1abe998a24f87cf2c83abfd09c69c7644e2bf79e51176cbb4"
+      },
+      {
+        "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\dev-f2-s4219-tiles_small108\\alpha-0.08.json",
+        "sha256": "71883764cf0a4f5f70e81041989a7ba5db4e62a1f3c96897eea1d797b44f0471"
+      }
+    ]
+  },
+  "method": "longer108",
+  "no_seed_selection": true,
+  "parent_selection_identity": "d941a2a5d36e8191a439e4d3c2bd181d3e6fff0a19b317cdcf7cb66b39efd3f6",
+  "protocol_identity": "83d4a0507a1669a220f15019cad8560e35386e49caff95cb092f738c0772e4d0",
+  "selected_before_second_partition_inference": true
+}

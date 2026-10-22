@@ -1,0 +1,83 @@
+{
+  "commit": "70723dfbc5682e6451312b94a52ab3a044151312",
+  "config": {
+    "adaptive_limit": {
+      "combined_training_variants": 1,
+      "hard_negative_add_count": 128,
+      "hard_negative_variants": 1,
+      "refinement_epochs": 12
+    },
+    "aggregation": [
+      "maximum",
+      "top_0.1_percent",
+      "maximum_local_3x3_average"
+    ],
+    "claim": "continued selection on observed development data; not independent validation",
+    "ensemble": {
+      "normalization_fraction": 0.5,
+      "rules": [
+        "maximum_normal_cdf",
+        "head_0.75_patchcore_0.25_robust_z"
+      ]
+    },
+    "fine_features": {
+      "grid": [
+        64,
+        160
+      ],
+      "layers": [
+        "layer1",
+        "layer2",
+        "layer3"
+      ],
+      "projection_channels": 96,
+      "projection_seed": 7319
+    },
+    "focal": {
+      "gamma": 2.0,
+      "positive_weight": 8.0
+    },
+    "lighting": {
+      "brightness": [
+        0.8,
+        1.2
+      ],
+      "contrast": [
+        0.8,
+        1.2
+      ],
+      "training_probability": 0.5,
+      "variants_per_original": 1
+    },
+    "normal_calibration_alpha": 0.1,
+    "padim_retained_channels": 50,
+    "parent_run": "components/outputs/recall-round1",
+    "resources": {
+      "available_ram_fraction": 0.6,
+      "phase_seconds": 1800,
+      "rss_cap_gib": 4,
+      "threads": 4
+    },
+    "schema_version": 1,
+    "scope": [
+      "R04",
+      "R05",
+      "R06",
+      "R07",
+      "R08",
+      "R09",
+      "R10"
+    ],
+    "seed": 4217,
+    "selection": "maximize development recall with FPR strictly below 0.10; then minimize FPR, then complexity",
+    "stability_seeds": [
+      4218,
+      4219
+    ]
+  },
+  "config_sha256": "88bd61861e05ab80422bb1523734860242d0645fd8a3d04f7386c16b05d6cd7e",
+  "manifest_identity": "39fabf3c59c6b579bbefa7aba642d2a59f67003a336b1460eb75a2c230c5fd7e",
+  "parent": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-round1",
+  "prepared_at_utc": "2026-10-20T05:57:56.083324+00:00",
+  "source_sha256": "04d23ae7c07a0eb710e2da331390940b7f1e07cf3abdf98ce5864cf490fe42f8"
+}

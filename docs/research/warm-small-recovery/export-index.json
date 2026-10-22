@@ -1,0 +1,37 @@
+{
+  "files": {
+    "clock-jump.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "control.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "diagnosis.json": {
+      "bytes": 2094,
+      "sha256": "4b67d8f471d1d41c87c7c9c6036b336a5a8d6254d610acd366ced2e87f085c02"
+    },
+    "interrupted--dev-f2-s4217-longer108--plan.json": {
+      "bytes": 106485,
+      "sha256": "b62b19fd0288e96446fc99fdaeb27e28ac2e82d9c52398ba3df0cdf769d24c4c"
+    },
+    "interrupted--dev-f2-s4217-longer108-resources.json": {
+      "bytes": 307,
+      "sha256": "c7503cbe707a921aa0c2659cad5ba5f7b4910e9176da1a0128e8b0bc8bb81705"
+    },
+    "interrupted--dev-f2-s4217-longer108-worker.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "power-events.json": {
+      "bytes": 3726,
+      "sha256": "5c48b3f634965da09c1a8fdc474c90fdb0139fb4ae9d68a47553095a2f7e9073"
+    },
+    "retry-resources.json": {
+      "bytes": 304,
+      "sha256": "7b6de52d0ca9a8f6775e7bd963e9812ff5f5906a2a5bdaec1a1642281a98d7ff"
+    }
+  },
+  "scope": "Preserved interrupted phase and no-ML diagnostic; not a successful experiment"
+}

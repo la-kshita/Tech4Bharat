@@ -1,0 +1,8 @@
+TRAIN repeat-2000-outer-1 1 1.0775454538209097
+TRAIN repeat-2000-outer-1 6 0.46078406260127114
+TRAIN repeat-2000-outer-1 11 0.3723853868742784
+TRAIN repeat-2000-outer-1 16 0.3029747466246287
+TRAIN repeat-2000-outer-1 21 0.2862596209560122
+TRAIN repeat-2000-outer-1 26 0.25487211670371746
+TRAIN repeat-2000-outer-1 30 0.2651914375878516
+RESULT eval-1.json {'TP': 80, 'FN': 2, 'FP': 68, 'TN': 488, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 14, 'total': 15}

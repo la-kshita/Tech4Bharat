@@ -1,0 +1,16 @@
+C:\Users\rehtr\Downloads\tech4bharat\components\.venv-p0\Lib\site-packages\timm\models\layers\__init__.py:49: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\rehtr\Downloads\tech4bharat\components\.venv-p0\Lib\site-packages\anomalib\models\image\dinomaly\components\layers.py:22: FutureWarning: The anomalib.models.components.dinov2 package is deprecated and will be removed in a future release. Please use the timm-based feature extractor instead: anomalib.models.components.feature_extractors.TimmFeatureExtractor
+  from anomalib.models.components.dinov2.layers import Attention, DropPath, LayerScale, MemEffAttention
+INFERENCE 1 / 1004
+INFERENCE 101 / 1004
+INFERENCE 201 / 1004
+INFERENCE 301 / 1004
+INFERENCE 401 / 1004
+INFERENCE 501 / 1004
+INFERENCE 601 / 1004
+INFERENCE 701 / 1004
+INFERENCE 801 / 1004
+INFERENCE 901 / 1004
+INFERENCE 1001 / 1004
+INFERENCE 1004 / 1004

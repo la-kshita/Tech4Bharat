@@ -1,0 +1,5 @@
+{
+  "parent_recall": 0.9390243902439024,
+  "rule": "both isolated changes must preserve parent recall with FPR under 10%",
+  "run": true
+}

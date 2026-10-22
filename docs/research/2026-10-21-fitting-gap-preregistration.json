@@ -1,0 +1,18 @@
+{
+  "alphas": [
+    0.05,
+    0.08
+  ],
+  "before_any_fitting_score_evaluation": true,
+  "created_utc": "2026-10-21T13:56:06.677866+00:00",
+  "ensemble_protocol_identity": "1b85991799852e768a2010d1910e9f00a663da7916be8b423a8642527ba8712d",
+  "fitting_defects_per_model": 164,
+  "fitting_normals_per_model": 256,
+  "fitting_small_per_model": 30,
+  "main_method_already_locked": "longer108",
+  "models": 18,
+  "never_used_for_selection_or_qualification": true,
+  "no_extra_training": true,
+  "official_test_access": false,
+  "source_sha256": "61d567a9d0dd7773ae66a557ef8179334329d517fcfe024cec576a0e8b8f6819"
+}

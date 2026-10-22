@@ -1,0 +1,14 @@
+{
+  "code_sha256": "edccc0bfc550dd5a8dfd6bb698ceb50cbb3146d249971f314e872f63b4668f06",
+  "config_sha256": "1e40e6c6d0e7c2254a9d349ec2c480f2dbbb33e90698e7f526581dc0660d5c4c",
+  "created_at_utc": "2026-10-19T14:14:40.929635+00:00",
+  "versions": {
+    "Pillow": "12.1.0",
+    "anomalib": "2.7.0",
+    "numpy": "2.2.4",
+    "scipy": "1.15.2",
+    "timm": "1.0.30",
+    "torch": "2.10.0+cpu",
+    "torchvision": "0.25.0+cpu"
+  }
+}

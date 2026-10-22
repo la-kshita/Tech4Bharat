@@ -1,0 +1,25 @@
+{
+  "checkpoint_receipts_verified": [
+    {
+      "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021\\checkpoint-evidence-verified.zip",
+      "sha256": "6555bf17760e7eb4f0382ad252cd5c5c292d421cb7855a9517ad0e65c377f3f9"
+    },
+    {
+      "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\checkpoint-evidence-verified.zip",
+      "sha256": "e41d81299f20ce6ef95cb7498ecc9eab16b310098aaa4d4162d68ddcd511bb63"
+    }
+  ],
+  "exact_byte_matches": 582,
+  "files_checked": 589,
+  "frozen_crlf_sources_matching_canonical_git_lf": [
+    "components/src/component_inspector/data/acquire.py",
+    "components/src/component_inspector/evaluation/calibration.py",
+    "components/src/component_inspector/evaluation/metrics.py",
+    "components/src/component_inspector/vision/geometry.py",
+    "components/src/component_inspector/vision/padim_adapter.py",
+    "components/src/component_inspector/vision/resources.py",
+    "components/src/component_inspector/vision/spike_worker.py"
+  ],
+  "scope": "Read-only comparison of local forensic hashes and staged Git blobs; not a new model evaluation or third-party certification.",
+  "verifier_sha256": "1759f63e5a60a7005efe13ff0e24b005f34a4023b081f7191caf59dc044ab05e"
+}

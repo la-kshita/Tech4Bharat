@@ -1,0 +1,18 @@
+........................................................................ [ 46%]
+........................................................................ [ 92%]
+............                                                             [100%]
+============================== warnings summary ===============================
+tests/test_padim.py: 43 warnings
+  C:\Users\rehtr\Downloads\tech4bharat\components\.venv-p0\Lib\site-packages\torch\jit\_script.py:1480: DeprecationWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+    warnings.warn(
+
+tests/test_padim.py::test_padim_normalizes_once_and_keeps_backbone_frozen_in_eval
+  C:\Users\rehtr\Downloads\tech4bharat\components\.venv-p0\Lib\site-packages\timm\models\layers\__init__.py:49: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+    warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+
+tests/test_padim.py::test_padim_normalizes_once_and_keeps_backbone_frozen_in_eval
+  C:\Users\rehtr\Downloads\tech4bharat\components\.venv-p0\Lib\site-packages\anomalib\models\image\dinomaly\components\layers.py:22: FutureWarning: The anomalib.models.components.dinov2 package is deprecated and will be removed in a future release. Please use the timm-based feature extractor instead: anomalib.models.components.feature_extractors.TimmFeatureExtractor
+    from anomalib.models.components.dinov2.layers import Attention, DropPath, LayerScale, MemEffAttention
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+156 passed, 45 warnings in 40.43s

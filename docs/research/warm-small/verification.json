@@ -1,0 +1,922 @@
+{
+  "calibration_scores_reconstructed_from_weights": 10200,
+  "documented_infrastructure_recovery": {
+    "copied_phases": [
+      "cache-0",
+      "cache-1",
+      "cache-2",
+      "dev-f0-s4217-baseline84",
+      "dev-f0-s4217-longer108",
+      "dev-f0-s4217-small108",
+      "dev-f0-s4217-tiles108",
+      "dev-f0-s4217-tiles_small108",
+      "dev-f1-s4217-baseline84",
+      "dev-f1-s4217-longer108",
+      "dev-f1-s4217-small108",
+      "dev-f1-s4217-tiles108",
+      "dev-f1-s4217-tiles_small108",
+      "dev-f2-s4217-baseline84"
+    ],
+    "numeric_changes": false,
+    "preserved_failed_phases": [
+      "dev-f2-s4217-longer108"
+    ],
+    "registration_sha256": "dc477e9a69b47814d22fa2284cf4db18500c11300601cab028682b8a6ad05e1f"
+  },
+  "feature_artifact_hashes_checked": 6234,
+  "hard_normal_scores_reconstructed": 7056,
+  "metric_records_recounted": 102,
+  "model_artifacts": {
+    "confirm-f0-s4220-baseline84\\base60.pt": {
+      "bytes": 55807,
+      "sha256": "1c7e3193fe21433ada2d427a74d9bbad4e516e1ac3054b330de91e54dc606d4e"
+    },
+    "confirm-f0-s4220-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "92a3dd7b558f2656e582f64e61dfb9553ab5087c39eee14329976a3f71cba3e3"
+    },
+    "confirm-f0-s4220-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "51e2fcf5d771d35f7aeec97d1cf61ac0add065b158512845bae17576009ef60f"
+    },
+    "confirm-f1-s4220-baseline84\\base60.pt": {
+      "bytes": 55807,
+      "sha256": "49bbdf85e1931c4c3a32498d229ab09c175e80c44de234460576a4c4e8844a7b"
+    },
+    "confirm-f1-s4220-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "4d6c810837c7dc620bf26d96b6269370f09581c66e76abefeea2fe0049a48790"
+    },
+    "confirm-f1-s4220-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "875b3c4f715bc91f09758e0bbb7d73f6c101768bf260825697e6c3bdcaff3b17"
+    },
+    "confirm-f2-s4220-baseline84\\base60.pt": {
+      "bytes": 55807,
+      "sha256": "8d3fca8c423bf3a1dd8d4297c34b55d1d86c07a3803b53396dfc972883d279af"
+    },
+    "confirm-f2-s4220-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "4ba481f0599eeecc936c3c2b572a94a0fca83aa25f5393cd1f89cf3da31b26cf"
+    },
+    "confirm-f2-s4220-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "cc519d69394c7f713472b468a9c781c5b747b3042f632c8b14795ee2aa010e96"
+    },
+    "dev-f0-s4217-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "61fca0779adc43b1efd1d41ea7ef99c0290e551e7aae14d7c6b24f24fe544d60"
+    },
+    "dev-f0-s4217-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "97011c0ef873834b0d4c6a36c7a12f7570cb68f93c2ce53f73ce53b47068a534"
+    },
+    "dev-f0-s4217-small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "67febe3cddb938b5395da1d0899b2e02ff6beb18133065a7ec388548b19ad6a1"
+    },
+    "dev-f0-s4217-tiles108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "2dc7249a1ce0bfe3fdbbccf8aafe354ab050530b42dd144c51a14f94f47c89b8"
+    },
+    "dev-f0-s4217-tiles_small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "8afdc2b7e7e6dcec686438d64376e7aa832c434b9fb9b4381ba279e5151cfe62"
+    },
+    "dev-f0-s4218-baseline84\\base60.pt": {
+      "bytes": 55807,
+      "sha256": "c3b614ee6b2e3dfb4295c9dea478d7ae054130405b14e930b1a7d5399c988e93"
+    },
+    "dev-f0-s4218-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "e786f22121b3b790ef7dac3613e092c4bb6fcb589eaca34eb17d033237a4a46b"
+    },
+    "dev-f0-s4218-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "5bac9fe29450219db6ff553f6943a1b07725aaabccbbbcd05368d1594beca426"
+    },
+    "dev-f0-s4218-small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "675c15cc557ad210f32d6abda1d3c05f24b3b3da7eabcc929470dfbb80a186cd"
+    },
+    "dev-f0-s4218-tiles108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "0726a802719f502838c9d6f78854f502a2c9f246c295f37213ba878744485d4a"
+    },
+    "dev-f0-s4218-tiles_small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "5caad4ef247eaab52e9f98edd0baf289f46ed3a9f7a75be1c8d4ddbb17367d82"
+    },
+    "dev-f0-s4219-baseline84\\base60.pt": {
+      "bytes": 55807,
+      "sha256": "ee05ec04e59dd3f52ea0ba2dda386cfdf339d196fbfd9ea1882e2ccc4c30ee68"
+    },
+    "dev-f0-s4219-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "c0916b93902882cc66466377643becaa92a1d82905ba6591f3ba0169a3acd931"
+    },
+    "dev-f0-s4219-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "925f5061918970e23514f19ef011788da548555a95f1d5eac09e5048a002b44d"
+    },
+    "dev-f0-s4219-small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "65e0a5079d5a63089fca7824fd0de04ac02111d6056ce071ea332b51920ca90f"
+    },
+    "dev-f0-s4219-tiles108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "958cc17288a682999eb5ce25f2d60eb9bfb27b23eb0e48ba9362b952d183ecf2"
+    },
+    "dev-f0-s4219-tiles_small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "f7ac6932a0422b86728a2d5859eac71361e55ad680717e91b86588a8d12d02e4"
+    },
+    "dev-f1-s4217-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "766090e87ea528c5cacf5d8ad7eefe058da4727e909e3e3d79d45a0c1297a699"
+    },
+    "dev-f1-s4217-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "6bf90eae27c946bcb2c7bd1bbdf66a9ed98202134eadb7951167bda04c27a399"
+    },
+    "dev-f1-s4217-small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "a1fe94a186db7ec63473560311ff05ab2a36fed0809e70b815c1805efaffaf66"
+    },
+    "dev-f1-s4217-tiles108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "8c91dedb8e0db1315a9291b41d48c9e9cfbdc8f9a4ceef5a2a6a4dbc3159b432"
+    },
+    "dev-f1-s4217-tiles_small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "22aae423405522da8160efba0c16333bbe9a90739f52ec080d1ac298b808eb72"
+    },
+    "dev-f1-s4218-baseline84\\base60.pt": {
+      "bytes": 55807,
+      "sha256": "c4b5974dbb4af36ef51edbc23bacddc2a7941ad11bb330e22cc90fa6f93961ed"
+    },
+    "dev-f1-s4218-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "7e19909e376abb566e651cd5fe0219097605e7f6b7e0247994ab493eeed24ef4"
+    },
+    "dev-f1-s4218-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "5cfdcbb2cbcab008feec3a5359a6711217582d5a4cdd331f2020e40522e52db7"
+    },
+    "dev-f1-s4218-small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "2dda14b9ff83b2b99fd701a378d93b53bf33f9cdd925d9728e43e1ca12d74162"
+    },
+    "dev-f1-s4218-tiles108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "de5dfa521ff4ef168d126145f2bd05551658cdc3988c02468789a7f278cf91f2"
+    },
+    "dev-f1-s4218-tiles_small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "fcaba2bd1f1c81bd8975c0ab2a5a542d28ccc419f442191367a66cd4fceb1477"
+    },
+    "dev-f1-s4219-baseline84\\base60.pt": {
+      "bytes": 55807,
+      "sha256": "3f77c053916670cf2ca65d1c5f7bb59d10a9d85fce8e5d46b5420daa085b3909"
+    },
+    "dev-f1-s4219-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "1b94fb46740bfd9761338b4af832aea11077308ea32df48b0ce90768271afef9"
+    },
+    "dev-f1-s4219-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "db69eb958a1ee4e984a6fe0380d73e6177dff24c9206fdc7c657bf3f8d27f17e"
+    },
+    "dev-f1-s4219-small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "ac8959a6cc4ca4d0f028e60da6eb99252c80be9d078b41afbd23a119e5e8f171"
+    },
+    "dev-f1-s4219-tiles108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "612a1d6c0d4620d455015e84dea838e9c6c02bf9c3a926a74e5627a696dfc092"
+    },
+    "dev-f1-s4219-tiles_small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "f8f8fb170443dc7df1505b09218d0a9b2ae36e87f8faeb5b4fbd82940b4eeca8"
+    },
+    "dev-f2-s4217-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "79dc278cce62786e3ed90c3a5c2635de306c9ddd8021dbb8118b27104b53b5c1"
+    },
+    "dev-f2-s4217-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "9b140fb0bf101034a58ecad1edd2f6c0680841455c1620710314f745e7a6b504"
+    },
+    "dev-f2-s4217-small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "7787c71f61b70fbd3eb52c662f2d9bf15fdcc049cd09d70f81948ce8a017321b"
+    },
+    "dev-f2-s4217-tiles108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "3a530088caa8d04f8349e7d0d5824186113caf1e5df01b4c1e68d95026c5b455"
+    },
+    "dev-f2-s4217-tiles_small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "4912c7cd65ae22f3c5d3ce0a454b05875667a174844de00baf4c67788d6f70d5"
+    },
+    "dev-f2-s4218-baseline84\\base60.pt": {
+      "bytes": 55807,
+      "sha256": "bca6675548477fd149fd93ca382c2e03b1317547372a4b5bb72d47ccb7cac159"
+    },
+    "dev-f2-s4218-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "4a925bf623fc8a2b20b7658f7fdc70b024c3d4fe49ee897fc5b4bd40a01b4711"
+    },
+    "dev-f2-s4218-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "c51cf4ae1af302333c1eba73bf0d0142b255eaccde21de1c7e6dd43d077ca3a9"
+    },
+    "dev-f2-s4218-small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "aa5d88d276a6792d4b2cf925dffc8af7afb41b2451b7244ef5824759a5fc6dfb"
+    },
+    "dev-f2-s4218-tiles108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "f130f427144f43aab1907dc0815ee4f493b821acdcbd77acc1c93f7f40397929"
+    },
+    "dev-f2-s4218-tiles_small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "b400c947a659e17302ba110e13d7a0be5392e035b9403f5cd5b08a0078042cb3"
+    },
+    "dev-f2-s4219-baseline84\\base60.pt": {
+      "bytes": 55807,
+      "sha256": "1d5591b1790905ee14e1877941b5e7db24106f79ae5021c71b82fa63ad5a734a"
+    },
+    "dev-f2-s4219-baseline84\\model.pt": {
+      "bytes": 55793,
+      "sha256": "263e7668a9ad13d53986df4d7179d4448a8ead08d4bbd31ec13c4acf5de13c03"
+    },
+    "dev-f2-s4219-longer108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "0710a6a09fad684ee2eafddb8a7b603f598a5eaacf34f0a9839b837453c9c653"
+    },
+    "dev-f2-s4219-small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "c23d1f7abdff03289a939c59e6345fa289bc03e6cb89a07298c38f76ee218a7a"
+    },
+    "dev-f2-s4219-tiles108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "fa858d32cfe0092f99137b58ae52e17ec9a9687426185e03f7d417aea2bccff2"
+    },
+    "dev-f2-s4219-tiles_small108\\model.pt": {
+      "bytes": 55793,
+      "sha256": "5ec0c03b4a0131973e7d398e280b07b735b4662ba087a5f1f4d0a7c8a6fe7cf2"
+    }
+  },
+  "no_official_test_access": true,
+  "normalization_sets_reconstructed": 6,
+  "paired_comparisons_with_original_ids": 78,
+  "protected_old_evidence_unchanged": true,
+  "protocol_identity": "b38e03009c68fc963d81a22d5dda3e7263cdfe6f85577566a952001913b79749",
+  "raw_training_mask_hashes_and_labels_checked": 1914,
+  "resources": {
+    "cache-0-resources.json": {
+      "elapsed_seconds": 605.2029999999795,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 578613248,
+      "returncode": 0,
+      "rss_cap_bytes": 2458995916,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "cache-1-resources.json": {
+      "elapsed_seconds": 235.4529999999795,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 577310720,
+      "returncode": 0,
+      "rss_cap_bytes": 1697840332,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "cache-2-resources.json": {
+      "elapsed_seconds": 216.579000000027,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 578568192,
+      "returncode": 0,
+      "rss_cap_bytes": 1709164953,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "confirm-f0-baseline84-resources.json": {
+      "elapsed_seconds": 292.9070000000065,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 531955712,
+      "returncode": 0,
+      "rss_cap_bytes": 3314294784,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "confirm-f0-longer108-resources.json": {
+      "elapsed_seconds": 243.375,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 521609216,
+      "returncode": 0,
+      "rss_cap_bytes": 3102115430,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "confirm-f1-baseline84-resources.json": {
+      "elapsed_seconds": 643.5629999999655,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 533008384,
+      "returncode": 0,
+      "rss_cap_bytes": 2454604185,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "confirm-f1-longer108-resources.json": {
+      "elapsed_seconds": 104.54700000002049,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 521814016,
+      "returncode": 0,
+      "rss_cap_bytes": 2301210624,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "confirm-f2-baseline84-resources.json": {
+      "elapsed_seconds": 577.5929999999935,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 532062208,
+      "returncode": 0,
+      "rss_cap_bytes": 2516948582,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "confirm-f2-longer108-resources.json": {
+      "elapsed_seconds": 247.76600000000326,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 522022912,
+      "returncode": 0,
+      "rss_cap_bytes": 2440541798,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4217-baseline84-resources.json": {
+      "elapsed_seconds": 15.26500000001397,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 442896384,
+      "returncode": 0,
+      "rss_cap_bytes": 1960781414,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4217-longer108-resources.json": {
+      "elapsed_seconds": 96.375,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 521367552,
+      "returncode": 0,
+      "rss_cap_bytes": 1982939136,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4217-small108-resources.json": {
+      "elapsed_seconds": 98.06299999996554,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 523182080,
+      "returncode": 0,
+      "rss_cap_bytes": 2096893132,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4217-tiles108-resources.json": {
+      "elapsed_seconds": 316.625,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 525213696,
+      "returncode": 0,
+      "rss_cap_bytes": 2042005094,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4217-tiles_small108-resources.json": {
+      "elapsed_seconds": 560.265000000014,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 524697600,
+      "returncode": 0,
+      "rss_cap_bytes": 2523576729,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4218-baseline84-resources.json": {
+      "elapsed_seconds": 257.170999999973,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 529272832,
+      "returncode": 0,
+      "rss_cap_bytes": 3106652160,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4218-longer108-resources.json": {
+      "elapsed_seconds": 94.15700000000652,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 521826304,
+      "returncode": 0,
+      "rss_cap_bytes": 3224481792,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4218-small108-resources.json": {
+      "elapsed_seconds": 96.92200000002049,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 522452992,
+      "returncode": 0,
+      "rss_cap_bytes": 3205993267,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4218-tiles108-resources.json": {
+      "elapsed_seconds": 124.15599999995902,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 524201984,
+      "returncode": 0,
+      "rss_cap_bytes": 3284090880,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4218-tiles_small108-resources.json": {
+      "elapsed_seconds": 127.89100000000326,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 523644928,
+      "returncode": 0,
+      "rss_cap_bytes": 3339730944,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4219-baseline84-resources.json": {
+      "elapsed_seconds": 241.89000000001397,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 533667840,
+      "returncode": 0,
+      "rss_cap_bytes": 3206280806,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4219-longer108-resources.json": {
+      "elapsed_seconds": 93.67200000002049,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 521822208,
+      "returncode": 0,
+      "rss_cap_bytes": 3226150502,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4219-small108-resources.json": {
+      "elapsed_seconds": 99.0,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 522448896,
+      "returncode": 0,
+      "rss_cap_bytes": 3186231705,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4219-tiles108-resources.json": {
+      "elapsed_seconds": 125.0,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 526123008,
+      "returncode": 0,
+      "rss_cap_bytes": 3102901862,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f0-s4219-tiles_small108-resources.json": {
+      "elapsed_seconds": 123.98499999998603,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 525922304,
+      "returncode": 0,
+      "rss_cap_bytes": 3219804979,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4217-baseline84-resources.json": {
+      "elapsed_seconds": 48.45299999997951,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 442544128,
+      "returncode": 0,
+      "rss_cap_bytes": 2082840576,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4217-longer108-resources.json": {
+      "elapsed_seconds": 311.98399999999674,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 519811072,
+      "returncode": 0,
+      "rss_cap_bytes": 1950157209,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4217-small108-resources.json": {
+      "elapsed_seconds": 275.5320000000065,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 521830400,
+      "returncode": 0,
+      "rss_cap_bytes": 2627321856,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4217-tiles108-resources.json": {
+      "elapsed_seconds": 297.875,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 524120064,
+      "returncode": 0,
+      "rss_cap_bytes": 2120245248,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4217-tiles_small108-resources.json": {
+      "elapsed_seconds": 303.18800000002375,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 524791808,
+      "returncode": 0,
+      "rss_cap_bytes": 1656638668,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4218-baseline84-resources.json": {
+      "elapsed_seconds": 250.71900000004098,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 532602880,
+      "returncode": 0,
+      "rss_cap_bytes": 3310613299,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4218-longer108-resources.json": {
+      "elapsed_seconds": 95.73399999999674,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 522772480,
+      "returncode": 0,
+      "rss_cap_bytes": 3327000576,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4218-small108-resources.json": {
+      "elapsed_seconds": 95.20299999997951,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 522100736,
+      "returncode": 0,
+      "rss_cap_bytes": 3326649139,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4218-tiles108-resources.json": {
+      "elapsed_seconds": 123.28200000000652,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 524951552,
+      "returncode": 0,
+      "rss_cap_bytes": 3227561164,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4218-tiles_small108-resources.json": {
+      "elapsed_seconds": 125.53100000001723,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 523800576,
+      "returncode": 0,
+      "rss_cap_bytes": 3306563174,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4219-baseline84-resources.json": {
+      "elapsed_seconds": 244.59299999999348,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 530419712,
+      "returncode": 0,
+      "rss_cap_bytes": 3215693414,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4219-longer108-resources.json": {
+      "elapsed_seconds": 95.46899999998277,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 523550720,
+      "returncode": 0,
+      "rss_cap_bytes": 3213852672,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4219-small108-resources.json": {
+      "elapsed_seconds": 133.28100000001723,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 522309632,
+      "returncode": 0,
+      "rss_cap_bytes": 3210702028,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4219-tiles108-resources.json": {
+      "elapsed_seconds": 153.125,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 522260480,
+      "returncode": 0,
+      "rss_cap_bytes": 2418339840,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f1-s4219-tiles_small108-resources.json": {
+      "elapsed_seconds": 124.25,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 522620928,
+      "returncode": 0,
+      "rss_cap_bytes": 3138436300,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4217-baseline84-resources.json": {
+      "elapsed_seconds": 48.75,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 443138048,
+      "returncode": 0,
+      "rss_cap_bytes": 1686616473,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4217-longer108-resources.json": {
+      "elapsed_seconds": 176.68800000002375,
+      "max_observed_processes": 3,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 521228288,
+      "returncode": 0,
+      "rss_cap_bytes": 583414579,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4217-small108-resources.json": {
+      "elapsed_seconds": 102.25,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 521285632,
+      "returncode": 0,
+      "rss_cap_bytes": 3402289152,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4217-tiles108-resources.json": {
+      "elapsed_seconds": 149.96899999998277,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 525377536,
+      "returncode": 0,
+      "rss_cap_bytes": 3337533849,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4217-tiles_small108-resources.json": {
+      "elapsed_seconds": 131.7970000000205,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 525471744,
+      "returncode": 0,
+      "rss_cap_bytes": 3053174784,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4218-baseline84-resources.json": {
+      "elapsed_seconds": 246.96899999998277,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 533610496,
+      "returncode": 0,
+      "rss_cap_bytes": 3332775936,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4218-longer108-resources.json": {
+      "elapsed_seconds": 91.78100000001723,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 521547776,
+      "returncode": 0,
+      "rss_cap_bytes": 3329957068,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4218-small108-resources.json": {
+      "elapsed_seconds": 91.85899999999674,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 521633792,
+      "returncode": 0,
+      "rss_cap_bytes": 3289359974,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4218-tiles108-resources.json": {
+      "elapsed_seconds": 125.09399999998277,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 525524992,
+      "returncode": 0,
+      "rss_cap_bytes": 3295241011,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4218-tiles_small108-resources.json": {
+      "elapsed_seconds": 122.84399999998277,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 524701696,
+      "returncode": 0,
+      "rss_cap_bytes": 3279114240,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4219-baseline84-resources.json": {
+      "elapsed_seconds": 244.75,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 532279296,
+      "returncode": 0,
+      "rss_cap_bytes": 3173353881,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4219-longer108-resources.json": {
+      "elapsed_seconds": 90.39100000000326,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 522268672,
+      "returncode": 0,
+      "rss_cap_bytes": 3346916966,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4219-small108-resources.json": {
+      "elapsed_seconds": 89.42199999996228,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 522321920,
+      "returncode": 0,
+      "rss_cap_bytes": 3292613836,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4219-tiles108-resources.json": {
+      "elapsed_seconds": 122.39100000000326,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 524898304,
+      "returncode": 0,
+      "rss_cap_bytes": 3338042572,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "dev-f2-s4219-tiles_small108-resources.json": {
+      "elapsed_seconds": 118.82799999997951,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 525864960,
+      "returncode": 0,
+      "rss_cap_bytes": 3326332108,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "native-f0-resources.json": {
+      "elapsed_seconds": 1010.2660000000033,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 661274624,
+      "returncode": 0,
+      "rss_cap_bytes": 2308563763,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "native-f1-resources.json": {
+      "elapsed_seconds": 943.219000000041,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 661975040,
+      "returncode": 0,
+      "rss_cap_bytes": 2697247948,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "native-f2-resources.json": {
+      "elapsed_seconds": 949.8279999999795,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 663113728,
+      "returncode": 0,
+      "rss_cap_bytes": 2697424896,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    },
+    "selection-resources.json": {
+      "elapsed_seconds": 5.297000000020489,
+      "max_observed_processes": 2,
+      "measurement_scope": "owned process tree RSS sum",
+      "peak_sampled_rss_bytes": 438362112,
+      "returncode": 0,
+      "rss_cap_bytes": 3359868518,
+      "sample_interval_seconds": 0.05,
+      "status": "completed",
+      "time_cap_seconds": 1800
+    }
+  },
+  "same_work_session_audit_not_third_party_certification": true,
+  "second_partition_assignment_reconstructed": true,
+  "selection_independently_verified": true,
+  "training_crop_choices_reconstructed": 181440,
+  "verifier_sha256": "686feef50ac7e2751f77b2c4f590c3efa3d9816ca4376ab51b4be387fb3c1349"
+}

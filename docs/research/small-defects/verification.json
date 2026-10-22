@@ -1,0 +1,437 @@
+{
+  "all_predeclared_refit_repeats_recounted_without_seed_selection": true,
+  "completed_methods": [
+    "coarse_control",
+    "coarse_regularized",
+    "fine_patchcore",
+    "fine_pca",
+    "fine_regularized",
+    "morphology",
+    "multiscale_regularized"
+  ],
+  "feature_artifact_hashes_checked": 8148,
+  "final_inner_selection_independently_verified": true,
+  "fixed_paired_control_independently_recounted": true,
+  "full_prior_warm_corrected_recipe_reference_verified": true,
+  "independent_confidence_bounds": [
+    0.9014234222347656,
+    0.10084788979267388
+  ],
+  "inner_recounts": {
+    "coarse_control:0->1": {
+      "FN": 2,
+      "FP": 56,
+      "TN": 500,
+      "TP": 80,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_control:0->2": {
+      "FN": 7,
+      "FP": 60,
+      "TN": 496,
+      "TP": 75,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_control:1->0": {
+      "FN": 5,
+      "FP": 37,
+      "TN": 519,
+      "TP": 77,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_control:1->2": {
+      "FN": 6,
+      "FP": 43,
+      "TN": 513,
+      "TP": 76,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_control:2->0": {
+      "FN": 5,
+      "FP": 40,
+      "TN": 516,
+      "TP": 77,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_control:2->1": {
+      "FN": 4,
+      "FP": 51,
+      "TN": 505,
+      "TP": 78,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_regularized:0->1": {
+      "FN": 2,
+      "FP": 48,
+      "TN": 508,
+      "TP": 80,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_regularized:0->2": {
+      "FN": 4,
+      "FP": 42,
+      "TN": 514,
+      "TP": 78,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_regularized:1->0": {
+      "FN": 5,
+      "FP": 33,
+      "TN": 523,
+      "TP": 77,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_regularized:1->2": {
+      "FN": 8,
+      "FP": 39,
+      "TN": 517,
+      "TP": 74,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_regularized:2->0": {
+      "FN": 7,
+      "FP": 46,
+      "TN": 510,
+      "TP": 75,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coarse_regularized:2->1": {
+      "FN": 2,
+      "FP": 59,
+      "TN": 497,
+      "TP": 80,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_patchcore:0->1": {
+      "FN": 35,
+      "FP": 44,
+      "TN": 512,
+      "TP": 47,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_patchcore:0->2": {
+      "FN": 40,
+      "FP": 36,
+      "TN": 520,
+      "TP": 42,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_patchcore:1->0": {
+      "FN": 39,
+      "FP": 36,
+      "TN": 520,
+      "TP": 43,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_patchcore:1->2": {
+      "FN": 38,
+      "FP": 37,
+      "TN": 519,
+      "TP": 44,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_patchcore:2->0": {
+      "FN": 39,
+      "FP": 56,
+      "TN": 500,
+      "TP": 43,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_patchcore:2->1": {
+      "FN": 34,
+      "FP": 60,
+      "TN": 496,
+      "TP": 48,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_pca:0->1": {
+      "FN": 68,
+      "FP": 36,
+      "TN": 520,
+      "TP": 14,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_pca:0->2": {
+      "FN": 67,
+      "FP": 27,
+      "TN": 529,
+      "TP": 15,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_pca:1->0": {
+      "FN": 61,
+      "FP": 55,
+      "TN": 501,
+      "TP": 21,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_pca:1->2": {
+      "FN": 65,
+      "FP": 30,
+      "TN": 526,
+      "TP": 17,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_pca:2->0": {
+      "FN": 55,
+      "FP": 86,
+      "TN": 470,
+      "TP": 27,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_pca:2->1": {
+      "FN": 51,
+      "FP": 60,
+      "TN": 496,
+      "TP": 31,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_regularized:0->1": {
+      "FN": 4,
+      "FP": 43,
+      "TN": 513,
+      "TP": 78,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_regularized:0->2": {
+      "FN": 7,
+      "FP": 29,
+      "TN": 527,
+      "TP": 75,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_regularized:1->0": {
+      "FN": 6,
+      "FP": 27,
+      "TN": 529,
+      "TP": 76,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_regularized:1->2": {
+      "FN": 8,
+      "FP": 13,
+      "TN": 543,
+      "TP": 74,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_regularized:2->0": {
+      "FN": 7,
+      "FP": 47,
+      "TN": 509,
+      "TP": 75,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "fine_regularized:2->1": {
+      "FN": 1,
+      "FP": 46,
+      "TN": 510,
+      "TP": 81,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "morphology:0->1": {
+      "FN": 41,
+      "FP": 34,
+      "TN": 522,
+      "TP": 41,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "morphology:0->2": {
+      "FN": 50,
+      "FP": 34,
+      "TN": 522,
+      "TP": 32,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "morphology:1->0": {
+      "FN": 43,
+      "FP": 48,
+      "TN": 508,
+      "TP": 39,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "morphology:1->2": {
+      "FN": 48,
+      "FP": 42,
+      "TN": 514,
+      "TP": 34,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "morphology:2->0": {
+      "FN": 43,
+      "FP": 47,
+      "TN": 509,
+      "TP": 39,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "morphology:2->1": {
+      "FN": 39,
+      "FP": 36,
+      "TN": 520,
+      "TP": 43,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "multiscale_regularized:0->1": {
+      "FN": 3,
+      "FP": 55,
+      "TN": 501,
+      "TP": 79,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "multiscale_regularized:0->2": {
+      "FN": 7,
+      "FP": 66,
+      "TN": 490,
+      "TP": 75,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "multiscale_regularized:1->0": {
+      "FN": 9,
+      "FP": 43,
+      "TN": 513,
+      "TP": 73,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "multiscale_regularized:1->2": {
+      "FN": 4,
+      "FP": 51,
+      "TN": 505,
+      "TP": 78,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "multiscale_regularized:2->0": {
+      "FN": 8,
+      "FP": 40,
+      "TN": 516,
+      "TP": 74,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "multiscale_regularized:2->1": {
+      "FN": 5,
+      "FP": 43,
+      "TN": 513,
+      "TP": 77,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    }
+  },
+  "native_model_threshold_evaluations_recounted": 11484,
+  "new_independent_factory_validation_complete": false,
+  "normal_only_moments_independently_reconstructed": 14,
+  "official_test_scored": false,
+  "original_rgb_images_replayed": 1914,
+  "outer_recounts": {
+    "0": {
+      "FN": 8,
+      "FP": 37,
+      "TN": 519,
+      "TP": 74,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "1": {
+      "FN": 2,
+      "FP": 67,
+      "TN": 489,
+      "TP": 80,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "2": {
+      "FN": 5,
+      "FP": 40,
+      "TN": 516,
+      "TP": 77,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    }
+  },
+  "outer_selection_independently_verified": true,
+  "pooled_cv_binomial_bounds_are_descriptive_not_formal_cv_confidence": true,
+  "protected_old_benchmarks_unchanged": true,
+  "protocol_identity": "b7ce2f1f5dff4c5e66cf47e8f1bf44331e3a2bd00a33c191e6bcac9e2a28698f",
+  "resources": {
+    "cache-resources.json": "completed",
+    "control-outer-0-resources.json": "completed",
+    "control-outer-1-resources.json": "completed",
+    "control-outer-2-resources.json": "completed",
+    "final-resources.json": "completed",
+    "full-native-resources.json": "completed",
+    "inner-coarse_control-0-resources.json": "completed",
+    "inner-coarse_control-1-resources.json": "completed",
+    "inner-coarse_control-2-resources.json": "completed",
+    "inner-coarse_regularized-0-resources.json": "completed",
+    "inner-coarse_regularized-1-resources.json": "completed",
+    "inner-coarse_regularized-2-resources.json": "completed",
+    "inner-fine_patchcore-0-resources.json": "completed",
+    "inner-fine_patchcore-1-resources.json": "completed",
+    "inner-fine_patchcore-2-resources.json": "completed",
+    "inner-fine_pca-0-resources.json": "completed",
+    "inner-fine_pca-1-resources.json": "completed",
+    "inner-fine_pca-2-resources.json": "completed",
+    "inner-fine_regularized-0-resources.json": "completed",
+    "inner-fine_regularized-1-resources.json": "completed",
+    "inner-fine_regularized-2-resources.json": "completed",
+    "inner-morphology-0-resources.json": "completed",
+    "inner-morphology-1-resources.json": "completed",
+    "inner-morphology-2-resources.json": "completed",
+    "inner-multiscale_regularized-0-resources.json": "completed",
+    "inner-multiscale_regularized-1-resources.json": "completed",
+    "inner-multiscale_regularized-2-resources.json": "completed",
+    "legacy-outer-0-resources.json": "completed",
+    "legacy-outer-1-resources.json": "completed",
+    "legacy-outer-2-resources.json": "completed",
+    "outer-0-resources.json": "completed",
+    "outer-1-resources.json": "completed",
+    "outer-2-resources.json": "completed",
+    "repeat-1000-outer-0-resources.json": "completed",
+    "repeat-1000-outer-1-resources.json": "completed",
+    "repeat-1000-outer-2-resources.json": "completed",
+    "repeat-2000-outer-0-resources.json": "completed",
+    "repeat-2000-outer-1-resources.json": "completed",
+    "repeat-2000-outer-2-resources.json": "completed",
+    "selection-resources.json": "completed",
+    "summary-resources.json": "completed"
+  },
+  "verifier_sha256": "a690d0cd2bfa4cb4dbc35fbecad2bc81132e1a8df34d578ccb6b48ef89e05887"
+}

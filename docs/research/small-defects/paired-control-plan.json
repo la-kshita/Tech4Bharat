@@ -1,0 +1,28 @@
+{
+  "configuration": {
+    "channels": 384,
+    "dice_weight": 0.0,
+    "dropout": 0.0,
+    "epochs": 30,
+    "family": "supervised",
+    "grid": "coarse",
+    "hidden": 32,
+    "pool": "top_0.1_percent",
+    "weight_decay": 0.0001
+  },
+  "fit_seed_rule": "same as selected outer model: protocol seed +100+fold",
+  "folds": [
+    0,
+    1,
+    2
+  ],
+  "identity": "826e6f53fc21e3e7614d0db971fdf1f8af1b0c0510a50329e1e453ae77c2ab11",
+  "method": "coarse_control",
+  "no_official_test_access": true,
+  "partition_rule": "same outer-{fold} salt and identical fitting/calibration identities",
+  "protocol_identity": "b7ce2f1f5dff4c5e66cf47e8f1bf44331e3a2bd00a33c191e6bcac9e2a28698f",
+  "registered_before_outer_results": true,
+  "role": "fixed paired comparator only; never change selection or final candidate",
+  "source_commit": "c071c8e5a56d8b00dcde41a8a9c4b8056d77f268",
+  "source_sha256": "9319a811f9de70f625d5759290584f0893cc6e8308f18ef8486c99e06b556148"
+}

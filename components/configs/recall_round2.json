@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "seed": 4217,
+  "scope": ["R04", "R05", "R06", "R07", "R08", "R09", "R10"],
+  "parent_run": "components/outputs/recall-round1",
+  "claim": "continued selection on observed development data; not independent validation",
+  "normal_calibration_alpha": 0.10,
+  "fine_features": {"layers": ["layer1", "layer2", "layer3"], "grid": [64, 160], "projection_channels": 96, "projection_seed": 7319},
+  "focal": {"gamma": 2.0, "positive_weight": 8.0},
+  "lighting": {"brightness": [0.8, 1.2], "contrast": [0.8, 1.2], "training_probability": 0.5, "variants_per_original": 1},
+  "aggregation": ["maximum", "top_0.1_percent", "maximum_local_3x3_average"],
+  "padim_retained_channels": 50,
+  "ensemble": {"normalization_fraction": 0.5, "rules": ["maximum_normal_cdf", "head_0.75_patchcore_0.25_robust_z"]},
+  "adaptive_limit": {"combined_training_variants": 1, "hard_negative_variants": 1, "hard_negative_add_count": 128, "refinement_epochs": 12},
+  "stability_seeds": [4218, 4219],
+  "resources": {"threads": 4, "rss_cap_gib": 4, "available_ram_fraction": 0.60, "phase_seconds": 1800},
+  "selection": "maximize development recall with FPR strictly below 0.10; then minimize FPR, then complexity"
+}

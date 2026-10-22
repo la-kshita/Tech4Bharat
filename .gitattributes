@@ -1,0 +1,78 @@
+# Preserve byte hashes for new recall evidence without rewriting old snapshots.
+/.gitattributes text eol=lf
+/AGENTS.md text eol=lf
+/components/docs/STATUS.md text eol=lf
+/components/docs/IMPLEMENTATION_PROGRESS.md text eol=lf
+/docs/handoff/*.md text eol=lf
+/components/model_registry/**/*.json text eol=lf
+/components/model_registry/**/*.pt -text
+/components/src/component_inspector/vision/ksdd2_ensemble.py text eol=lf
+/components/tools/*frozen_model.py text eol=lf
+/components/tests/test_frozen_model.py text eol=lf
+/docs/handoff/*.json text eol=lf
+/docs/handoff/*.log -text
+/docs/handoff/*.xml -text
+/README.md text eol=lf
+/components/README.md text eol=lf
+/docs/research/2026-10-22-*.json text eol=lf
+/docs/research/round1/*.json text eol=lf
+/components/configs/recall_round1.json text eol=lf
+/components/src/component_inspector/research/*.py text eol=lf
+/components/tools/*recall_round1.py text eol=lf
+/docs/research/round2/*.json text eol=lf
+/components/configs/recall_round2.json text eol=lf
+/components/tools/*recall_round2*.py text eol=lf
+/components/tools/*recall_alignment.py text eol=lf
+/docs/research/alignment/*.json text eol=lf
+/components/tools/*recall_validation.py text eol=lf
+/docs/research/validation/*.json text eol=lf
+/docs/research/validation/*.log -text
+/components/configs/recall_small_defects.json text eol=lf
+/components/tools/*small_defects.py text eol=lf
+/components/configs/recall_warm_small.json text eol=lf
+/components/tools/*warm_small.py text eol=lf
+/docs/research/warm-small/*.json text eol=lf
+/docs/research/warm-small/*.log -text
+/docs/research/warm-small/diagnostic--*.json -text
+/docs/research/warm-small-recovery/*.json -text
+/docs/research/warm-small-recovery/*.log -text
+/docs/research/2026-10-20-warm-small-preregistration.json text eol=lf
+/docs/research/2026-10-20-warm-small-*.json text eol=lf
+/docs/research/2026-10-21-warm-small-*.json text eol=lf
+/docs/research/2026-10-21-warm-small-*.log -text
+/components/tools/diagnose_warm_small_interruption.py text eol=lf
+/components/configs/recall_seed_ensemble.json text eol=lf
+/components/tools/*seed_ensemble.py text eol=lf
+/components/tools/verify_research_publication.py text eol=lf
+/components/tools/audit_fitting_gap.py text eol=lf
+/components/tools/finalize_recall_checks.py text eol=lf
+/docs/research/2026-10-21-fitting-gap-*.json text eol=lf
+/docs/research/fitting-gap/*.json text eol=lf
+/docs/research/fitting-gap/*.log -text
+/docs/research/software-checks/*.json text eol=lf
+/docs/research/software-checks/*.log -text
+/docs/research/software-checks/*.xml -text
+/components/tests/test_seed_ensemble.py text eol=lf
+/docs/research/2026-10-21-seed-ensemble-*.json text eol=lf
+/docs/research/2026-10-21-seed-ensemble-*.log -text
+/docs/research/seed-ensemble/*.json text eol=lf
+/docs/research/seed-ensemble/*.log -text
+/components/tests/test_warm_small*.py text eol=lf
+/components/tools/finish_small_defects_checks.py text eol=lf
+/docs/research/small-defects/*.json text eol=lf
+/docs/research/small-defects/*.log -text
+/docs/research/2026-10-20-small-defects-preregistration.json text eol=lf
+/docs/research/2026-10-20-small-defects-legacy-registration.json text eol=lf
+/docs/research/2026-10-20-small-defects-checkpoint-package.json text eol=lf
+/docs/research/2026-10-20-small-defects-package-attempt-1.json text eol=lf
+# These older dependencies were frozen with CRLF working bytes. Keep their
+# checkout bytes reproducible while Git stores the canonical LF content.
+/components/src/component_inspector/data/acquire.py text eol=crlf
+/components/src/component_inspector/evaluation/calibration.py text eol=crlf
+/components/src/component_inspector/evaluation/metrics.py text eol=crlf
+/components/src/component_inspector/vision/geometry.py text eol=crlf
+/components/src/component_inspector/vision/padim_adapter.py text eol=crlf
+/components/src/component_inspector/vision/spike_worker.py text eol=crlf
+/components/src/component_inspector/vision/resources.py text eol=crlf
+/docs/research/2026-10-21-publication-*.json text eol=lf
+/docs/research/2026-10-21-publication-check-attempt-1.py -text

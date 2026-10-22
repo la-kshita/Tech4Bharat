@@ -1,0 +1,7 @@
+{
+  "reason": "system available RAM fell to approximately 0.2 GiB; restart with equivalent disk-streamed training batches before any evaluation",
+  "stopped_owned_pids": [
+    3540,
+    25204
+  ]
+}

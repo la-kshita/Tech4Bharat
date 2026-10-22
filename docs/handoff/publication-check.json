@@ -1,0 +1,16 @@
+{
+  "checkpoint_receipts_verified": [],
+  "exact_byte_matches": 598,
+  "files_checked": 605,
+  "frozen_crlf_sources_matching_canonical_git_lf": [
+    "components/src/component_inspector/data/acquire.py",
+    "components/src/component_inspector/evaluation/calibration.py",
+    "components/src/component_inspector/evaluation/metrics.py",
+    "components/src/component_inspector/vision/geometry.py",
+    "components/src/component_inspector/vision/padim_adapter.py",
+    "components/src/component_inspector/vision/resources.py",
+    "components/src/component_inspector/vision/spike_worker.py"
+  ],
+  "scope": "Read-only comparison of local forensic hashes and staged Git blobs; not a new model evaluation or third-party certification.",
+  "verifier_sha256": "1759f63e5a60a7005efe13ff0e24b005f34a4023b081f7191caf59dc044ab05e"
+}

@@ -1,0 +1,85 @@
+{
+  "reviewed_date_IST": "2026-10-20",
+  "software_tests": {
+    "passed": 105,
+    "warnings": 45,
+    "seconds": 29.89
+  },
+  "checks": [
+    {
+      "method": "baseline",
+      "training_count": 128,
+      "calibration_count": 417,
+      "evaluation_count": 499,
+      "recounted_confusion": {
+        "TP": 60,
+        "FN": 22,
+        "FP": 28,
+        "TN": 389
+      },
+      "disjoint_roles": true,
+      "official_test_ids_present": false
+    },
+    {
+      "method": "supervised",
+      "training_count": 292,
+      "calibration_count": 417,
+      "evaluation_count": 499,
+      "recounted_confusion": {
+        "TP": 77,
+        "FN": 5,
+        "FP": 27,
+        "TN": 390
+      },
+      "disjoint_roles": true,
+      "official_test_ids_present": false
+    },
+    {
+      "method": "patchcore",
+      "training_count": 128,
+      "calibration_count": 417,
+      "evaluation_count": 499,
+      "recounted_confusion": {
+        "TP": 66,
+        "FN": 16,
+        "FP": 32,
+        "TN": 385
+      },
+      "disjoint_roles": true,
+      "official_test_ids_present": false
+    },
+    {
+      "method": "coverage128",
+      "training_count": 128,
+      "calibration_count": 417,
+      "evaluation_count": 499,
+      "recounted_confusion": {
+        "TP": 67,
+        "FN": 15,
+        "FP": 32,
+        "TN": 385
+      },
+      "disjoint_roles": true,
+      "official_test_ids_present": false
+    },
+    {
+      "method": "coverage256",
+      "training_count": 256,
+      "calibration_count": 417,
+      "evaluation_count": 499,
+      "recounted_confusion": {
+        "TP": 65,
+        "FN": 17,
+        "FP": 42,
+        "TN": 375
+      },
+      "disjoint_roles": true,
+      "official_test_ids_present": false
+    }
+  ],
+  "same_evaluation_population": true,
+  "nested_coverage_fit_ids": true,
+  "exported_predictions_exact": true,
+  "documentation_links_valid": true,
+  "original_historical_manifest_canonical_identity": "b769d8598112008728d354145526815eceeaaf32e477861af22c25a541a1ecc9"
+}

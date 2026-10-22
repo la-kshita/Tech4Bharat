@@ -1,0 +1,107 @@
+[
+  {
+    "TimeUtc": "2026-10-20T17:10:58.3989219Z",
+    "Id": 172,
+    "RecordId": 45559,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "Connectivity state in standby: Disconnected, Reason: Policy Setting"
+  },
+  {
+    "TimeUtc": "2026-10-20T17:10:52.0186536Z",
+    "Id": 566,
+    "RecordId": 45558,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system session has transitioned from 40 to 41.\r\n\r\nReason 55 \r\n\r\nBootId: 45"
+  },
+  {
+    "TimeUtc": "2026-10-20T17:10:46.7869582Z",
+    "Id": 506,
+    "RecordId": 45557,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system is entering Modern Standby \r\n\r\nReason: Austerity Battery Drain Budget Exceeded."
+  },
+  {
+    "TimeUtc": "2026-10-20T17:10:46.7757363Z",
+    "Id": 566,
+    "RecordId": 45556,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system session has transitioned from 39 to 40.\r\n\r\nReason 55 \r\n\r\nBootId: 45"
+  },
+  {
+    "TimeUtc": "2026-10-20T17:10:46.7755216Z",
+    "Id": 507,
+    "RecordId": 45555,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system is exiting Modern Standby \r\n\r\nReason: Austerity Battery Drain Budget Exceeded."
+  },
+  {
+    "TimeUtc": "2026-10-20T17:10:46.7687160Z",
+    "Id": 172,
+    "RecordId": 45554,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "Connectivity state in standby: Connected, Reason: None"
+  },
+  {
+    "TimeUtc": "2026-10-20T16:06:36.7834469Z",
+    "Id": 172,
+    "RecordId": 45552,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "Connectivity state in standby: Disconnected, Reason: Adaptive Connected Standby"
+  },
+  {
+    "TimeUtc": "2026-10-20T16:06:30.3985499Z",
+    "Id": 566,
+    "RecordId": 45551,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system session has transitioned from 38 to 39.\r\n\r\nReason InputMouse \r\n\r\nBootId: 45"
+  },
+  {
+    "TimeUtc": "2026-10-20T16:06:24.7753023Z",
+    "Id": 506,
+    "RecordId": 45549,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system is entering Modern Standby \r\n\r\nReason: AC/DC Display Burst Suppressed."
+  },
+  {
+    "TimeUtc": "2026-10-20T16:06:24.7737194Z",
+    "Id": 566,
+    "RecordId": 45548,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system session has transitioned from 37 to 38.\r\n\r\nReason InputMouse \r\n\r\nBootId: 45"
+  },
+  {
+    "TimeUtc": "2026-10-20T16:06:24.7732898Z",
+    "Id": 507,
+    "RecordId": 45547,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system is exiting Modern Standby \r\n\r\nReason: AC/DC Display Burst Suppressed."
+  },
+  {
+    "TimeUtc": "2026-10-20T16:06:24.7653534Z",
+    "Id": 105,
+    "RecordId": 45546,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "Power source change."
+  },
+  {
+    "TimeUtc": "2026-10-20T16:06:24.1150483Z",
+    "Id": 566,
+    "RecordId": 45545,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system session has transitioned from 36 to 37.\r\n\r\nReason PolicyChange \r\n\r\nBootId: 45"
+  },
+  {
+    "TimeUtc": "2026-10-20T16:06:23.0807105Z",
+    "Id": 506,
+    "RecordId": 45543,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system is entering Modern Standby \r\n\r\nReason: Lid."
+  },
+  {
+    "TimeUtc": "2026-10-20T16:06:23.0793613Z",
+    "Id": 566,
+    "RecordId": 45542,
+    "Provider": "Microsoft-Windows-Kernel-Power",
+    "Message": "The system session has transitioned from 35 to 36.\r\n\r\nReason PolicyChange \r\n\r\nBootId: 45"
+  }
+]

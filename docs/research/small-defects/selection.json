@@ -1,0 +1,582 @@
+{
+  "created_before_any_outer_prediction": true,
+  "final_method": "fine_regularized",
+  "final_ranking": [
+    {
+      "method": "fine_regularized",
+      "selection_key": [
+        false,
+        0.0,
+        -0.9024390243902439,
+        -0.9329268292682927,
+        -0.8333333333333334,
+        0.06145083932853718,
+        "fine_regularized"
+      ]
+    },
+    {
+      "method": "morphology",
+      "selection_key": [
+        false,
+        0.0,
+        -0.3902439024390244,
+        -0.46341463414634143,
+        -0.36666666666666664,
+        0.072242206235012,
+        "morphology"
+      ]
+    },
+    {
+      "method": "coarse_regularized",
+      "selection_key": [
+        true,
+        0.10611510791366907,
+        -0.9024390243902439,
+        -0.9430894308943089,
+        -0.8111111111111111,
+        0.08003597122302158,
+        "coarse_regularized"
+      ]
+    },
+    {
+      "method": "coarse_control",
+      "selection_key": [
+        true,
+        0.1079136690647482,
+        -0.9146341463414634,
+        -0.9410569105691057,
+        -0.7888888888888889,
+        0.08603117505995204,
+        "coarse_control"
+      ]
+    },
+    {
+      "method": "fine_patchcore",
+      "selection_key": [
+        true,
+        0.1079136690647482,
+        -0.5121951219512195,
+        -0.5426829268292682,
+        -0.35555555555555557,
+        0.08063549160671463,
+        "fine_patchcore"
+      ]
+    },
+    {
+      "method": "multiscale_regularized",
+      "selection_key": [
+        true,
+        0.11870503597122302,
+        -0.8902439024390244,
+        -0.9268292682926829,
+        -0.7444444444444445,
+        0.08932853717026379,
+        "multiscale_regularized"
+      ]
+    },
+    {
+      "method": "fine_pca",
+      "selection_key": [
+        true,
+        0.15467625899280577,
+        -0.17073170731707318,
+        -0.2540650406504065,
+        -0.12222222222222222,
+        0.0881294964028777,
+        "fine_pca"
+      ]
+    }
+  ],
+  "final_selection_uses_inner_comparisons_only": true,
+  "identity": "80f181eb0569f1b5c43e7f45142560ff4f55e81cef56e62b60a5ed4d80a2396f",
+  "incomplete_methods_not_silently_zeroed": [],
+  "outer_choices": {
+    "0": {
+      "excluded_outer_fold": 0,
+      "input_files": {
+        "coarse_control": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_control-1\\eval-2.json",
+            "sha256": "0bad834c714f035ffb7ff8f398aaf104f5f74977e6dcad17c68d52b7365696c3"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_control-2\\eval-1.json",
+            "sha256": "9f2a42cda74858d947a6dac33e02b9be80dbc9dc4b00c910a6dde9af3ba30706"
+          }
+        ],
+        "coarse_regularized": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_regularized-1\\eval-2.json",
+            "sha256": "3abf7554c9e82ab469e819f9380cfa6e502d3d9e1cc6c68bfe7aefee7a6b0b7f"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_regularized-2\\eval-1.json",
+            "sha256": "b5b60599b0cb7e83ce40bd02c76c47478d78000000963028ede45d33b1f31a5f"
+          }
+        ],
+        "fine_patchcore": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_patchcore-1\\eval-2.json",
+            "sha256": "442bd1f8f2a7088d5777cd28348893653db975363977cf8815325048deafb579"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_patchcore-2\\eval-1.json",
+            "sha256": "f4dcf48d9ab08e1ac19a46711b996411a53cf73a767d7b78b14183bffff8d975"
+          }
+        ],
+        "fine_pca": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_pca-1\\eval-2.json",
+            "sha256": "5bb52adab2aff13043fee18574ed97efee27e30ca3755b0565e61c59653c5370"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_pca-2\\eval-1.json",
+            "sha256": "721c405e565e6aad8cad310ccddda7232b5434ec96b9f0173dd0b29261e9464a"
+          }
+        ],
+        "fine_regularized": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_regularized-1\\eval-2.json",
+            "sha256": "d61bf5f5a0e96c8a742fac9032e662d5ca2108c7ce4e3077bc12112665098258"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_regularized-2\\eval-1.json",
+            "sha256": "3fb62f9d83582ef0359de52d3c4b0277596e702376e6d24950b8686819ec6b16"
+          }
+        ],
+        "morphology": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-morphology-1\\eval-2.json",
+            "sha256": "a9d91164f02c63b38a1997cbe423044dfd6391702780ac6072f8bfcddaf6cf36"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-morphology-2\\eval-1.json",
+            "sha256": "3d13498ad406e2874dbd24ee6efe404869fa17b46d9b194e1686937bcf6fa263"
+          }
+        ],
+        "multiscale_regularized": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-multiscale_regularized-1\\eval-2.json",
+            "sha256": "51dd683bf576f67fdaccd42197abad463c3d2c80aef7330dd416ab0707286189"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-multiscale_regularized-2\\eval-1.json",
+            "sha256": "90ca9b162222f646901321061d06a844e4ba71a41f09cc5b50864b7d781ab52c"
+          }
+        ]
+      },
+      "method": "multiscale_regularized",
+      "ranking": [
+        {
+          "method": "multiscale_regularized",
+          "selection_key": [
+            false,
+            0.0,
+            -0.9390243902439024,
+            -0.9451219512195121,
+            -0.8333333333333334,
+            0.08453237410071943,
+            "multiscale_regularized"
+          ]
+        },
+        {
+          "method": "coarse_control",
+          "selection_key": [
+            false,
+            0.0,
+            -0.926829268292683,
+            -0.9390243902439024,
+            -0.8333333333333334,
+            0.08453237410071943,
+            "coarse_control"
+          ]
+        },
+        {
+          "method": "fine_regularized",
+          "selection_key": [
+            false,
+            0.0,
+            -0.9024390243902439,
+            -0.9451219512195121,
+            -0.8666666666666667,
+            0.053057553956834536,
+            "fine_regularized"
+          ]
+        },
+        {
+          "method": "morphology",
+          "selection_key": [
+            false,
+            0.0,
+            -0.4146341463414634,
+            -0.4695121951219512,
+            -0.36666666666666664,
+            0.07014388489208634,
+            "morphology"
+          ]
+        },
+        {
+          "method": "coarse_regularized",
+          "selection_key": [
+            true,
+            0.10611510791366907,
+            -0.9024390243902439,
+            -0.9390243902439024,
+            -0.8666666666666667,
+            0.0881294964028777,
+            "coarse_regularized"
+          ]
+        },
+        {
+          "method": "fine_patchcore",
+          "selection_key": [
+            true,
+            0.1079136690647482,
+            -0.5365853658536586,
+            -0.5609756097560976,
+            -0.43333333333333335,
+            0.08723021582733813,
+            "fine_patchcore"
+          ]
+        },
+        {
+          "method": "fine_pca",
+          "selection_key": [
+            true,
+            0.1079136690647482,
+            -0.2073170731707317,
+            -0.2926829268292683,
+            -0.1,
+            0.08093525179856115,
+            "fine_pca"
+          ]
+        }
+      ]
+    },
+    "1": {
+      "excluded_outer_fold": 1,
+      "input_files": {
+        "coarse_control": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_control-0\\eval-2.json",
+            "sha256": "1b94b0e1d27fb141987e302441ae46668adf2dc660ed96447291bec9b49c66ee"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_control-2\\eval-0.json",
+            "sha256": "bb3444b09dae47487e750008ad3d52eba387d243954e021c20e0f6f2566887de"
+          }
+        ],
+        "coarse_regularized": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_regularized-0\\eval-2.json",
+            "sha256": "7fad020479984415c9e0dd7e17f5614d08cb1bfbafd5276b6a28a5dc789dfa95"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_regularized-2\\eval-0.json",
+            "sha256": "2492bee5f067c9c37c082f18cc3d6fbb0e3b334edaf0553f7801e548fa4747e2"
+          }
+        ],
+        "fine_patchcore": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_patchcore-0\\eval-2.json",
+            "sha256": "1ce18c71816e0e9bce21a61105d661408189f08fcfc2cc0f79f40545794fb361"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_patchcore-2\\eval-0.json",
+            "sha256": "d9e126de1b79a66ca500046f03a6861298b8182476616c9885a1a36a93fc586b"
+          }
+        ],
+        "fine_pca": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_pca-0\\eval-2.json",
+            "sha256": "3bfe6dfae4e5d6dd88244a6fbc8bbfb5752f64e550cf442b017dc8c4a6baa3f3"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_pca-2\\eval-0.json",
+            "sha256": "403fe046b56fe3871f532451a79df09e9fe7d93ebe7a718db2348187037bb668"
+          }
+        ],
+        "fine_regularized": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_regularized-0\\eval-2.json",
+            "sha256": "6f53d4f1c7e5f7fa7d5db16f2f6c15ff4c1a9a8d8c2549a5314486bd3838c544"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_regularized-2\\eval-0.json",
+            "sha256": "c4653e0471271c8a9a90a864a6ff47c12317759e71fa7994998f4d1a0d0460a3"
+          }
+        ],
+        "morphology": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-morphology-0\\eval-2.json",
+            "sha256": "c4ceac32ce4fe4bfa43c26186ccc2dd6ef3046f5e8230a97e63bce47a579789d"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-morphology-2\\eval-0.json",
+            "sha256": "14c464aa5696564eaa759a8116da29192a8c3f150cde402de8a79b830f58ee75"
+          }
+        ],
+        "multiscale_regularized": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-multiscale_regularized-0\\eval-2.json",
+            "sha256": "7a2c54d53c086e4cef05decd72f7b06fdfb41d9de9983a9b91f7062090302afb"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-multiscale_regularized-2\\eval-0.json",
+            "sha256": "f7bfc18c658b386ffaa41df0447d946a9f708e213b7cea2846be9b7547bcc431"
+          }
+        ]
+      },
+      "method": "coarse_regularized",
+      "ranking": [
+        {
+          "method": "coarse_regularized",
+          "selection_key": [
+            false,
+            0.0,
+            -0.9146341463414634,
+            -0.9329268292682926,
+            -0.7333333333333333,
+            0.07913669064748202,
+            "coarse_regularized"
+          ]
+        },
+        {
+          "method": "fine_regularized",
+          "selection_key": [
+            false,
+            0.0,
+            -0.9146341463414634,
+            -0.9146341463414634,
+            -0.7666666666666667,
+            0.0683453237410072,
+            "fine_regularized"
+          ]
+        },
+        {
+          "method": "morphology",
+          "selection_key": [
+            false,
+            0.0,
+            -0.3902439024390244,
+            -0.4329268292682927,
+            -0.26666666666666666,
+            0.07284172661870504,
+            "morphology"
+          ]
+        },
+        {
+          "method": "fine_patchcore",
+          "selection_key": [
+            true,
+            0.10071942446043165,
+            -0.5121951219512195,
+            -0.5182926829268293,
+            -0.26666666666666666,
+            0.08273381294964029,
+            "fine_patchcore"
+          ]
+        },
+        {
+          "method": "coarse_control",
+          "selection_key": [
+            true,
+            0.1079136690647482,
+            -0.9146341463414634,
+            -0.9268292682926829,
+            -0.7,
+            0.08992805755395683,
+            "coarse_control"
+          ]
+        },
+        {
+          "method": "multiscale_regularized",
+          "selection_key": [
+            true,
+            0.11870503597122302,
+            -0.9024390243902439,
+            -0.9085365853658537,
+            -0.6333333333333333,
+            0.09532374100719423,
+            "multiscale_regularized"
+          ]
+        },
+        {
+          "method": "fine_pca",
+          "selection_key": [
+            true,
+            0.15467625899280577,
+            -0.18292682926829268,
+            -0.25609756097560976,
+            -0.1,
+            0.10161870503597123,
+            "fine_pca"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "excluded_outer_fold": 2,
+      "input_files": {
+        "coarse_control": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_control-0\\eval-1.json",
+            "sha256": "ea980a2ab05ff8c6418c198bdd1e49b93e2d4737cfc33efc4b95dd20b5c38650"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_control-1\\eval-0.json",
+            "sha256": "0721189e150d71148ca5420f4872a4a03b5e4729767ab6370d390ae075948a40"
+          }
+        ],
+        "coarse_regularized": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_regularized-0\\eval-1.json",
+            "sha256": "6ec21d63aef32fe577c35cc9400a4bcaff8c3a17f1f2d363ac0f7809e2190fd8"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-coarse_regularized-1\\eval-0.json",
+            "sha256": "ea0725f39fe09d001917183cfefd5fa308a29973a1788ea392706567795e7fec"
+          }
+        ],
+        "fine_patchcore": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_patchcore-0\\eval-1.json",
+            "sha256": "bcb12f2e07c3bfb08a64eeb9a8a61d7062fede844f3725fd71e755b45f745e87"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_patchcore-1\\eval-0.json",
+            "sha256": "515eb70e8b2046899de4ed5d4cdecd7f266db46d75b19e7a0050d819b2886b32"
+          }
+        ],
+        "fine_pca": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_pca-0\\eval-1.json",
+            "sha256": "08e062a3a887c7859635225a142b9df4cd85f62a240fc58fc1738e7ded0b5e35"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_pca-1\\eval-0.json",
+            "sha256": "ebecb84fda63f3ec4b496f50ce175c68640483df1b874dd9beb9d5911b07a76e"
+          }
+        ],
+        "fine_regularized": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_regularized-0\\eval-1.json",
+            "sha256": "461e3afe2aa7abf95b2412954da5d12d0a7ef97ca1155baeed821dcec3523045"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-fine_regularized-1\\eval-0.json",
+            "sha256": "5b62558ac91aa6e421038ae28f4de0b6033e652ddee6ebbc286e8656e4bc9dd3"
+          }
+        ],
+        "morphology": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-morphology-0\\eval-1.json",
+            "sha256": "711da8d34b58210f3e66e4839691a63c4aed3adf66b1368d173ff2c5bfd1c360"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-morphology-1\\eval-0.json",
+            "sha256": "ecd69be9ec6749b732d1ed0357a8d8eed8754636ebf8b3845c91bfb47642a6df"
+          }
+        ],
+        "multiscale_regularized": [
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-multiscale_regularized-0\\eval-1.json",
+            "sha256": "55bcf41a54caa14b539afed8d07af5d0ba3e4ad0de3b8887f9717833fbf378ce"
+          },
+          {
+            "path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\inner-multiscale_regularized-1\\eval-0.json",
+            "sha256": "249574629ffa330c96de74d2563517359eb10fec833e39e3296cc8af40f58179"
+          }
+        ]
+      },
+      "method": "coarse_regularized",
+      "ranking": [
+        {
+          "method": "coarse_regularized",
+          "selection_key": [
+            false,
+            0.0,
+            -0.9390243902439024,
+            -0.9573170731707317,
+            -0.8333333333333334,
+            0.07284172661870504,
+            "coarse_regularized"
+          ]
+        },
+        {
+          "method": "fine_regularized",
+          "selection_key": [
+            false,
+            0.0,
+            -0.926829268292683,
+            -0.9390243902439024,
+            -0.8666666666666667,
+            0.06294964028776978,
+            "fine_regularized"
+          ]
+        },
+        {
+          "method": "multiscale_regularized",
+          "selection_key": [
+            false,
+            0.0,
+            -0.8902439024390244,
+            -0.9268292682926829,
+            -0.7666666666666667,
+            0.0881294964028777,
+            "multiscale_regularized"
+          ]
+        },
+        {
+          "method": "fine_patchcore",
+          "selection_key": [
+            false,
+            0.0,
+            -0.524390243902439,
+            -0.5487804878048781,
+            -0.36666666666666664,
+            0.07194244604316546,
+            "fine_patchcore"
+          ]
+        },
+        {
+          "method": "morphology",
+          "selection_key": [
+            false,
+            0.0,
+            -0.47560975609756095,
+            -0.4878048780487805,
+            -0.4666666666666667,
+            0.0737410071942446,
+            "morphology"
+          ]
+        },
+        {
+          "method": "fine_pca",
+          "selection_key": [
+            false,
+            0.0,
+            -0.17073170731707318,
+            -0.2134146341463415,
+            -0.16666666666666666,
+            0.08183453237410071,
+            "fine_pca"
+          ]
+        },
+        {
+          "method": "coarse_control",
+          "selection_key": [
+            true,
+            0.10071942446043165,
+            -0.9390243902439024,
+            -0.9573170731707317,
+            -0.8333333333333334,
+            0.08363309352517986,
+            "coarse_control"
+          ]
+        }
+      ]
+    }
+  },
+  "protocol_identity": "b7ce2f1f5dff4c5e66cf47e8f1bf44331e3a2bd00a33c191e6bcac9e2a28698f"
+}

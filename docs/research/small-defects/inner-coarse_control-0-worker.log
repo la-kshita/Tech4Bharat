@@ -1,0 +1,10 @@
+TRAIN inner-coarse_control-0 1 0.6356991947402616
+TRAIN inner-coarse_control-0 6 0.12516234687270497
+TRAIN inner-coarse_control-0 11 0.08360767243264695
+TRAIN inner-coarse_control-0 16 0.06777537121443
+TRAIN inner-coarse_control-0 21 0.052260499502691994
+TRAIN inner-coarse_control-0 26 0.041814931662830374
+TRAIN inner-coarse_control-0 30 0.03595171472024635
+RESULT fitting-diagnostic.json {'TP': 82, 'FN': 0, 'FP': 0, 'TN': 256, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 15, 'total': 15}
+RESULT eval-1.json {'TP': 80, 'FN': 2, 'FP': 56, 'TN': 500, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 14, 'total': 15}
+RESULT eval-2.json {'TP': 75, 'FN': 7, 'FP': 60, 'TN': 496, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 11, 'total': 15}

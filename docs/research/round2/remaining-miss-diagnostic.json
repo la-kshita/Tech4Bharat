@@ -1,0 +1,1566 @@
+{
+  "caught_area_median": 0.012067220279300931,
+  "missed_area_median": 0.015120334634718001,
+  "records": [
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10021.png",
+      "score": 19.162824630737305,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10021.png",
+      "source_mask_area_fraction": 0.022612386127105127,
+      "source_mask_bbox_xyxy": [
+        0,
+        0,
+        66,
+        98
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10021_GT.png",
+      "source_mask_positive_pixels": 3346,
+      "source_mask_shape": [
+        649,
+        228
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10045.png",
+      "score": 1.2396389245986938,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10045.png",
+      "source_mask_area_fraction": 0.00017085382341143086,
+      "source_mask_bbox_xyxy": [
+        182,
+        535,
+        188,
+        539
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10045_GT.png",
+      "source_mask_positive_pixels": 23,
+      "source_mask_shape": [
+        638,
+        211
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10135.png",
+      "score": 13.774065971374512,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10135.png",
+      "source_mask_area_fraction": 0.022721766051958543,
+      "source_mask_bbox_xyxy": [
+        8,
+        56,
+        76,
+        158
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10135_GT.png",
+      "source_mask_positive_pixels": 3376,
+      "source_mask_shape": [
+        646,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10157.png",
+      "score": 11.354687690734863,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10157.png",
+      "source_mask_area_fraction": 0.0471788098906743,
+      "source_mask_bbox_xyxy": [
+        0,
+        0,
+        61,
+        149
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10157_GT.png",
+      "source_mask_positive_pixels": 7073,
+      "source_mask_shape": [
+        649,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10223.png",
+      "score": 5.711121082305908,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10223.png",
+      "source_mask_area_fraction": 0.009853829298273742,
+      "source_mask_bbox_xyxy": [
+        30,
+        238,
+        155,
+        340
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10223_GT.png",
+      "source_mask_positive_pixels": 1475,
+      "source_mask_shape": [
+        648,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10244.png",
+      "score": 6.99822998046875,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10244.png",
+      "source_mask_area_fraction": 0.010599991908403123,
+      "source_mask_bbox_xyxy": [
+        126,
+        581,
+        166,
+        641
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10244_GT.png",
+      "source_mask_positive_pixels": 1572,
+      "source_mask_shape": [
+        642,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10254.png",
+      "score": 13.275012016296387,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10254.png",
+      "source_mask_area_fraction": 0.009522432454763282,
+      "source_mask_bbox_xyxy": [
+        24,
+        330,
+        67,
+        392
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10254_GT.png",
+      "source_mask_positive_pixels": 1383,
+      "source_mask_shape": [
+        637,
+        228
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10273.png",
+      "score": 3.3946893215179443,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10273.png",
+      "source_mask_area_fraction": 0.0443261208709218,
+      "source_mask_bbox_xyxy": [
+        87,
+        0,
+        142,
+        172
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10273_GT.png",
+      "source_mask_positive_pixels": 6535,
+      "source_mask_shape": [
+        641,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10281.png",
+      "score": 9.207160949707031,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10281.png",
+      "source_mask_area_fraction": 0.033798456128553214,
+      "source_mask_bbox_xyxy": [
+        60,
+        198,
+        139,
+        272
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10281_GT.png",
+      "source_mask_positive_pixels": 4825,
+      "source_mask_shape": [
+        618,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10301.png",
+      "score": 14.501370429992676,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10301.png",
+      "source_mask_area_fraction": 0.0340220248195096,
+      "source_mask_bbox_xyxy": [
+        102,
+        583,
+        220,
+        644
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10301_GT.png",
+      "source_mask_positive_pixels": 5113,
+      "source_mask_shape": [
+        645,
+        233
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10304.png",
+      "score": 7.925273418426514,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10304.png",
+      "source_mask_area_fraction": 0.002993890844358134,
+      "source_mask_bbox_xyxy": [
+        6,
+        327,
+        61,
+        340
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10304_GT.png",
+      "source_mask_positive_pixels": 444,
+      "source_mask_shape": [
+        642,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10306.png",
+      "score": 5.948272705078125,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10306.png",
+      "source_mask_area_fraction": 0.0998029748029748,
+      "source_mask_bbox_xyxy": [
+        0,
+        370,
+        117,
+        608
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10306_GT.png",
+      "source_mask_positive_pixels": 14386,
+      "source_mask_shape": [
+        624,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10309.png",
+      "score": 10.518451690673828,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10309.png",
+      "source_mask_area_fraction": 0.2983870408269451,
+      "source_mask_bbox_xyxy": [
+        5,
+        155,
+        226,
+        396
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10309_GT.png",
+      "source_mask_positive_pixels": 43011,
+      "source_mask_shape": [
+        635,
+        227
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10337.png",
+      "score": 10.605849266052246,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10337.png",
+      "source_mask_area_fraction": 0.010990338164251207,
+      "source_mask_bbox_xyxy": [
+        6,
+        358,
+        30,
+        454
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10337_GT.png",
+      "source_mask_positive_pixels": 1638,
+      "source_mask_shape": [
+        648,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10344.png",
+      "score": 5.918350696563721,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10344.png",
+      "source_mask_area_fraction": 0.008743656562885749,
+      "source_mask_bbox_xyxy": [
+        32,
+        4,
+        68,
+        47
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10344_GT.png",
+      "source_mask_positive_pixels": 1275,
+      "source_mask_shape": [
+        634,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10345.png",
+      "score": 13.6807279586792,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10345.png",
+      "source_mask_area_fraction": 0.004522332938471187,
+      "source_mask_bbox_xyxy": [
+        146,
+        188,
+        175,
+        219
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10345_GT.png",
+      "source_mask_positive_pixels": 649,
+      "source_mask_shape": [
+        635,
+        226
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10402.png",
+      "score": 9.469346046447754,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10402.png",
+      "source_mask_area_fraction": 0.007232394558940252,
+      "source_mask_bbox_xyxy": [
+        137,
+        300,
+        205,
+        331
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10402_GT.png",
+      "source_mask_positive_pixels": 1057,
+      "source_mask_shape": [
+        641,
+        228
+      ]
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10403.png",
+      "score": -0.03086155094206333,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10403.png",
+      "source_mask_area_fraction": 0.003594228131265168,
+      "source_mask_bbox_xyxy": [
+        52,
+        398,
+        73,
+        473
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10403_GT.png",
+      "source_mask_positive_pixels": 545,
+      "source_mask_shape": [
+        648,
+        234
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10426.png",
+      "score": 9.863487243652344,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10426.png",
+      "source_mask_area_fraction": 0.010569050218340611,
+      "source_mask_bbox_xyxy": [
+        67,
+        415,
+        113,
+        459
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10426_GT.png",
+      "source_mask_positive_pixels": 1549,
+      "source_mask_shape": [
+        640,
+        229
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10487.png",
+      "score": 8.63099193572998,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10487.png",
+      "source_mask_area_fraction": 0.005279069060857412,
+      "source_mask_bbox_xyxy": [
+        51,
+        291,
+        94,
+        309
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10487_GT.png",
+      "source_mask_positive_pixels": 695,
+      "source_mask_shape": [
+        636,
+        207
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10506.png",
+      "score": 6.525754451751709,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10506.png",
+      "source_mask_area_fraction": 0.006436457599248297,
+      "source_mask_bbox_xyxy": [
+        51,
+        339,
+        128,
+        363
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10506_GT.png",
+      "source_mask_positive_pixels": 959,
+      "source_mask_shape": [
+        645,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10536.png",
+      "score": 10.41156005859375,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10536.png",
+      "source_mask_area_fraction": 0.03337562413031022,
+      "source_mask_bbox_xyxy": [
+        0,
+        0,
+        70,
+        115
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10536_GT.png",
+      "source_mask_positive_pixels": 4893,
+      "source_mask_shape": [
+        643,
+        228
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10585.png",
+      "score": 7.915951251983643,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10585.png",
+      "source_mask_area_fraction": 0.05483135082287763,
+      "source_mask_bbox_xyxy": [
+        36,
+        282,
+        227,
+        366
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10585_GT.png",
+      "source_mask_positive_pixels": 8076,
+      "source_mask_shape": [
+        646,
+        228
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10647.png",
+      "score": 7.6530585289001465,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10647.png",
+      "source_mask_area_fraction": 0.005387506954905074,
+      "source_mask_bbox_xyxy": [
+        36,
+        384,
+        77,
+        422
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10647_GT.png",
+      "source_mask_positive_pixels": 794,
+      "source_mask_shape": [
+        638,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10648.png",
+      "score": 1.3669506311416626,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10648.png",
+      "source_mask_area_fraction": 0.001588021778584392,
+      "source_mask_bbox_xyxy": [
+        189,
+        193,
+        216,
+        215
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10648_GT.png",
+      "source_mask_positive_pixels": 231,
+      "source_mask_shape": [
+        638,
+        228
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10659.png",
+      "score": 1.5752607583999634,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10659.png",
+      "source_mask_area_fraction": 0.006858348720654181,
+      "source_mask_bbox_xyxy": [
+        167,
+        600,
+        218,
+        628
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10659_GT.png",
+      "source_mask_positive_pixels": 962,
+      "source_mask_shape": [
+        629,
+        223
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10678.png",
+      "score": 8.624313354492188,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10678.png",
+      "source_mask_area_fraction": 0.018947066005889534,
+      "source_mask_bbox_xyxy": [
+        45,
+        132,
+        98,
+        196
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10678_GT.png",
+      "source_mask_positive_pixels": 2638,
+      "source_mask_shape": [
+        630,
+        221
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10695.png",
+      "score": 14.568740844726562,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10695.png",
+      "source_mask_area_fraction": 0.010978906775357844,
+      "source_mask_bbox_xyxy": [
+        156,
+        391,
+        195,
+        555
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10695_GT.png",
+      "source_mask_positive_pixels": 1600,
+      "source_mask_shape": [
+        642,
+        227
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10711.png",
+      "score": 1.102120280265808,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10711.png",
+      "source_mask_area_fraction": 0.001050785701126524,
+      "source_mask_bbox_xyxy": [
+        108,
+        421,
+        123,
+        435
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10711_GT.png",
+      "source_mask_positive_pixels": 154,
+      "source_mask_shape": [
+        629,
+        233
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10729.png",
+      "score": 2.177668809890747,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10729.png",
+      "source_mask_area_fraction": 0.003367456896551724,
+      "source_mask_bbox_xyxy": [
+        91,
+        99,
+        104,
+        166
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10729_GT.png",
+      "source_mask_positive_pixels": 500,
+      "source_mask_shape": [
+        640,
+        232
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10743.png",
+      "score": 12.947857856750488,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10743.png",
+      "source_mask_area_fraction": 0.027235828288387453,
+      "source_mask_bbox_xyxy": [
+        98,
+        0,
+        205,
+        84
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10743_GT.png",
+      "source_mask_positive_pixels": 3959,
+      "source_mask_shape": [
+        632,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10756.png",
+      "score": 14.789170265197754,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10756.png",
+      "source_mask_area_fraction": 0.024787733028607876,
+      "source_mask_bbox_xyxy": [
+        94,
+        548,
+        164,
+        645
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10756_GT.png",
+      "source_mask_positive_pixels": 3731,
+      "source_mask_shape": [
+        646,
+        233
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10774.png",
+      "score": 0.8473748564720154,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10774.png",
+      "source_mask_area_fraction": 0.007749539198407039,
+      "source_mask_bbox_xyxy": [
+        78,
+        152,
+        132,
+        178
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10774_GT.png",
+      "source_mask_positive_pixels": 1152,
+      "source_mask_shape": [
+        638,
+        233
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10797.png",
+      "score": 8.921523094177246,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10797.png",
+      "source_mask_area_fraction": 0.037909953970080554,
+      "source_mask_bbox_xyxy": [
+        157,
+        321,
+        219,
+        447
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10797_GT.png",
+      "source_mask_positive_pixels": 5271,
+      "source_mask_shape": [
+        632,
+        220
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10821.png",
+      "score": 8.699973106384277,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10821.png",
+      "source_mask_area_fraction": 0.05164923349382921,
+      "source_mask_bbox_xyxy": [
+        4,
+        305,
+        227,
+        516
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10821_GT.png",
+      "source_mask_positive_pixels": 7466,
+      "source_mask_shape": [
+        634,
+        228
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10869.png",
+      "score": 6.233226299285889,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10869.png",
+      "source_mask_area_fraction": 0.03492460612617486,
+      "source_mask_bbox_xyxy": [
+        13,
+        527,
+        207,
+        608
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10869_GT.png",
+      "source_mask_positive_pixels": 5165,
+      "source_mask_shape": [
+        643,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10893.png",
+      "score": 11.950309753417969,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10893.png",
+      "source_mask_area_fraction": 0.008351978209813923,
+      "source_mask_bbox_xyxy": [
+        1,
+        334,
+        45,
+        370
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10893_GT.png",
+      "source_mask_positive_pixels": 1202,
+      "source_mask_shape": [
+        634,
+        227
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10905.png",
+      "score": 12.13141918182373,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10905.png",
+      "source_mask_area_fraction": 0.013144102394350656,
+      "source_mask_bbox_xyxy": [
+        44,
+        264,
+        150,
+        293
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\10905_GT.png",
+      "source_mask_positive_pixels": 1906,
+      "source_mask_shape": [
+        636,
+        228
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11012.png",
+      "score": 3.669912338256836,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11012.png",
+      "source_mask_area_fraction": 0.002422863924050633,
+      "source_mask_bbox_xyxy": [
+        14,
+        574,
+        42,
+        606
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11012_GT.png",
+      "source_mask_positive_pixels": 343,
+      "source_mask_shape": [
+        632,
+        224
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11040.png",
+      "score": 1.1235485076904297,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11040.png",
+      "source_mask_area_fraction": 0.005293284914137995,
+      "source_mask_bbox_xyxy": [
+        71,
+        599,
+        104,
+        632
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11040_GT.png",
+      "source_mask_positive_pixels": 774,
+      "source_mask_shape": [
+        633,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11088.png",
+      "score": 12.14153003692627,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11088.png",
+      "source_mask_area_fraction": 0.04760130910251976,
+      "source_mask_bbox_xyxy": [
+        0,
+        96,
+        133,
+        249
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11088_GT.png",
+      "source_mask_positive_pixels": 7156,
+      "source_mask_shape": [
+        637,
+        236
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11093.png",
+      "score": 5.677198886871338,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11093.png",
+      "source_mask_area_fraction": 0.0042569355303486755,
+      "source_mask_bbox_xyxy": [
+        197,
+        185,
+        221,
+        220
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11093_GT.png",
+      "source_mask_positive_pixels": 650,
+      "source_mask_shape": [
+        647,
+        236
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11094.png",
+      "score": 15.881754875183105,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11094.png",
+      "source_mask_area_fraction": 0.0076573457733782125,
+      "source_mask_bbox_xyxy": [
+        129,
+        536,
+        179,
+        567
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11094_GT.png",
+      "source_mask_positive_pixels": 1117,
+      "source_mask_shape": [
+        637,
+        229
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11139.png",
+      "score": 12.88659381866455,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11139.png",
+      "source_mask_area_fraction": 0.04027302805349348,
+      "source_mask_bbox_xyxy": [
+        0,
+        184,
+        211,
+        326
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11139_GT.png",
+      "source_mask_positive_pixels": 5794,
+      "source_mask_shape": [
+        631,
+        228
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11178.png",
+      "score": 3.6009294986724854,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11178.png",
+      "source_mask_area_fraction": 0.047344630491580865,
+      "source_mask_bbox_xyxy": [
+        148,
+        483,
+        232,
+        587
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11178_GT.png",
+      "source_mask_positive_pixels": 7049,
+      "source_mask_shape": [
+        639,
+        233
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11228.png",
+      "score": 15.500184059143066,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11228.png",
+      "source_mask_area_fraction": 0.04195672116993147,
+      "source_mask_bbox_xyxy": [
+        0,
+        248,
+        76,
+        350
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11228_GT.png",
+      "source_mask_positive_pixels": 6220,
+      "source_mask_shape": [
+        639,
+        232
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11230.png",
+      "score": 5.200241565704346,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11230.png",
+      "source_mask_area_fraction": 0.0004152935187417946,
+      "source_mask_bbox_xyxy": [
+        194,
+        260,
+        204,
+        266
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11230_GT.png",
+      "source_mask_positive_pixels": 62,
+      "source_mask_shape": [
+        638,
+        234
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11315.png",
+      "score": 6.667540073394775,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11315.png",
+      "source_mask_area_fraction": 0.10855907586300075,
+      "source_mask_bbox_xyxy": [
+        0,
+        367,
+        225,
+        494
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11315_GT.png",
+      "source_mask_positive_pixels": 16070,
+      "source_mask_shape": [
+        655,
+        226
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11339.png",
+      "score": 8.022200584411621,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11339.png",
+      "source_mask_area_fraction": 0.004427341939755048,
+      "source_mask_bbox_xyxy": [
+        84,
+        280,
+        144,
+        299
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11339_GT.png",
+      "source_mask_positive_pixels": 642,
+      "source_mask_shape": [
+        636,
+        228
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11350.png",
+      "score": 10.438888549804688,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11350.png",
+      "source_mask_area_fraction": 0.015048083434918055,
+      "source_mask_bbox_xyxy": [
+        9,
+        361,
+        116,
+        395
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11350_GT.png",
+      "source_mask_positive_pixels": 2222,
+      "source_mask_shape": [
+        642,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11351.png",
+      "score": 3.4416568279266357,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11351.png",
+      "source_mask_area_fraction": 0.020437525627837048,
+      "source_mask_bbox_xyxy": [
+        0,
+        412,
+        21,
+        572
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11351_GT.png",
+      "source_mask_positive_pixels": 2841,
+      "source_mask_shape": [
+        629,
+        221
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11360.png",
+      "score": 12.96895694732666,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11360.png",
+      "source_mask_area_fraction": 0.006810504522175003,
+      "source_mask_bbox_xyxy": [
+        19,
+        354,
+        47,
+        423
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11360_GT.png",
+      "source_mask_positive_pixels": 1000,
+      "source_mask_shape": [
+        644,
+        228
+      ]
+    },
+    {
+      "flagged": false,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11404.png",
+      "score": 0.36277079582214355,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11404.png",
+      "source_mask_area_fraction": 0.026646441138170836,
+      "source_mask_bbox_xyxy": [
+        7,
+        537,
+        78,
+        635
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11404_GT.png",
+      "source_mask_positive_pixels": 3847,
+      "source_mask_shape": [
+        636,
+        227
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11500.png",
+      "score": 12.76223087310791,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11500.png",
+      "source_mask_area_fraction": 0.0383551060542211,
+      "source_mask_bbox_xyxy": [
+        13,
+        203,
+        123,
+        311
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11500_GT.png",
+      "source_mask_positive_pixels": 5461,
+      "source_mask_shape": [
+        630,
+        226
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11512.png",
+      "score": 1.649146556854248,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11512.png",
+      "source_mask_area_fraction": 0.0012039342121372893,
+      "source_mask_bbox_xyxy": [
+        12,
+        178,
+        23,
+        200
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11512_GT.png",
+      "source_mask_positive_pixels": 177,
+      "source_mask_shape": [
+        642,
+        229
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11553.png",
+      "score": 3.826906442642212,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11553.png",
+      "source_mask_area_fraction": 0.004207388923546129,
+      "source_mask_bbox_xyxy": [
+        44,
+        304,
+        68,
+        333
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11553_GT.png",
+      "source_mask_positive_pixels": 607,
+      "source_mask_shape": [
+        630,
+        229
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11574.png",
+      "score": 8.680554389953613,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11574.png",
+      "source_mask_area_fraction": 0.03451704545454545,
+      "source_mask_bbox_xyxy": [
+        0,
+        379,
+        40,
+        639
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11574_GT.png",
+      "source_mask_positive_pixels": 5103,
+      "source_mask_shape": [
+        640,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11585.png",
+      "score": 7.922107219696045,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11585.png",
+      "source_mask_area_fraction": 0.026056995698437852,
+      "source_mask_bbox_xyxy": [
+        95,
+        529,
+        223,
+        577
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11585_GT.png",
+      "source_mask_positive_pixels": 3683,
+      "source_mask_shape": [
+        631,
+        224
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11629.png",
+      "score": 9.083958625793457,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11629.png",
+      "source_mask_area_fraction": 0.08540257383270088,
+      "source_mask_bbox_xyxy": [
+        0,
+        406,
+        227,
+        604
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11629_GT.png",
+      "source_mask_positive_pixels": 12423,
+      "source_mask_shape": [
+        638,
+        228
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11632.png",
+      "score": 9.629143714904785,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11632.png",
+      "source_mask_area_fraction": 0.006317089389189703,
+      "source_mask_bbox_xyxy": [
+        157,
+        388,
+        193,
+        428
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11632_GT.png",
+      "source_mask_positive_pixels": 931,
+      "source_mask_shape": [
+        638,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11641.png",
+      "score": 3.845489263534546,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11641.png",
+      "source_mask_area_fraction": 0.006401472543204827,
+      "source_mask_bbox_xyxy": [
+        13,
+        140,
+        74,
+        178
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11641_GT.png",
+      "source_mask_positive_pixels": 939,
+      "source_mask_shape": [
+        635,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11670.png",
+      "score": 13.598549842834473,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11670.png",
+      "source_mask_area_fraction": 0.04160086443354667,
+      "source_mask_bbox_xyxy": [
+        148,
+        289,
+        226,
+        401
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11670_GT.png",
+      "source_mask_positive_pixels": 6006,
+      "source_mask_shape": [
+        636,
+        227
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11711.png",
+      "score": 15.179462432861328,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11711.png",
+      "source_mask_area_fraction": 0.007169287696577244,
+      "source_mask_bbox_xyxy": [
+        45,
+        289,
+        98,
+        316
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11711_GT.png",
+      "source_mask_positive_pixels": 1085,
+      "source_mask_shape": [
+        644,
+        235
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11808.png",
+      "score": 7.822139739990234,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11808.png",
+      "source_mask_area_fraction": 0.04030371960401115,
+      "source_mask_bbox_xyxy": [
+        55,
+        0,
+        177,
+        124
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11808_GT.png",
+      "source_mask_positive_pixels": 5032,
+      "source_mask_shape": [
+        637,
+        196
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11867.png",
+      "score": 0.5882348418235779,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11867.png",
+      "source_mask_area_fraction": 0.0014261977291608972,
+      "source_mask_bbox_xyxy": [
+        146,
+        398,
+        158,
+        427
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11867_GT.png",
+      "source_mask_positive_pixels": 206,
+      "source_mask_shape": [
+        628,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11870.png",
+      "score": 16.397512435913086,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11870.png",
+      "source_mask_area_fraction": 0.024969524583502642,
+      "source_mask_bbox_xyxy": [
+        11,
+        0,
+        48,
+        154
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11870_GT.png",
+      "source_mask_positive_pixels": 3687,
+      "source_mask_shape": [
+        642,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11899.png",
+      "score": 11.506491661071777,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11899.png",
+      "source_mask_area_fraction": 0.03741705236156806,
+      "source_mask_bbox_xyxy": [
+        0,
+        237,
+        76,
+        362
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11899_GT.png",
+      "source_mask_positive_pixels": 5368,
+      "source_mask_shape": [
+        632,
+        227
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11917.png",
+      "score": 8.627453804016113,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11917.png",
+      "source_mask_area_fraction": 0.04902054467271859,
+      "source_mask_bbox_xyxy": [
+        0,
+        0,
+        164,
+        636
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11917_GT.png",
+      "source_mask_positive_pixels": 7182,
+      "source_mask_shape": [
+        637,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11957.png",
+      "score": 0.9841539859771729,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11957.png",
+      "source_mask_area_fraction": 0.008518216834868085,
+      "source_mask_bbox_xyxy": [
+        196,
+        0,
+        225,
+        57
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11957_GT.png",
+      "source_mask_positive_pixels": 1234,
+      "source_mask_shape": [
+        641,
+        226
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11962.png",
+      "score": 8.955748558044434,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11962.png",
+      "source_mask_area_fraction": 0.010139339826839826,
+      "source_mask_bbox_xyxy": [
+        28,
+        208,
+        91,
+        280
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11962_GT.png",
+      "source_mask_positive_pixels": 1499,
+      "source_mask_shape": [
+        640,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11969.png",
+      "score": 1.4607216119766235,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11969.png",
+      "source_mask_area_fraction": 0.004908950321706499,
+      "source_mask_bbox_xyxy": [
+        158,
+        481,
+        177,
+        526
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11969_GT.png",
+      "source_mask_positive_pixels": 692,
+      "source_mask_shape": [
+        621,
+        227
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11980.png",
+      "score": 2.5429060459136963,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11980.png",
+      "source_mask_area_fraction": 0.015188659494431725,
+      "source_mask_bbox_xyxy": [
+        0,
+        0,
+        26,
+        104
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11980_GT.png",
+      "source_mask_positive_pixels": 2249,
+      "source_mask_shape": [
+        641,
+        231
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11986.png",
+      "score": 5.452514171600342,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11986.png",
+      "source_mask_area_fraction": 0.004737489745693191,
+      "source_mask_bbox_xyxy": [
+        79,
+        308,
+        153,
+        325
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\11986_GT.png",
+      "source_mask_positive_pixels": 693,
+      "source_mask_shape": [
+        636,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12080.png",
+      "score": 11.447059631347656,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12080.png",
+      "source_mask_area_fraction": 0.03790696066910901,
+      "source_mask_bbox_xyxy": [
+        44,
+        197,
+        186,
+        249
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12080_GT.png",
+      "source_mask_positive_pixels": 5484,
+      "source_mask_shape": [
+        629,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12141.png",
+      "score": 2.8353912830352783,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12141.png",
+      "source_mask_area_fraction": 0.0037832614835736585,
+      "source_mask_bbox_xyxy": [
+        13,
+        400,
+        23,
+        457
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12141_GT.png",
+      "source_mask_positive_pixels": 509,
+      "source_mask_shape": [
+        620,
+        217
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12179.png",
+      "score": 18.43144989013672,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12179.png",
+      "source_mask_area_fraction": 0.09228622406120479,
+      "source_mask_bbox_xyxy": [
+        53,
+        0,
+        228,
+        628
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12179_GT.png",
+      "source_mask_positive_pixels": 13293,
+      "source_mask_shape": [
+        629,
+        229
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12191.png",
+      "score": 8.732895851135254,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12191.png",
+      "source_mask_area_fraction": 0.010034485090269794,
+      "source_mask_bbox_xyxy": [
+        12,
+        306,
+        37,
+        374
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12191_GT.png",
+      "source_mask_positive_pixels": 1484,
+      "source_mask_shape": [
+        643,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12233.png",
+      "score": 15.814600944519043,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12233.png",
+      "source_mask_area_fraction": 0.04904803493449782,
+      "source_mask_bbox_xyxy": [
+        62,
+        221,
+        228,
+        308
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12233_GT.png",
+      "source_mask_positive_pixels": 7020,
+      "source_mask_shape": [
+        625,
+        229
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12255.png",
+      "score": 4.037415027618408,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12255.png",
+      "source_mask_area_fraction": 0.008505081874647092,
+      "source_mask_bbox_xyxy": [
+        0,
+        37,
+        21,
+        113
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12255_GT.png",
+      "source_mask_positive_pixels": 1205,
+      "source_mask_shape": [
+        616,
+        230
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12303.png",
+      "score": 4.672189712524414,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12303.png",
+      "source_mask_area_fraction": 0.08790409482758621,
+      "source_mask_bbox_xyxy": [
+        0,
+        62,
+        138,
+        205
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12303_GT.png",
+      "source_mask_positive_pixels": 13052,
+      "source_mask_shape": [
+        640,
+        232
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12314.png",
+      "score": 7.966999053955078,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12314.png",
+      "source_mask_area_fraction": 0.029901678064321223,
+      "source_mask_bbox_xyxy": [
+        165,
+        0,
+        228,
+        85
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12314_GT.png",
+      "source_mask_positive_pixels": 4355,
+      "source_mask_shape": [
+        636,
+        229
+      ]
+    },
+    {
+      "flagged": true,
+      "id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12317.png",
+      "score": 9.375682830810547,
+      "source_image_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12317.png",
+      "source_mask_area_fraction": 0.017924368895948093,
+      "source_mask_bbox_xyxy": [
+        0,
+        422,
+        95,
+        535
+      ],
+      "source_mask_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-data\\data\\raw\\ksdd2\\train\\12317_GT.png",
+      "source_mask_positive_pixels": 2652,
+      "source_mask_shape": [
+        635,
+        233
+      ]
+    }
+  ],
+  "scope": "post-selection source-mask diagnosis on the same observed development defects; no fitting or threshold changes; no official test access",
+  "selected_result": "hard_refined"
+}

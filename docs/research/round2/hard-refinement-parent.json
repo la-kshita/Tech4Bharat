@@ -1,0 +1,9 @@
+{
+  "recipe": {
+    "fusion": null,
+    "model": "focal",
+    "rule": "top_0.1_percent"
+  },
+  "selected_result": "focal_top001",
+  "selection": "highest observed development recall under 10% FPR, then lower FPR"
+}

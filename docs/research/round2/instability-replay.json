@@ -1,0 +1,7 @@
+{
+  "deterministic_checkpoint_replay": true,
+  "max_abs_difference": 0.0,
+  "purpose": "saved-checkpoint feedback loop; no new fitting or threshold change",
+  "replayed_scores": 916,
+  "symptom": "failed seed 4219 localized recall 3/82, FP 42/417"
+}

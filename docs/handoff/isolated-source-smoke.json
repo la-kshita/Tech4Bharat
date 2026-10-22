@@ -1,0 +1,15 @@
+{
+  "absolute_score_difference": 0.0,
+  "identity": "8ddcac9907af4c033cbc9ff208f452ce572ea6b251da373cf267c2a3df95f355",
+  "inference_labels_or_masks_supplied": false,
+  "model_id": "ksdd2-ensemble-mvp-v1",
+  "original_train_image_sha256": "8a5be59c82782c0755771178339c552aba6f09c3e091e7e721cbda28ddf3d68d",
+  "pinned_provider_url_head_status": 200,
+  "provider_content_length": 46807446,
+  "research_runs_or_dataset_manifests_present": false,
+  "same_archived_flag": true,
+  "same_archived_score": true,
+  "scope": "Isolated minimal source/model copy using the existing locked environment; not a fresh environment install or new accuracy evaluation.",
+  "standard_pretrained_backbone_copied_from_verified_local_file": true,
+  "status": "passed"
+}

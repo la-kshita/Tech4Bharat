@@ -1,0 +1,1156 @@
+{
+  "all_four_models_full_replay_exact": true,
+  "fresh_independent_validation_complete": false,
+  "historical_archive_files_unchanged": 126,
+  "no_absolute_certainty_or_factory_generalization_claim": true,
+  "no_training_threshold_or_candidate_changes": true,
+  "outcomes": {
+    "aligned": {
+      "confidence": {
+        "assumptions": "iid representative items, fixed model and threshold; observed benchmark and unknown physical groups limit interpretation",
+        "confidence_target_met": false,
+        "fpr_exact_95": [
+          0.05358112838626963,
+          0.08802673444468853
+        ],
+        "point_target_met": false,
+        "recall_exact_95": [
+          0.8281145387254362,
+          0.9490143302628286
+        ],
+        "simultaneous_95_fpr_upper": 0.08802673444468853,
+        "simultaneous_95_recall_lower": 0.8281145387254362
+      },
+      "development_metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 417,
+          "numerator": 32,
+          "rate": 0.07673860911270983,
+          "wilson_95": [
+            0.054879658075533785,
+            0.10632465627791256
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 82,
+          "numerator": 82,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9552493763098998,
+            1
+          ]
+        },
+        "counts": {
+          "FN": 3,
+          "FP": 32,
+          "TN": 385,
+          "TP": 79,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 499,
+          "numerator": 499,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9923604970248409,
+            1
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 417,
+          "numerator": 32,
+          "rate": 0.07673860911270983,
+          "wilson_95": [
+            0.054879658075533785,
+            0.10632465627791256
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 417,
+          "numerator": 417,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9908719572651922,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 499,
+          "numerator": 82,
+          "rate": 0.16432865731462926,
+          "wilson_95": [
+            0.1344019624969932,
+            0.19938407657450652
+          ]
+        },
+        "precision": {
+          "denominator": 111,
+          "numerator": 79,
+          "rate": 0.7117117117117117,
+          "wilson_95": [
+            0.621483181629363,
+            0.7877766839509123
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9893548575773528,
+          "average_precision": 0.9649923215072533,
+          "n": 499,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 82,
+          "numerator": 79,
+          "rate": 0.9634146341463414,
+          "wilson_95": [
+            0.8978726535639152,
+            0.9874804269184307
+          ]
+        }
+      },
+      "head_sha256": "0392b0ffd689c1915ef44b719c21370cd8c2946ce9e52fa009d368d6db92d2ac",
+      "metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 894,
+          "numerator": 62,
+          "rate": 0.06935123042505593,
+          "wilson_95": [
+            0.054474345595814586,
+            0.08791321911813015
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 110,
+          "numerator": 110,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9662560647018358,
+            0.9999999999999999
+          ]
+        },
+        "counts": {
+          "FN": 11,
+          "FP": 62,
+          "TN": 832,
+          "TP": 99,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 1004,
+          "numerator": 1004,
+          "rate": 1.0,
+          "wilson_95": [
+            0.996188429452794,
+            0.9999999999999999
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 894,
+          "numerator": 62,
+          "rate": 0.06935123042505593,
+          "wilson_95": [
+            0.054474345595814586,
+            0.08791321911813015
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 894,
+          "numerator": 894,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9957214508386147,
+            1
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 1004,
+          "numerator": 110,
+          "rate": 0.10956175298804781,
+          "wilson_95": [
+            0.0917092070311931,
+            0.13039066479052952
+          ]
+        },
+        "precision": {
+          "denominator": 161,
+          "numerator": 99,
+          "rate": 0.6149068322981367,
+          "wilson_95": [
+            0.5378955770458438,
+            0.686562519022371
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9703782794386822,
+          "average_precision": 0.915687654465791,
+          "n": 1004,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 110,
+          "numerator": 99,
+          "rate": 0.9,
+          "wilson_95": [
+            0.8297649719024331,
+            0.9432398798590356
+          ]
+        }
+      },
+      "test_minus_development_fpr": -0.007387378687653892,
+      "test_minus_development_recall": -0.06341463414634141,
+      "threshold": -1.7987803220748901,
+      "training_diagnostic": {
+        "accepted_normal_fpr": {
+          "denominator": 256,
+          "numerator": 8,
+          "rate": 0.03125,
+          "wilson_95": [
+            0.015918258891511296,
+            0.06044160650774316
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 164,
+          "numerator": 164,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9771125748805723,
+            0.9999999999999999
+          ]
+        },
+        "counts": {
+          "FN": 0,
+          "FP": 8,
+          "TN": 248,
+          "TP": 164,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 420,
+          "numerator": 420,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9909365666318185,
+            0.9999999999999999
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 256,
+          "numerator": 8,
+          "rate": 0.03125,
+          "wilson_95": [
+            0.015918258891511296,
+            0.06044160650774316
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 256,
+          "numerator": 256,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9852161435741286,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 420,
+          "numerator": 164,
+          "rate": 0.3904761904761905,
+          "wilson_95": [
+            0.34501324306005154,
+            0.43792446139202623
+          ]
+        },
+        "precision": {
+          "denominator": 172,
+          "numerator": 164,
+          "rate": 0.9534883720930233,
+          "wilson_95": [
+            0.9109166200708987,
+            0.9762461744500086
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 1.0,
+          "average_precision": 1.0,
+          "n": 420,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 164,
+          "numerator": 164,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9771125748805723,
+            0.9999999999999999
+          ]
+        }
+      }
+    },
+    "aligned_seed4218": {
+      "confidence": {
+        "assumptions": "iid representative items, fixed model and threshold; observed benchmark and unknown physical groups limit interpretation",
+        "confidence_target_met": false,
+        "fpr_exact_95": [
+          0.04471962172437085,
+          0.07683109845157826
+        ],
+        "point_target_met": false,
+        "recall_exact_95": [
+          0.8503606421291154,
+          0.9619040767256536
+        ],
+        "simultaneous_95_fpr_upper": 0.07683109845157826,
+        "simultaneous_95_recall_lower": 0.8503606421291154
+      },
+      "development_metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 417,
+          "numerator": 29,
+          "rate": 0.06954436450839328,
+          "wilson_95": [
+            0.04885457211731205,
+            0.09809259177188694
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 82,
+          "numerator": 82,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9552493763098998,
+            1
+          ]
+        },
+        "counts": {
+          "FN": 4,
+          "FP": 29,
+          "TN": 388,
+          "TP": 78,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 499,
+          "numerator": 499,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9923604970248409,
+            1
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 417,
+          "numerator": 29,
+          "rate": 0.06954436450839328,
+          "wilson_95": [
+            0.04885457211731205,
+            0.09809259177188694
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 417,
+          "numerator": 417,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9908719572651922,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 499,
+          "numerator": 82,
+          "rate": 0.16432865731462926,
+          "wilson_95": [
+            0.1344019624969932,
+            0.19938407657450652
+          ]
+        },
+        "precision": {
+          "denominator": 107,
+          "numerator": 78,
+          "rate": 0.7289719626168224,
+          "wilson_95": [
+            0.6379084109244534,
+            0.804164442693129
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9872784699070012,
+          "average_precision": 0.9638878522360886,
+          "n": 499,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 82,
+          "numerator": 78,
+          "rate": 0.9512195121951219,
+          "wilson_95": [
+            0.8811853807742406,
+            0.9808689344322542
+          ]
+        }
+      },
+      "head_sha256": "9f1a566ca970be10a38feb745a30a9d2d2f0d03cfaf73fc29c27c8d5b6b718a0",
+      "metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 894,
+          "numerator": 53,
+          "rate": 0.0592841163310962,
+          "wilson_95": [
+            0.04560798747699083,
+            0.07673149433416299
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 110,
+          "numerator": 110,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9662560647018358,
+            0.9999999999999999
+          ]
+        },
+        "counts": {
+          "FN": 9,
+          "FP": 53,
+          "TN": 841,
+          "TP": 101,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 1004,
+          "numerator": 1004,
+          "rate": 1.0,
+          "wilson_95": [
+            0.996188429452794,
+            0.9999999999999999
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 894,
+          "numerator": 53,
+          "rate": 0.0592841163310962,
+          "wilson_95": [
+            0.04560798747699083,
+            0.07673149433416299
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 894,
+          "numerator": 894,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9957214508386147,
+            1
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 1004,
+          "numerator": 110,
+          "rate": 0.10956175298804781,
+          "wilson_95": [
+            0.0917092070311931,
+            0.13039066479052952
+          ]
+        },
+        "precision": {
+          "denominator": 154,
+          "numerator": 101,
+          "rate": 0.6558441558441559,
+          "wilson_95": [
+            0.5778377286824492,
+            0.7262648838924093
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.969635956884279,
+          "average_precision": 0.9259858492927632,
+          "n": 1004,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 110,
+          "numerator": 101,
+          "rate": 0.9181818181818182,
+          "wilson_95": [
+            0.8517820822110996,
+            0.9563593537213447
+          ]
+        }
+      },
+      "test_minus_development_fpr": -0.010260248177297086,
+      "test_minus_development_recall": -0.0330376940133037,
+      "threshold": -1.594643235206604,
+      "training_diagnostic": {
+        "accepted_normal_fpr": {
+          "denominator": 256,
+          "numerator": 3,
+          "rate": 0.01171875,
+          "wilson_95": [
+            0.003993287123007758,
+            0.033881572667882304
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 164,
+          "numerator": 164,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9771125748805723,
+            0.9999999999999999
+          ]
+        },
+        "counts": {
+          "FN": 0,
+          "FP": 3,
+          "TN": 253,
+          "TP": 164,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 420,
+          "numerator": 420,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9909365666318185,
+            0.9999999999999999
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 256,
+          "numerator": 3,
+          "rate": 0.01171875,
+          "wilson_95": [
+            0.003993287123007758,
+            0.033881572667882304
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 256,
+          "numerator": 256,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9852161435741286,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 420,
+          "numerator": 164,
+          "rate": 0.3904761904761905,
+          "wilson_95": [
+            0.34501324306005154,
+            0.43792446139202623
+          ]
+        },
+        "precision": {
+          "denominator": 167,
+          "numerator": 164,
+          "rate": 0.9820359281437125,
+          "wilson_95": [
+            0.9485221049986969,
+            0.9938720955154581
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 1.0,
+          "average_precision": 1.0,
+          "n": 420,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 164,
+          "numerator": 164,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9771125748805723,
+            0.9999999999999999
+          ]
+        }
+      }
+    },
+    "aligned_seed4219": {
+      "confidence": {
+        "assumptions": "iid representative items, fixed model and threshold; observed benchmark and unknown physical groups limit interpretation",
+        "confidence_target_met": false,
+        "fpr_exact_95": [
+          0.04962879899237849,
+          0.0830644628667547
+        ],
+        "point_target_met": false,
+        "recall_exact_95": [
+          0.8391651177608987,
+          0.9555404943642238
+        ],
+        "simultaneous_95_fpr_upper": 0.0830644628667547,
+        "simultaneous_95_recall_lower": 0.8391651177608987
+      },
+      "development_metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 417,
+          "numerator": 30,
+          "rate": 0.07194244604316546,
+          "wilson_95": [
+            0.05085543875848155,
+            0.10084410861879986
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 82,
+          "numerator": 82,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9552493763098998,
+            1
+          ]
+        },
+        "counts": {
+          "FN": 4,
+          "FP": 30,
+          "TN": 387,
+          "TP": 78,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 499,
+          "numerator": 499,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9923604970248409,
+            1
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 417,
+          "numerator": 30,
+          "rate": 0.07194244604316546,
+          "wilson_95": [
+            0.05085543875848155,
+            0.10084410861879986
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 417,
+          "numerator": 417,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9908719572651922,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 499,
+          "numerator": 82,
+          "rate": 0.16432865731462926,
+          "wilson_95": [
+            0.1344019624969932,
+            0.19938407657450652
+          ]
+        },
+        "precision": {
+          "denominator": 108,
+          "numerator": 78,
+          "rate": 0.7222222222222222,
+          "wilson_95": [
+            0.631229216231001,
+            0.7979497349927512
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9884482657776219,
+          "average_precision": 0.9622509542275852,
+          "n": 499,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 82,
+          "numerator": 78,
+          "rate": 0.9512195121951219,
+          "wilson_95": [
+            0.8811853807742406,
+            0.9808689344322542
+          ]
+        }
+      },
+      "head_sha256": "6fab6d475d7b70b3a08776d5ce2867ec457ae180cbac9b7ad62feaba0c44e754",
+      "metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 894,
+          "numerator": 58,
+          "rate": 0.06487695749440715,
+          "wilson_95": [
+            0.05052024771527444,
+            0.08295705793076319
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 110,
+          "numerator": 110,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9662560647018358,
+            0.9999999999999999
+          ]
+        },
+        "counts": {
+          "FN": 10,
+          "FP": 58,
+          "TN": 836,
+          "TP": 100,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 1004,
+          "numerator": 1004,
+          "rate": 1.0,
+          "wilson_95": [
+            0.996188429452794,
+            0.9999999999999999
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 894,
+          "numerator": 58,
+          "rate": 0.06487695749440715,
+          "wilson_95": [
+            0.05052024771527444,
+            0.08295705793076319
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 894,
+          "numerator": 894,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9957214508386147,
+            1
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 1004,
+          "numerator": 110,
+          "rate": 0.10956175298804781,
+          "wilson_95": [
+            0.0917092070311931,
+            0.13039066479052952
+          ]
+        },
+        "precision": {
+          "denominator": 158,
+          "numerator": 100,
+          "rate": 0.6329113924050633,
+          "wilson_95": [
+            0.5554287519463293,
+            0.7040844797437796
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9744356314826114,
+          "average_precision": 0.9288431101529034,
+          "n": 1004,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 110,
+          "numerator": 100,
+          "rate": 0.9090909090909091,
+          "wilson_95": [
+            0.8407034728180641,
+            0.9498696710288924
+          ]
+        }
+      },
+      "test_minus_development_fpr": -0.007065488548758311,
+      "test_minus_development_recall": -0.04212860310421285,
+      "threshold": -2.117192029953003,
+      "training_diagnostic": {
+        "accepted_normal_fpr": {
+          "denominator": 256,
+          "numerator": 14,
+          "rate": 0.0546875,
+          "wilson_95": [
+            0.03285229140400938,
+            0.08968958072528235
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 164,
+          "numerator": 164,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9771125748805723,
+            0.9999999999999999
+          ]
+        },
+        "counts": {
+          "FN": 0,
+          "FP": 14,
+          "TN": 242,
+          "TP": 164,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 420,
+          "numerator": 420,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9909365666318185,
+            0.9999999999999999
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 256,
+          "numerator": 14,
+          "rate": 0.0546875,
+          "wilson_95": [
+            0.03285229140400938,
+            0.08968958072528235
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 256,
+          "numerator": 256,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9852161435741286,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 420,
+          "numerator": 164,
+          "rate": 0.3904761904761905,
+          "wilson_95": [
+            0.34501324306005154,
+            0.43792446139202623
+          ]
+        },
+        "precision": {
+          "denominator": 178,
+          "numerator": 164,
+          "rate": 0.9213483146067416,
+          "wilson_95": [
+            0.8723212857134466,
+            0.9525731084076894
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 1.0,
+          "average_precision": 1.0,
+          "n": 420,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 164,
+          "numerator": 164,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9771125748805723,
+            0.9999999999999999
+          ]
+        }
+      }
+    },
+    "warm_aligned": {
+      "confidence": {
+        "assumptions": "iid representative items, fixed model and threshold; observed benchmark and unknown physical groups limit interpretation",
+        "confidence_target_met": false,
+        "fpr_exact_95": [
+          0.06054496739706778,
+          0.09666442699881213
+        ],
+        "point_target_met": false,
+        "recall_exact_95": [
+          0.8391651177608987,
+          0.9555404943642238
+        ],
+        "simultaneous_95_fpr_upper": 0.09666442699881213,
+        "simultaneous_95_recall_lower": 0.8391651177608987
+      },
+      "development_metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 417,
+          "numerator": 24,
+          "rate": 0.05755395683453238,
+          "wilson_95": [
+            0.03897781510999243,
+            0.08420743133879426
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 82,
+          "numerator": 82,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9552493763098998,
+            1
+          ]
+        },
+        "counts": {
+          "FN": 2,
+          "FP": 24,
+          "TN": 393,
+          "TP": 80,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 499,
+          "numerator": 499,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9923604970248409,
+            1
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 417,
+          "numerator": 24,
+          "rate": 0.05755395683453238,
+          "wilson_95": [
+            0.03897781510999243,
+            0.08420743133879426
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 417,
+          "numerator": 417,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9908719572651922,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 499,
+          "numerator": 82,
+          "rate": 0.16432865731462926,
+          "wilson_95": [
+            0.1344019624969932,
+            0.19938407657450652
+          ]
+        },
+        "precision": {
+          "denominator": 104,
+          "numerator": 80,
+          "rate": 0.7692307692307693,
+          "wilson_95": [
+            0.6795448838800338,
+            0.8397359253040306
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9951161022401591,
+          "average_precision": 0.9794520937784862,
+          "n": 499,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 82,
+          "numerator": 80,
+          "rate": 0.975609756097561,
+          "wilson_95": [
+            0.9153662160893606,
+            0.9932856296688367
+          ]
+        }
+      },
+      "head_sha256": "ffca032083bd4c7a003c198b70b7dc5eb10c4d7dee40392fd7a81c9160f560d9",
+      "metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 894,
+          "numerator": 69,
+          "rate": 0.07718120805369127,
+          "wilson_95": [
+            0.06144006808419923,
+            0.09654044999858284
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 110,
+          "numerator": 110,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9662560647018358,
+            0.9999999999999999
+          ]
+        },
+        "counts": {
+          "FN": 10,
+          "FP": 69,
+          "TN": 825,
+          "TP": 100,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 1004,
+          "numerator": 1004,
+          "rate": 1.0,
+          "wilson_95": [
+            0.996188429452794,
+            0.9999999999999999
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 894,
+          "numerator": 69,
+          "rate": 0.07718120805369127,
+          "wilson_95": [
+            0.06144006808419923,
+            0.09654044999858284
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 894,
+          "numerator": 894,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9957214508386147,
+            1
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 1004,
+          "numerator": 110,
+          "rate": 0.10956175298804781,
+          "wilson_95": [
+            0.0917092070311931,
+            0.13039066479052952
+          ]
+        },
+        "precision": {
+          "denominator": 169,
+          "numerator": 100,
+          "rate": 0.591715976331361,
+          "wilson_95": [
+            0.5163731745980432,
+            0.6629819420013802
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9741000610128127,
+          "average_precision": 0.9239227239891442,
+          "n": 1004,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 110,
+          "numerator": 100,
+          "rate": 0.9090909090909091,
+          "wilson_95": [
+            0.8407034728180641,
+            0.9498696710288924
+          ]
+        }
+      },
+      "test_minus_development_fpr": 0.019627251219158898,
+      "test_minus_development_recall": -0.0665188470066519,
+      "threshold": -1.684261679649353,
+      "training_diagnostic": {
+        "accepted_normal_fpr": {
+          "denominator": 256,
+          "numerator": 3,
+          "rate": 0.01171875,
+          "wilson_95": [
+            0.003993287123007758,
+            0.033881572667882304
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 164,
+          "numerator": 164,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9771125748805723,
+            0.9999999999999999
+          ]
+        },
+        "counts": {
+          "FN": 0,
+          "FP": 3,
+          "TN": 253,
+          "TP": 164,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 420,
+          "numerator": 420,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9909365666318185,
+            0.9999999999999999
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 256,
+          "numerator": 3,
+          "rate": 0.01171875,
+          "wilson_95": [
+            0.003993287123007758,
+            0.033881572667882304
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 256,
+          "numerator": 256,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9852161435741286,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 420,
+          "numerator": 164,
+          "rate": 0.3904761904761905,
+          "wilson_95": [
+            0.34501324306005154,
+            0.43792446139202623
+          ]
+        },
+        "precision": {
+          "denominator": 167,
+          "numerator": 164,
+          "rate": 0.9820359281437125,
+          "wilson_95": [
+            0.9485221049986969,
+            0.9938720955154581
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 1.0,
+          "average_precision": 1.0,
+          "n": 420,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 164,
+          "numerator": 164,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9771125748805723,
+            0.9999999999999999
+          ]
+        }
+      }
+    }
+  },
+  "primary": "warm_aligned",
+  "protocol_identity": "0d4b112f51488773ef28b670de7ae6774e4c9b0821e4d327e70203f4b9a32d3e",
+  "reason": "official test already observed in Stage5; excluded from these heads fitting/calibration but not pristine project confirmation; user confirms no separate new labeled batch",
+  "secondary_results_are_not_new_candidate_selection": true,
+  "test_defects": 110,
+  "test_images": 1004,
+  "test_normals": 894
+}

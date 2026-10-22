@@ -1,0 +1,15 @@
+{
+  "command": "components/.venv-p0/Scripts/python.exe -m pytest components/tests -q",
+  "commit": "66d88802602af0b756931b81e14562381e9b25fe",
+  "elapsed_seconds": 24.85,
+  "exit_code": 0,
+  "passed": 113,
+  "source_sha256": {
+    "components/src/component_inspector/research/ksdd2_round2.py": "4802c1934f7137a851e8440f3985581adbeb30ce26c4f76f07f39e95306438df",
+    "components/src/component_inspector/research/ksdd2_round2_followup.py": "d0db0322aa73738dc3a346e67fc72f3da19facd13792699f553c6f9da022fc6d",
+    "components/tests/test_recall_round2.py": "6c46f2382b5ee4a17f273b71c6cbde450fdc968ee58b841462459169887052bd",
+    "components/tests/test_recall_round2_followup.py": "6c9adcf58c68e3acdab6ab3a62ecc757f0c74203318b26f384d4dc8ba6df93bb"
+  },
+  "warnings": 45,
+  "warnings_scope": "pinned PyTorch, timm and anomalib deprecations"
+}

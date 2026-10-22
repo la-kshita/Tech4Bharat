@@ -1,0 +1,20 @@
+{
+  "command": [
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\.venv-p0\\Scripts\\python.exe",
+    "-m",
+    "pytest",
+    "components/tests",
+    "-q",
+    "--junitxml",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-final-software\\junit.xml"
+  ],
+  "counts": {
+    "errors": 0,
+    "failures": 0,
+    "skipped": 0,
+    "tests": 148
+  },
+  "passed": 148,
+  "scope": "Software checks only; no new KSDD2 test evaluation or model selection.",
+  "source_sha256": "74625f8527e66d4f83ca848ceeabfb57465213722fd4adc866f8f6b679b37464"
+}

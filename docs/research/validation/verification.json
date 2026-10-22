@@ -1,0 +1,70 @@
+{
+  "all_resources_completed_within_caps": true,
+  "confidence_bounds_independently_checked_with_beta_quantiles": true,
+  "fresh_independent_confirmation_complete": false,
+  "independent_recounts": {
+    "aligned": {
+      "counts": {
+        "FN": 11,
+        "FP": 62,
+        "TN": 832,
+        "TP": 99,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "independent_beta_bounds": [
+        0.8281145387252101,
+        0.08802673444468857
+      ],
+      "predictions_and_strict_frozen_threshold_verified": true
+    },
+    "aligned_seed4218": {
+      "counts": {
+        "FN": 9,
+        "FP": 53,
+        "TN": 841,
+        "TP": 101,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "independent_beta_bounds": [
+        0.8503606421291152,
+        0.07683109845157832
+      ],
+      "predictions_and_strict_frozen_threshold_verified": true
+    },
+    "aligned_seed4219": {
+      "counts": {
+        "FN": 10,
+        "FP": 58,
+        "TN": 836,
+        "TP": 100,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "independent_beta_bounds": [
+        0.8391651177609855,
+        0.08306446286675476
+      ],
+      "predictions_and_strict_frozen_threshold_verified": true
+    },
+    "warm_aligned": {
+      "counts": {
+        "FN": 10,
+        "FP": 69,
+        "TN": 825,
+        "TP": 100,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "independent_beta_bounds": [
+        0.8391651177609855,
+        0.09666442699880871
+      ],
+      "predictions_and_strict_frozen_threshold_verified": true
+    }
+  },
+  "protocol_identity": "0d4b112f51488773ef28b670de7ae6774e4c9b0821e4d327e70203f4b9a32d3e",
+  "source_weights_and_thresholds_unchanged": true,
+  "verifier_source_sha256": "c49fc7c3110bf1f7a18875c6fca3642c6de13a1f303dc7a9482487573126dac4"
+}

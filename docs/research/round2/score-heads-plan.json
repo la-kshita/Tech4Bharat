@@ -1,0 +1,5 @@
+{
+  "rationale": "fixed best rule from the already observed parent scoring comparison; apply identically to each new head",
+  "rule": "top_0.1_percent",
+  "selection_claim": "observed development comparison"
+}

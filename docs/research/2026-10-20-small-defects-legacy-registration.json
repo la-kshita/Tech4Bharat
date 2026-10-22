@@ -1,0 +1,36 @@
+{
+  "before_any_outer_prediction": true,
+  "record": {
+    "comparison": "common .08 calibration plus original .10 policy; both frozen before outer results",
+    "configuration": {
+      "aligned_continuation_epochs": 12,
+      "base_epochs": 60,
+      "base_learning_rate": 0.001,
+      "calibration_levels": [
+        0.08,
+        0.1
+      ],
+      "channels": 384,
+      "family": "legacy_supervised",
+      "grid": "coarse",
+      "hard_refinement_epochs": 12,
+      "hidden": 32,
+      "normalization": "original 128 normals plus outer-training positives; whole coarse canvas; float32 moments",
+      "pool": "top_0.1_percent",
+      "refinement_learning_rate": 0.0002,
+      "seed": 4217,
+      "selection_role": "fixed reference only; never selects candidate",
+      "weight_decay": 0.0001
+    },
+    "identity": "2fc995a8bb72fcc6c8a3af3d2a9ca8a4ff231881d716b0432ed81c2a4ccaf8bb",
+    "no_official_test_access": true,
+    "protocol_identity": "b7ce2f1f5dff4c5e66cf47e8f1bf44331e3a2bd00a33c191e6bcac9e2a28698f",
+    "purpose": "full prior warm-corrected training recipe, fresh fold-specific fit; fixed secondary reference, not a new selectable method",
+    "registered_before_outer_results": true,
+    "source_commit": "7785b70b68cd32561332c9e5722a0173c5a9f8ce",
+    "source_sha256": "cd6745c1aba3e088d0e6d3e906cd835f79323ec731c65a4a0ee7ab5664574ac9"
+  },
+  "scope": "fixed full historical recipe reference; does not alter selectable methods, selection, or final candidate",
+  "sha256": "ddfb1ce2e53d7b17345fa791ba5ec150d4e3c125f3272c8446bcce97096dd5d9",
+  "snapshot_utc": "2026-10-20T09:09:13.112345+00:00"
+}

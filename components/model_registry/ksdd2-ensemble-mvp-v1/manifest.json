@@ -1,0 +1,125 @@
+{
+  "backbone": {
+    "provider": "timm/resnet18.a1_in1k",
+    "revision": "491b427b45c94c7fb0e78b5474cc919aff584bbf",
+    "url": "https://huggingface.co/timm/resnet18.a1_in1k/resolve/491b427b45c94c7fb0e78b5474cc919aff584bbf/model.safetensors"
+  },
+  "calibration": {
+    "alpha": 0.08,
+    "comparison": "strict_greater",
+    "empirical_fpr": 0.075,
+    "k": 185,
+    "n": 200,
+    "threshold": 0.33108379983608666,
+    "ties_at_threshold": 1
+  },
+  "evidence": {
+    "all_six_diagnostic_point_targets_met": true,
+    "frozen_instance_counts": {
+      "FN": 4,
+      "FP": 34,
+      "TN": 522,
+      "TP": 78,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "frozen_instance_small": {
+      "detected": 12,
+      "total": 15
+    },
+    "independent_factory_confirmation": false,
+    "original_primary_qualification_passed": false,
+    "protocol_identity": "1b85991799852e768a2010d1910e9f00a663da7916be8b423a8642527ba8712d",
+    "source_record": "docs/research/seed-ensemble/confirm-f0-alpha-0.08.json",
+    "source_record_sha256": "1159458828cde684553de1b8b7ce26e51dded1b1e122445764e7b7d6867d9ebc"
+  },
+  "features": {
+    "average_pool": [
+      3,
+      1,
+      1
+    ],
+    "cache_rounding": "float32_to_float16_to_float32",
+    "channels": 384,
+    "grid": [
+      32,
+      80
+    ],
+    "layers": [
+      "layer2",
+      "layer3"
+    ],
+    "upsample": "nearest"
+  },
+  "files": {
+    "backbone.safetensors": {
+      "bytes": 46807446,
+      "sha256": "80c49dee3da4822c009c5a7fe591e9223c5a2cfcf95a4067ca4dfb5a7b89c612"
+    },
+    "head-4220.pt": {
+      "bytes": 55793,
+      "sha256": "51e2fcf5d771d35f7aeec97d1cf61ac0add065b158512845bae17576009ef60f"
+    },
+    "head-4221.pt": {
+      "bytes": 55793,
+      "sha256": "365c62cb81b713b38c0d699f845b19babb8ca370b27109b9ec782c5de3f35b77"
+    },
+    "head-4222.pt": {
+      "bytes": 55793,
+      "sha256": "56c693fcae67774887a76dfd2aa497d1507ccd8598af8b30cf8a2aa13151aa5c"
+    }
+  },
+  "geometry": {
+    "height": 256,
+    "rotation_clockwise_degrees": 90,
+    "width": 640
+  },
+  "identity": "8ddcac9907af4c033cbc9ff208f452ce572ea6b251da373cf267c2a3df95f355",
+  "limitations": [
+    "Previously observed KSDD2 training originals; no fresh factory confirmation.",
+    "Overall recall is not pixel accuracy or 95% small-defect recall.",
+    "Fitting-versus-held-out generalization gap remains.",
+    "KSDD2-like surface images only; no all-component or defect-subtype claim.",
+    "Human review required; no automated acceptance."
+  ],
+  "members": [
+    {
+      "filename": "head-4220.pt",
+      "seed": 4220,
+      "sha256": "51e2fcf5d771d35f7aeec97d1cf61ac0add065b158512845bae17576009ef60f",
+      "source_checkpoint": "components/outputs/recall-warm-small-resumed-20261021/confirm-f0-s4220-longer108/model.pt"
+    },
+    {
+      "filename": "head-4221.pt",
+      "seed": 4221,
+      "sha256": "365c62cb81b713b38c0d699f845b19babb8ca370b27109b9ec782c5de3f35b77",
+      "source_checkpoint": "components/outputs/recall-seed-ensemble/member-s4221/confirm-f0-s4221-longer108/model.pt"
+    },
+    {
+      "filename": "head-4222.pt",
+      "seed": 4222,
+      "sha256": "56c693fcae67774887a76dfd2aa497d1507ccd8598af8b30cf8a2aa13151aa5c",
+      "source_checkpoint": "components/outputs/recall-seed-ensemble/member-s4222/confirm-f0-s4222-longer108/model.pt"
+    }
+  ],
+  "method": "longer108",
+  "model_id": "ksdd2-ensemble-mvp-v1",
+  "numerical_versions": {
+    "Pillow": "12.1.0",
+    "numpy": "2.2.4",
+    "safetensors": "0.8.0",
+    "timm": "1.0.30",
+    "torch": "2.10.0+cpu",
+    "torchvision": "0.25.0+cpu"
+  },
+  "recipe_id": "ksdd2_surface",
+  "research_status": "experimental_human_review_required",
+  "schema_version": 1,
+  "scoring": {
+    "attention_map": "mean_pixel_sigmoid_for_visual_attention_only_not_validated_pixel_localization",
+    "ensemble": "equal_mean_of_three_stable_sigmoid_member_scores",
+    "member": "mean_top_ceil_0.001_times_valid_cell_count_positive_logit",
+    "probability_claim": false
+  },
+  "selection": "Existing confirmation fold 0, first numbered fold, no refitting or best-fold selection. User-selected development candidate; original study primary failed."
+}

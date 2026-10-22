@@ -1,0 +1,15 @@
+{
+  "cache": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-round1\\features",
+  "channels": 384,
+  "fine": false,
+  "focal": true,
+  "hard_negative_refinement": true,
+  "hidden": 32,
+  "lighting": false,
+  "parent_recipe": {
+    "fusion": null,
+    "model": "focal",
+    "rule": "top_0.1_percent"
+  },
+  "seed": 4217
+}

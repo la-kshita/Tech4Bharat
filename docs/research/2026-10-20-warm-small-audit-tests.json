@@ -1,0 +1,6 @@
+{
+  "command": "components/.venv-p0/Scripts/python.exe -m pytest components/tests/test_warm_small_audit.py -q",
+  "elapsed_seconds": 0.36,
+  "passed": 9,
+  "purpose": "Adversarial metric/role/threshold evidence checks and paired gain-loss semantics; no model fitting or inference performed."
+}

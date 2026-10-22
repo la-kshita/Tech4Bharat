@@ -1,0 +1,53 @@
+{
+  "actual_failure": {
+    "elapsed_seconds": 3883.4220000000205,
+    "max_observed_processes": 2,
+    "measurement_scope": "owned process tree RSS sum",
+    "peak_sampled_rss_bytes": 518631424,
+    "returncode": 15,
+    "rss_cap_bytes": 1275049574,
+    "sample_interval_seconds": 0.05,
+    "status": "time_limit",
+    "time_cap_seconds": 1800
+  },
+  "clock_jump_actual_harness_seconds": 0.3135300999856554,
+  "control": {
+    "elapsed_seconds": 0.26600000000325963,
+    "max_observed_processes": 2,
+    "measurement_scope": "owned process tree RSS sum",
+    "peak_sampled_rss_bytes": 7962624,
+    "returncode": 15,
+    "rss_cap_bytes": 1073741824,
+    "sample_interval_seconds": 0.05,
+    "status": "time_limit",
+    "time_cap_seconds": 0.1
+  },
+  "interpretation": "A delayed/jumping monotonic clock reproduces the time-limit status and elapsed overrun without any training. This does not by itself identify whether the original cause was sleep, scheduling, or resource pressure.",
+  "no_failed_checkpoint_exists": true,
+  "no_ml_fit_or_official_test_access": true,
+  "preserved_failure_files": {
+    "components\\outputs\\recall-warm-small\\dev-f2-s4217-longer108-resources.json": {
+      "bytes": 307,
+      "sha256": "c7503cbe707a921aa0c2659cad5ba5f7b4910e9176da1a0128e8b0bc8bb81705"
+    },
+    "components\\outputs\\recall-warm-small\\dev-f2-s4217-longer108-worker.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "components\\outputs\\recall-warm-small\\dev-f2-s4217-longer108\\plan.json": {
+      "bytes": 106485,
+      "sha256": "b62b19fd0288e96446fc99fdaeb27e28ac2e82d9c52398ba3df0cdf769d24c4c"
+    }
+  },
+  "simulated_clock_jump": {
+    "elapsed_seconds": 3883.4220000000205,
+    "max_observed_processes": 2,
+    "measurement_scope": "owned process tree RSS sum",
+    "peak_sampled_rss_bytes": 7946240,
+    "returncode": 15,
+    "rss_cap_bytes": 1073741824,
+    "sample_interval_seconds": 0.05,
+    "status": "time_limit",
+    "time_cap_seconds": 1800
+  }
+}

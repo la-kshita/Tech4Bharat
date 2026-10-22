@@ -1,32 +1,59 @@
-# Tech4Bharat component inspection assistant
+# Tech4Bharat — ML model handoff
 
-An experimental image inspection assistant for visible component defects, with
-human review and explicit inspection records. This repository contains research,
-the execution plan, a historical PCB experiment and the initial component scaffold.
-It does not establish production readiness or buyer acceptance.
+The ML improvement work is complete for this handoff. The team selected a
+reproducible three-model surface-defect ensemble for the experimental MVP.
+**Application implementation is left for the teammate to continue.**
 
 ## Start here
 
-- [Current execution plan](Tech4Bharat_Codex_Execution_Plan.md)
-- [Copy-paste Codex prompts and manual checks](docs/superpowers/plans/2026-10-18-codex-build-playbook.md)
-- [Component setup and commands](components/README.md)
-- [Setup status](components/docs/STATUS.md)
-- [Component datasets](COMPONENT_DATASETS.md)
-- [Reviewed build plan](Tech4Bharat_Anomaly_Detector_Build_Plan_Reviewed.md)
-- [Historical experiment report](experiment/artifacts/EXPERIMENT_REPORT.md)
-- [Historical experiment instructions](experiment/README.md)
+- **[Teammate / Codex handoff](docs/handoff/START_HERE.md)** — setup and prediction interface.
+- **[Next steps](docs/handoff/NEXT_STEPS.md)** — resume the application from T06.
+- **[Frozen model card](docs/handoff/MODEL_CARD.md)** — exact selection and limitations.
+- [Repository map](docs/handoff/REPOSITORY_MAP.md) and [documentation map](docs/README.md).
+- [All research reports and proof](docs/research/README.md).
+- [Agent instructions](AGENTS.md).
 
-The current implementation provides diagnostics and safe dataset acquisition.
-MVTec 3D-AD cable gland (RGB only) and KSDD2 are imported; data auditing,
-model fitting and application development remain pending. The original metal-nut
-recipe is deferred. See [current scope](components/docs/CABLE_GLAND_SCOPE.md).
-Follow the current execution plan when earlier documents differ.
+## Selected model
 
-## Repository contents
+**`ksdd2-ensemble-mvp-v1`**: three supervised `longer108` ResNet18-feature heads,
+seeds 4220/4221/4222, existing confirmation fold 0. The three unchanged heads and
+manifest are committed in `components/model_registry/`; the standard pretrained
+backbone is acquired with a pinned checksum. No refitting or best-fold search.
 
-Source code, tests, configuration, dependency locks, plans and historical JSON
-metrics are tracked. Virtual environments, dependency caches, downloaded datasets,
-model weights, generated image assets and arrays are excluded. Recreate local
-dependencies using the component README; obtain data only after reviewing source
-licences and the acquisition plan. Historical report image links require the local
-generated assets and will not all resolve in a fresh clone.
+The more-sensitive, predeclared diagnostic setting met **95%+ overall recall
+and under 10% normal false alarms in all six internal folds**. Procedure-level
+second-partition results were **95.93% recall / 7.01% false alarms**, with
+**37/45 small defects caught (82.22%)**. The one exact frozen instance caught
+**78/82 defects (95.12%)**, falsely flagged **34/556 normals (6.12%)**, and caught
+**12/15 small defects (80%)**.
+
+These are internal observations on previously observed KSDD2 training images.
+The original primary setting failed; the diagnostic result does not replace it.
+A fitting/held-out generalization gap remains. The official test stayed closed
+through this batch; fresh factory validation is pending. Scores are not defect
+probabilities, and human review is required. The model card preserves full context.
+
+## Use the ML interface
+
+After following the [locked-environment setup](docs/handoff/START_HERE.md):
+
+```powershell
+components/.venv-p0/Scripts/python.exe components/tools/prepare_frozen_model.py --download-backbone
+components/.venv-p0/Scripts/python.exe components/tools/predict_frozen_model.py PATH_TO_IMAGE.png
+```
+
+For Python integration, load `component_inspector.vision.ksdd2_ensemble.Ensemble`
+once and call `predict_bytes`. This is a standalone ML interface, not a running
+API or UI. No training data or labels are needed for prediction.
+
+## Project boundaries
+
+Source, tests, selected small model heads, configuration, locks and evidence are
+tracked. Datasets, large feature caches, installed bundles and environments remain
+ignored. Historical experiment paths are preserved for reproducibility.
+
+The existing [execution plan](Tech4Bharat_Codex_Execution_Plan.md) describes the
+later app/review/report work. [Component history](components/README.md),
+[dataset provenance](components/docs/DATA_SOURCES.md), and the earlier
+[PCB experiment](experiment/README.md) remain reference material. This handoff
+adds no application, cloud deployment or claim of production acceptance.

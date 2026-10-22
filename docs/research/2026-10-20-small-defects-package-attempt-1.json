@@ -1,0 +1,11 @@
+{
+  "cause": "Archive membership assertion compared Windows backslash checkpoint paths with ZIP-normalized forward slash names",
+  "model_or_metric_changes": false,
+  "packager_sha256": "0369f5ffb56a5e27d8803f49099009c9d71721e8fba5276dbe8cb77a3934d3a9",
+  "preserved_archive_path": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\checkpoint-evidence.zip",
+  "preserved_archive_sha256": "1521ca890bdbd3d56659a20530a4ddf21698f217b9d16ebba2d871f41989d208",
+  "recorded_utc": "2026-10-20T14:32:23.977922+00:00",
+  "repair": "Normalize archive entry names; write and fully verify a different archive; preserve first ZIP",
+  "source_git_commit": "b3f265bf0b24a7d068e96abf8f690c5f79980a6c",
+  "status": "package_check_failed"
+}

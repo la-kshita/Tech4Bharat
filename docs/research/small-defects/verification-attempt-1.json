@@ -1,0 +1,11 @@
+{
+  "attempt": 1,
+  "cause": "Verifier incorrectly required supervised fitting diagnostics for unsupervised methods; frozen worker emits these diagnostics only for supervised candidates",
+  "exception": "FileNotFoundError: inner-fine_patchcore-0/fitting-diagnostic.json",
+  "model_replay_completed_before_attempt": true,
+  "repair_scope": "audit/report code only; no refitting, prediction, selection, or threshold changes",
+  "source_git_commit": "b3f265bf0b24a7d068e96abf8f690c5f79980a6c",
+  "status": "audit_failed",
+  "timestamp_recorded_utc": "2026-10-20T14:23:38.569078+00:00",
+  "verifier_sha256": "3dd6830f1802d007ae5db4b3a9dc6102ad6ac88e279cbe3d3efa9f035ce2ddb7"
+}

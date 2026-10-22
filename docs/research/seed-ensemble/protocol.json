@@ -1,0 +1,96 @@
+{
+  "config": {
+    "aggregation": "arithmetic mean of stable sigmoid-transformed positive-oriented image logits; equal weights; no fitted fusion or temperatures",
+    "confirmation_members": [
+      4220,
+      4221,
+      4222
+    ],
+    "development_members": [
+      4217,
+      4218,
+      4219
+    ],
+    "diagnostic_alpha": 0.08,
+    "family": "use the main sweep's locked development-only selected method, regardless of its second-partition outcomes",
+    "official_test_access": false,
+    "primary_alpha": 0.05,
+    "qualification": "all three development ensemble folds and all three second-partition ensemble folds: overall defective-image recall >=0.95 and normal FPR <0.10 at primary alpha0.05; report small defects separately",
+    "resources": {
+      "available_ram_fraction": 0.6,
+      "phase_seconds": 1800,
+      "rss_cap_gib": 4,
+      "threads": 4
+    },
+    "scope": "six ensemble cases; not twelve successful single-model cases, three independent ensemble repeats, or new independent factory data"
+  },
+  "created_utc": "2026-10-21T12:49:01.716646+00:00",
+  "identity": "1b85991799852e768a2010d1910e9f00a663da7916be8b423a8642527ba8712d",
+  "lock_sha256": "6568091def6551717f623afbae88d33cb800ed7ae95970e5193856654b424c7c",
+  "main_protocol_identity": "b38e03009c68fc963d81a22d5dda3e7263cdfe6f85577566a952001913b79749",
+  "main_protocol_sha256": "7c5dac708488103f3abc437ad00990f865d3803293d651697548d5299dc897b7",
+  "main_root": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-warm-small-resumed-20261021",
+  "members": {
+    "4221": {
+      "copied_cache_index_sha256": {
+        "member-s4221\\tile-cache-0\\complete.json": "de77400be4227a7718935a0ddf3a00013dfb2997565475e86346b4bc749e6056",
+        "member-s4221\\tile-cache-0\\index.json": "09e39dc20786c54be3f424f36a250f8240e6017438071ad2a480b4799dde9a1f",
+        "member-s4221\\tile-cache-1\\complete.json": "fe66b07ae71ef1084144dacd996f5ed7bd09ba2a22970e3ad03f8c831934c45f",
+        "member-s4221\\tile-cache-1\\index.json": "018e7e775347b5c27e6a6cda896ad9a87a80eb6c9f0ef048bd9073d013ff4821",
+        "member-s4221\\tile-cache-2\\complete.json": "efb4d6144d3d3bed65d54d493f8242325b12c6a5bd1b7ff8b0711c9c95a6efe0",
+        "member-s4221\\tile-cache-2\\index.json": "669a7e4676493fd08ba62c3325ff5976cd8d6d7463dd0708bc92a781be4ffdb9"
+      },
+      "protocol_identity": "83d4a0507a1669a220f15019cad8560e35386e49caff95cb092f738c0772e4d0",
+      "protocol_sha256": "e79e305f00df12f6ca02f311a846b450b0236df08419e08da7b337f7821ac8dd",
+      "root": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4221"
+    },
+    "4222": {
+      "copied_cache_index_sha256": {
+        "member-s4222\\tile-cache-0\\complete.json": "de77400be4227a7718935a0ddf3a00013dfb2997565475e86346b4bc749e6056",
+        "member-s4222\\tile-cache-0\\index.json": "09e39dc20786c54be3f424f36a250f8240e6017438071ad2a480b4799dde9a1f",
+        "member-s4222\\tile-cache-1\\complete.json": "fe66b07ae71ef1084144dacd996f5ed7bd09ba2a22970e3ad03f8c831934c45f",
+        "member-s4222\\tile-cache-1\\index.json": "018e7e775347b5c27e6a6cda896ad9a87a80eb6c9f0ef048bd9073d013ff4821",
+        "member-s4222\\tile-cache-2\\complete.json": "efb4d6144d3d3bed65d54d493f8242325b12c6a5bd1b7ff8b0711c9c95a6efe0",
+        "member-s4222\\tile-cache-2\\index.json": "669a7e4676493fd08ba62c3325ff5976cd8d6d7463dd0708bc92a781be4ffdb9"
+      },
+      "protocol_identity": "64475a8c24cfa1e8244d8311895fc42c7c259397f133745a5f409be35a95ff6f",
+      "protocol_sha256": "aebae7d31c8beaca74add7cc58cc632ee9ffefbd8ad8a01ab6d4cd95f461bd2f",
+      "root": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-seed-ensemble\\member-s4222"
+    }
+  },
+  "new_independent_factory_data": false,
+  "no_additional_member_fit_started": true,
+  "no_ensemble_scores_computed": true,
+  "official_test_access": false,
+  "registered_before_main_selection_and_confirmation": true,
+  "source_commit": "9455b1ff9daa2657c2e9f6aa1240cd6dd8117b6e",
+  "source_sha256": {
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\configs\\recall_seed_ensemble.json": "2ae71dd056b5b13ba9d856320470a29e63b3583635954a0aa15afcdea4c99537",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\configs\\recall_small_defects.json": "caa445b5550a84fd9817693d6c956cf68fca9acf5168d0b29326873c954eb306",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\configs\\recall_warm_small.json": "8ca09d1db8f2df66f5c9c34d4dac826d8796513aa364232dcdd94c35328ee9c2",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\data\\acquire.py": "dc188b79cf2f08f3aeda0df4b2acd914407f47e9fbe416af6e3ff47176f9e841",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\evaluation\\calibration.py": "1cc29e498b340da165915cc2bb15e1cf02d6f60194e043df832193737e89def3",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\evaluation\\metrics.py": "00ad22c9f3623d9579ce5fcf8fe5b22063752966cb2e22992fc321cfc43b17b5",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\research\\ksdd2_round1.py": "712f44e39edafe7517c28cc228aa587c53c1d2a478240701201c9c7f74e1a77a",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\research\\ksdd2_seed_ensemble.py": "9c85cea6ea2195fbbc01fbb4bf7d38b31eb477d7779a45559163fa7231bc84d0",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\research\\ksdd2_small_defects.py": "4aa31d138135065d3786751d08b5bbbdcc2eaf625c01ccf8aa712d5bf5116665",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\research\\ksdd2_warm_small.py": "8874870bbc1cc53f3045021d38026f177191a3f250806edd96cce80a3852d17b",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\vision\\geometry.py": "b16e5c69eac5d8ce9a8393f92b8a169fb376d5fad0b678e2c01c6191099737cb",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\vision\\padim_adapter.py": "4ad63d1efac585b0e62ed8a1a3829fb2ec9e19897a00080c7a8f4505323f281e",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\vision\\resources.py": "aeea16fbff6382c7775783a519e5de9f48a1e74d4e40df26836df3d621be0b7e",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\src\\component_inspector\\vision\\spike_worker.py": "47798f6019227fa4e212496dcee116678473a1b89998cfd973dc945d6e77fbe7",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\tools\\run_legacy_small_defects.py": "cd6745c1aba3e088d0e6d3e906cd835f79323ec731c65a4a0ee7ab5664574ac9",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\tools\\run_seed_ensemble.py": "81fb0c12551e5409080c835d4795a526cedcfe6c9157a5cd8d458347af3f3a02",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\tools\\run_small_defects.py": "188504adca62fe6b77e3af3ea27564c8faf938ff057cdb68a63bab5ff980c40d",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\tools\\run_warm_small.py": "865143bf59c7a9433c404c4126d561768ee398441284b4f36233bb5171340e7e"
+  },
+  "versions": {
+    "Pillow": "12.1.0",
+    "anomalib": "2.7.0",
+    "numpy": "2.2.4",
+    "scipy": "1.15.2",
+    "timm": "1.0.30",
+    "torch": "2.10.0+cpu",
+    "torchvision": "0.25.0+cpu"
+  }
+}

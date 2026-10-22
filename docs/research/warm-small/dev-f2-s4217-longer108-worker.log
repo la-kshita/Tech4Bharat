@@ -1,0 +1,8 @@
+TRAIN 24 1 0.0669528023472854
+TRAIN 24 6 0.057587617972777005
+TRAIN 24 11 0.0517721948258224
+TRAIN 24 16 0.047106841091243995
+TRAIN 24 21 0.04318746295535848
+TRAIN 24 24 0.04131403233678568
+RESULT dev-f2-s4217-longer108 0.05 {'TP': 75, 'FN': 7, 'FP': 17, 'TN': 539, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 12, 'total': 15}
+RESULT dev-f2-s4217-longer108 0.08 {'TP': 78, 'FN': 4, 'FP': 39, 'TN': 517, 'rejected_anomalies': 0, 'rejected_normals': 0} {'detected': 13, 'total': 15}

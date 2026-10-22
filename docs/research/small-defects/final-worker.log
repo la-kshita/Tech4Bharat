@@ -1,0 +1,18 @@
+TRAIN final 1 1.3445378195242104
+TRAIN final 6 0.9108212051163631
+TRAIN final 11 0.77335292718325
+TRAIN final 16 0.6993068208494985
+TRAIN final 21 0.6509633093953607
+TRAIN final 26 0.6263723371038399
+TRAIN final 30 0.6442595860397673
+C:\Users\rehtr\Downloads\tech4bharat\components\.venv-p0\Lib\site-packages\timm\models\layers\__init__.py:49: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\rehtr\Downloads\tech4bharat\components\.venv-p0\Lib\site-packages\anomalib\models\image\dinomaly\components\layers.py:22: FutureWarning: The anomalib.models.components.dinov2 package is deprecated and will be removed in a future release. Please use the timm-based feature extractor instead: anomalib.models.components.feature_extractors.TimmFeatureExtractor
+  from anomalib.models.components.dinov2.layers import Attention, DropPath, LayerScale, MemEffAttention
+FINAL NORMAL CALIBRATION 1 / 417
+FINAL NORMAL CALIBRATION 101 / 417
+FINAL NORMAL CALIBRATION 201 / 417
+FINAL NORMAL CALIBRATION 301 / 417
+FINAL NORMAL CALIBRATION 401 / 417
+FINAL NORMAL CALIBRATION 417 / 417
+FINAL FROZEN fine_regularized dd77ecf687ee7fed5e1d9e0dd06afedc2aad966f341645e90ab9eb0494ccb9cf {'threshold': -0.10871299356222153, 'alpha': 0.08, 'n': 417, 'k': 385, 'comparison': 'strict_greater', 'ties_at_threshold': 1, 'empirical_fpr': 0.07673860911270983}

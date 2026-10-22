@@ -1,0 +1,15 @@
+{
+  "command": "components/.venv-p0/Scripts/python.exe -m pytest components/tests -q --junitxml <local-output>/junit.xml",
+  "counts": {
+    "errors": 0,
+    "failures": 0,
+    "skipped": 0,
+    "tests": 156
+  },
+  "new_test_source_sha256": "9679e7d3ac3a05e0b584a1ad72392b6a1b1459b60a75e9968825dedda8039b5c",
+  "passed": 156,
+  "recorded_test_duration_seconds": 40.394,
+  "runtime_source_sha256": "f95470ce1c057396fc78ba59f2f8ba3ba4ec4c7c2eaa497181fc8ce3bee7f99a",
+  "scope": "Software regression only; not 156 independent model accuracy tests.",
+  "upstream_warnings": 45
+}

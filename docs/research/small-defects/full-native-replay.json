@@ -1,0 +1,46 @@
+{
+  "all_decisions_match": true,
+  "all_scores_bitwise_equal": true,
+  "all_scores_within_1e_5": true,
+  "decision_mismatches": {
+    "control": 0,
+    "legacy08": 0,
+    "legacy10": 0,
+    "primary": 0,
+    "repeat1000": 0,
+    "repeat2000": 0
+  },
+  "image_count": 1914,
+  "max_absolute_score_difference": {
+    "control": 0.0,
+    "legacy08": 0.0,
+    "legacy10": 0.0,
+    "primary": 0.0,
+    "repeat1000": 0.0,
+    "repeat2000": 0.0
+  },
+  "model_evaluations": 11484,
+  "model_files_unchanged": {
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\control-outer-0\\model.pt": "859901c296a3c15520b5a42e3c8d019fd466560378e218442904fa033e69c908",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\control-outer-1\\model.pt": "72d7487b46bac29720c766d1949994b4f15ded1e55a7a90738901311c44092dc",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\control-outer-2\\model.pt": "986ca62a62072b38df173acd87afe20a912d5df6bbb2fa9e830457a27640bf4b",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\legacy-outer-0\\model.pt": "61fca0779adc43b1efd1d41ea7ef99c0290e551e7aae14d7c6b24f24fe544d60",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\legacy-outer-1\\model.pt": "766090e87ea528c5cacf5d8ad7eefe058da4727e909e3e3d79d45a0c1297a699",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\legacy-outer-2\\model.pt": "79dc278cce62786e3ed90c3a5c2635de306c9ddd8021dbb8118b27104b53b5c1",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\outer-0\\model.pt": "7852110bd3cef503a5900cda4fbc1f3a09a931bfa414603059e47b7f916e053c",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\outer-1\\model.pt": "0570c36a3ee6fbc1d5723c8a9e2b3885716c689998b087a249cd645af622b596",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\outer-2\\model.pt": "136a8a1337d7078e19f2fcda3d11e410578ec147a3d61eba71ec15b55474022a",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\repeat-1000-outer-0\\model.pt": "71c81358e87b0c7178103384ee4e9a9a67854d8528a9a417b877340cbc8e43c4",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\repeat-1000-outer-1\\model.pt": "a5305a9a42a41037dca77b2192f86e7917ddd0b2e73c2188e020a73ef9eb171b",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\repeat-1000-outer-2\\model.pt": "237bf6663029fa86d49d89f37a4d8108955c0d17e14a478ad9e325ef05f5f1e7",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\repeat-2000-outer-0\\model.pt": "d54f743fe661951fa86db686dc04d746c1635e4a6aa440557fba79355fc0d055",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\repeat-2000-outer-1\\model.pt": "54a9b7e98f16e38690e1935bcee46de68ccb63aaca3195f868454683679300ee",
+    "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-small-defects\\repeat-2000-outer-2\\model.pt": "cd961ea853b5070f22dee672b6b45e9319c92fe60a81e40d619ca5d7ac05adaf"
+  },
+  "official_test_accessed": false,
+  "protocol_identity": "b7ce2f1f5dff4c5e66cf47e8f1bf44331e3a2bd00a33c191e6bcac9e2a28698f",
+  "repeated_observations_do_not_add_independent_images": true,
+  "scope": "all nested/control/refit/full-legacy decisions regenerated from original training RGB images; legacy has two fixed threshold policies on the same weights; no cached feature arrays read",
+  "selection_identity": "80f181eb0569f1b5c43e7f45142560ff4f55e81cef56e62b60a5ed4d80a2396f",
+  "source_sha256": "226d1ef3b0160fd4d0e0e1fbfbe08928c72b64878becaf025a9d6e4a7acc5574"
+}

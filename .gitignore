@@ -21,6 +21,9 @@ Thumbs.db
 .DS_Store
 *.log
 !components/historical_benchmark/**/*.log
+!docs/research/validation/*-worker.log
+!docs/research/small-defects/*-worker.log
+!docs/research/warm-small/*-worker.log
 
 # Preserve historical metrics, exclude generated images and arrays
 /experiment/results/*

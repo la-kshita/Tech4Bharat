@@ -1,0 +1,56 @@
+{
+  "focal": {
+    "cache": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-round1\\features",
+    "classifier_bias": [
+      -0.21380741894245148
+    ],
+    "classifier_weights_max_top_mean": [
+      [
+        1.0182849168777466,
+        1.3075768947601318,
+        0.9851869344711304
+      ]
+    ],
+    "finite_weights": true,
+    "normalization_identical_to_parent": true,
+    "train_background_pixel_logit_mean": -4.286741100251675,
+    "train_positive_pixel_logit_mean": 3.644786149263382,
+    "training_defect_image_logit_mean": 14.493633911013603
+  },
+  "focal_seed4218": {
+    "cache": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-round1\\features",
+    "classifier_bias": [
+      -0.359455943107605
+    ],
+    "classifier_weights_max_top_mean": [
+      [
+        0.39491528272628784,
+        1.223320484161377,
+        0.8928624391555786
+      ]
+    ],
+    "finite_weights": true,
+    "normalization_identical_to_parent": true,
+    "train_background_pixel_logit_mean": -4.937173403799534,
+    "train_positive_pixel_logit_mean": 4.657833509147167,
+    "training_defect_image_logit_mean": 12.514947488904
+  },
+  "focal_seed4219": {
+    "cache": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-round1\\features",
+    "classifier_bias": [
+      0.5337553024291992
+    ],
+    "classifier_weights_max_top_mean": [
+      [
+        -1.1481752395629883,
+        0.543004035949707,
+        -0.7115345001220703
+      ]
+    ],
+    "finite_weights": true,
+    "normalization_identical_to_parent": true,
+    "train_background_pixel_logit_mean": -9.150661066174507,
+    "train_positive_pixel_logit_mean": 1.046952320728451,
+    "training_defect_image_logit_mean": 5.166045643389225
+  }
+}

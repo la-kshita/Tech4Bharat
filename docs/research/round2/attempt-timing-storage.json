@@ -1,0 +1,217 @@
+{
+  "attempts": {
+    "aggregation-resources": {
+      "end_utc": "2026-10-20T05:58:07.567067+00:00",
+      "resources": {
+        "elapsed_seconds": 10.76500000001397,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 372269056,
+        "returncode": 0,
+        "rss_cap_bytes": 2170068172,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T05:57:56.808606+00:00"
+    },
+    "combined-resources": {
+      "end_utc": "2026-10-20T06:43:07.204751+00:00",
+      "resources": {
+        "elapsed_seconds": 365.23399999999674,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 514969600,
+        "returncode": 0,
+        "rss_cap_bytes": 2193597235,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:37:01.955182+00:00"
+    },
+    "ensemble-resources": {
+      "end_utc": "2026-10-20T06:28:31.759136+00:00",
+      "resources": {
+        "elapsed_seconds": 2.827999999979511,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 311996416,
+        "returncode": 0,
+        "rss_cap_bytes": 1966269235,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:28:28.926949+00:00"
+    },
+    "fine-resources": {
+      "end_utc": "2026-10-20T06:21:19.128154+00:00",
+      "resources": {
+        "elapsed_seconds": 377.3279999999795,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 492654592,
+        "returncode": 0,
+        "rss_cap_bytes": 1575179059,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:15:01.803545+00:00"
+    },
+    "fine_cache-resources": {
+      "end_utc": "2026-10-20T06:15:01.802547+00:00",
+      "resources": {
+        "elapsed_seconds": 352.4539999999979,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 613380096,
+        "returncode": 0,
+        "rss_cap_bytes": 1639467417,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:09:09.350505+00:00"
+    },
+    "focal-resources": {
+      "end_utc": "2026-10-20T06:01:59.948414+00:00",
+      "resources": {
+        "elapsed_seconds": 232.375,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 513028096,
+        "returncode": 0,
+        "rss_cap_bytes": 2153653862,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T05:58:07.567067+00:00"
+    },
+    "fusion_best-resources": {
+      "end_utc": "2026-10-20T06:45:44.219594+00:00",
+      "resources": {
+        "elapsed_seconds": 4.311999999976251,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 323670016,
+        "returncode": 0,
+        "rss_cap_bytes": 2850105753,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:45:39.914339+00:00"
+    },
+    "hard-resources": {
+      "end_utc": "2026-10-20T06:45:39.913301+00:00",
+      "resources": {
+        "elapsed_seconds": 152.7029999999795,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 545718272,
+        "returncode": 0,
+        "rss_cap_bytes": 2682236928,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:43:07.204751+00:00"
+    },
+    "lighting-resources": {
+      "end_utc": "2026-10-20T06:09:09.349385+00:00",
+      "resources": {
+        "elapsed_seconds": 339.64000000001397,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 513327104,
+        "returncode": 0,
+        "rss_cap_bytes": 994204876,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:03:29.715515+00:00"
+    },
+    "lighting_cache-resources": {
+      "end_utc": "2026-10-20T06:03:29.713520+00:00",
+      "resources": {
+        "elapsed_seconds": 89.76599999997416,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 590393344,
+        "returncode": 0,
+        "rss_cap_bytes": 1340094873,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:01:59.948414+00:00"
+    },
+    "padim50-resources": {
+      "end_utc": "2026-10-20T06:28:28.922921+00:00",
+      "resources": {
+        "elapsed_seconds": 429.7970000000205,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 920457216,
+        "returncode": 0,
+        "rss_cap_bytes": 1940083507,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:21:19.133172+00:00"
+    },
+    "score_heads-resources": {
+      "end_utc": "2026-10-20T06:37:01.954088+00:00",
+      "resources": {
+        "elapsed_seconds": 53.39100000000326,
+        "max_observed_processes": 4,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 398262272,
+        "returncode": 0,
+        "rss_cap_bytes": 2183452262,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:36:08.567122+00:00"
+    },
+    "stability-resources": {
+      "end_utc": "2026-10-20T07:02:15.317700+00:00",
+      "resources": {
+        "elapsed_seconds": 991.094000000041,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 551964672,
+        "returncode": 0,
+        "rss_cap_bytes": 2823917568,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:45:44.223607+00:00"
+    },
+    "stress-resources": {
+      "end_utc": "2026-10-20T06:34:15.100457+00:00",
+      "resources": {
+        "elapsed_seconds": 343.3429999999935,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 591663104,
+        "returncode": 0,
+        "rss_cap_bytes": 1940147404,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T06:28:31.763239+00:00"
+    }
+  },
+  "selected_head_bytes": 55779,
+  "shared_backbone_bytes": 46807446,
+  "timestamp_scope": "approximate worker-log filesystem creation and immutable resource-record last write; not retroactively instrumented timestamps"
+}

@@ -147,7 +147,12 @@ Recreate the reference baseline development artifacts:
 PaDiM used the pinned `resnet18.a1_in1k` pretrained weights. The recorded provider
 URL is:
 
-https://github.com/huggingface/pytorch-image-models/releases/download/v0.1-rsb-weights/resnet18_a1_0-d63eafa0.pth
+https://huggingface.co/timm/resnet18.a1_in1k/resolve/491b427b45c94c7fb0e78b5474cc919aff584bbf/model.safetensors
+
+The worker requires the safetensors bytes with SHA-256
+`80c49dee3da4822c009c5a7fe591e9223c5a2cfcf95a4067ca4dfb5a7b89c612`.
+The `.pth` URL in earlier versions of this guide points to a different format
+and does not satisfy the worker's pinned hash/loader. Do not rename that file.
 
 The Stage 4 worker records the resolved weight identity in
 `docs/STAGE4_FEASIBILITY_SUMMARY.json`. Use a verified locally downloaded weight
@@ -157,7 +162,7 @@ file when running the feasibility command:
 .\components\.venv-p0\Scripts\python.exe -m component_inspector.cli spike `
   --config components/configs/protocol.yaml `
   --manifest components/data/manifests/stage2/b769d8598112008728d354145526815eceeaaf32e477861af22c25a541a1ecc9/manifest.json `
-  --weights 'C:\PATH\TO\resnet18_a1_0-d63eafa0.pth'
+  --weights 'C:\PATH\TO\model.safetensors'
 ```
 
 The historical selected development summaries are:

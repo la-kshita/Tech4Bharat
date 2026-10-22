@@ -1,3 +1,18 @@
+# Current handoff — 22 October 2026
+
+ML finalization and teammate handoff are complete. The active experimental
+candidate is `ksdd2-ensemble-mvp-v1`; exact heads/calibration and a standalone
+prediction adapter are supplied. Application implementation is intentionally
+left to the teammate. See [start here](../../docs/handoff/START_HERE.md),
+[model card](../../docs/handoff/MODEL_CARD.md) and
+[next steps](../../docs/handoff/NEXT_STEPS.md).
+
+The dated stage entries below are preserved history. Their original no-go,
+setup-only and no-Git statements do not describe the current repository;
+none of those earlier benchmark decisions has been rewritten as a success.
+
+---
+
 # Implementation ledger - plan: docs/superpowers/plans/2026-10-18-codex-build-playbook.md
 
 User instruction: implement each numbered stage, reverifying earlier stages at every gate.

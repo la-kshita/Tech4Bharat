@@ -1,0 +1,23 @@
+{
+  "baseline_parity_ids": [
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10002.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10009.png"
+  ],
+  "baseline_score_parity": "exact for first two archived fold0 reference predictions",
+  "crop_shape_smoke": {
+    "all_finite": true,
+    "original_id": "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10000.png",
+    "shape": [
+      10,
+      384,
+      32,
+      32
+    ]
+  },
+  "freeze_source_commit": "eebfeb73f61fdcb218de6a9ffad9a1bad183130b",
+  "new_model_accuracy_measured": false,
+  "protocol_identity": "b38e03009c68fc963d81a22d5dda3e7263cdfe6f85577566a952001913b79749",
+  "software_command": "components/.venv-p0/Scripts/python.exe -m pytest components/tests -q",
+  "software_tests_passed": 131,
+  "software_upstream_warnings": 45
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "development_seeds": [4217, 4218, 4219],
+  "confirmation_seed": 4220,
+  "confirmation_partition_seed": 20261021,
+  "alphas": [0.05, 0.08],
+  "base_epochs": 60,
+  "hard_epochs": 12,
+  "aligned_epochs": 12,
+  "continuation_epochs": 24,
+  "continuation_lr": 0.0002,
+  "weight_decay": 0.0001,
+  "small_max_fraction": 0.005,
+  "small_weight": 3.0,
+  "tile_size": 160,
+  "tile_stride": 128,
+  "tile_input_size": 256,
+  "tile_training_probability": 0.5,
+  "methods": {
+    "baseline84": {"tiles": false, "small_weighted": false, "extra_epochs": 0},
+    "longer108": {"tiles": false, "small_weighted": false, "extra_epochs": 24},
+    "small108": {"tiles": false, "small_weighted": true, "extra_epochs": 24},
+    "tiles108": {"tiles": true, "small_weighted": false, "extra_epochs": 24},
+    "tiles_small108": {"tiles": true, "small_weighted": true, "extra_epochs": 24}
+  },
+  "resources": {"threads": 4, "phase_seconds": 1800, "rss_cap_gib": 4, "available_ram_fraction": 0.6},
+  "qualification": "every development fold and all three seeds: recall >=0.95, normal FPR <0.10; selected policy must also pass each of three second-partition folds at seed4220; these are internal reused-data checks, not independent factory confirmation",
+  "selection": "eligible only if all nine development FPRs <0.10; maximize worst recall, then worst small-defect recall, then mean recall, then minimize mean FPR, then prefer fewer extra epochs, no tiles, no small weighting, method name, alpha; if no FPR-eligible policy, minimize worst FPR first",
+  "official_test_policy": "never decode, score, calibrate, inspect, or select on official test"
+}

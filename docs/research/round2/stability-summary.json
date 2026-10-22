@@ -1,0 +1,283 @@
+{
+  "canonical_metrics": {
+    "accepted_normal_fpr": {
+      "denominator": 417,
+      "numerator": 22,
+      "rate": 0.05275779376498801,
+      "wilson_95": [
+        0.03509547241722879,
+        0.07858500705539298
+      ]
+    },
+    "anomaly_coverage": {
+      "denominator": 82,
+      "numerator": 82,
+      "rate": 1.0,
+      "wilson_95": [
+        0.9552493763098998,
+        1
+      ]
+    },
+    "counts": {
+      "FN": 2,
+      "FP": 22,
+      "TN": 395,
+      "TP": 80,
+      "rejected_anomalies": 0,
+      "rejected_normals": 0
+    },
+    "coverage": {
+      "denominator": 499,
+      "numerator": 499,
+      "rate": 1.0,
+      "wilson_95": [
+        0.9923604970248409,
+        1
+      ]
+    },
+    "false_flags_all_normals": {
+      "denominator": 417,
+      "numerator": 22,
+      "rate": 0.05275779376498801,
+      "wilson_95": [
+        0.03509547241722879,
+        0.07858500705539298
+      ]
+    },
+    "normal_coverage": {
+      "denominator": 417,
+      "numerator": 417,
+      "rate": 1.0,
+      "wilson_95": [
+        0.9908719572651922,
+        0.9999999999999999
+      ]
+    },
+    "observed_prevalence": {
+      "denominator": 499,
+      "numerator": 82,
+      "rate": 0.16432865731462926,
+      "wilson_95": [
+        0.1344019624969932,
+        0.19938407657450652
+      ]
+    },
+    "precision": {
+      "denominator": 102,
+      "numerator": 80,
+      "rate": 0.7843137254901961,
+      "wilson_95": [
+        0.6949614254678732,
+        0.8530279980174712
+      ]
+    },
+    "ranking_scored_only": {
+      "auroc": 0.9951161022401591,
+      "average_precision": 0.9782858441779752,
+      "n": 499,
+      "population": "scored subset only"
+    },
+    "recall": {
+      "denominator": 82,
+      "numerator": 80,
+      "rate": 0.975609756097561,
+      "wilson_95": [
+        0.9153662160893606,
+        0.9932856296688367
+      ]
+    }
+  },
+  "claim": "initialization stability on the same observed split, not independent validation; seeds are not searched for a new headline winner",
+  "recipe": {
+    "fusion": null,
+    "model": "hard_refined",
+    "rule": "top_0.1_percent"
+  },
+  "repeat_results": [
+    {
+      "method": "stability_seed4218",
+      "metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 417,
+          "numerator": 30,
+          "rate": 0.07194244604316546,
+          "wilson_95": [
+            0.05085543875848155,
+            0.10084410861879986
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 82,
+          "numerator": 82,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9552493763098998,
+            1
+          ]
+        },
+        "counts": {
+          "FN": 2,
+          "FP": 30,
+          "TN": 387,
+          "TP": 80,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 499,
+          "numerator": 499,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9923604970248409,
+            1
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 417,
+          "numerator": 30,
+          "rate": 0.07194244604316546,
+          "wilson_95": [
+            0.05085543875848155,
+            0.10084410861879986
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 417,
+          "numerator": 417,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9908719572651922,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 499,
+          "numerator": 82,
+          "rate": 0.16432865731462926,
+          "wilson_95": [
+            0.1344019624969932,
+            0.19938407657450652
+          ]
+        },
+        "precision": {
+          "denominator": 110,
+          "numerator": 80,
+          "rate": 0.7272727272727273,
+          "wilson_95": [
+            0.6374341513147903,
+            0.8017731508224077
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9926010411183248,
+          "average_precision": 0.9753892116334723,
+          "n": 499,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 82,
+          "numerator": 80,
+          "rate": 0.975609756097561,
+          "wilson_95": [
+            0.9153662160893606,
+            0.9932856296688367
+          ]
+        }
+      },
+      "seed": 4218
+    },
+    {
+      "method": "stability_seed4219",
+      "metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 417,
+          "numerator": 42,
+          "rate": 0.10071942446043165,
+          "wilson_95": [
+            0.07538035252597504,
+            0.13334779670829586
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 82,
+          "numerator": 82,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9552493763098998,
+            1
+          ]
+        },
+        "counts": {
+          "FN": 79,
+          "FP": 42,
+          "TN": 375,
+          "TP": 3,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 499,
+          "numerator": 499,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9923604970248409,
+            1
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 417,
+          "numerator": 42,
+          "rate": 0.10071942446043165,
+          "wilson_95": [
+            0.07538035252597504,
+            0.13334779670829586
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 417,
+          "numerator": 417,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9908719572651922,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 499,
+          "numerator": 82,
+          "rate": 0.16432865731462926,
+          "wilson_95": [
+            0.1344019624969932,
+            0.19938407657450652
+          ]
+        },
+        "precision": {
+          "denominator": 45,
+          "numerator": 3,
+          "rate": 0.06666666666666667,
+          "wilson_95": [
+            0.022932032599250987,
+            0.17856601963591895
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.5760074866935719,
+          "average_precision": 0.17447554966463513,
+          "n": 499,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 82,
+          "numerator": 3,
+          "rate": 0.036585365853658534,
+          "wilson_95": [
+            0.012519573081569195,
+            0.10212734643608476
+          ]
+        }
+      },
+      "seed": 4219
+    }
+  ],
+  "selected_canonical_result": "hard_refined"
+}

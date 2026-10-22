@@ -1,0 +1,14 @@
+{
+  "command": "components/.venv-p0/Scripts/python.exe -m pytest components/tests -q",
+  "commit": "d72f6c920685c2d210a2e2bca8bf2a0ba8ba1bbc",
+  "elapsed_seconds": 28.72,
+  "exit_code": 0,
+  "passed": 116,
+  "regression_sequence": "expected classifier-sign invariance failure before correction; same regression passed after correction",
+  "source_sha256": {
+    "components/src/component_inspector/research/ksdd2_aligned.py": "ff424a3cd06f8e6b2f8166fff4274700399d8c8d90403c62308b862b649dbd79",
+    "components/tests/test_recall_alignment.py": "17bc1500d65331f279f4bf580b25ff64d3e121070ae58281d2b891cc3e1525d4",
+    "components/tools/run_recall_alignment.py": "df02ac4a50efaa2475c86f7cf7d15a0705fa1a5f9e255a36d4db770cf87716ee"
+  },
+  "warnings": 45
+}

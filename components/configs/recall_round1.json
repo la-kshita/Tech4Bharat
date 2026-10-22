@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "seed": 4217,
+  "recipe": "ksdd2_surface",
+  "scope": ["P0", "R01", "R02", "R03"],
+  "evaluation_claim": "development comparison; no independent confirmation",
+  "official_test_policy": "never decode or predict official test images",
+  "input": {"height": 256, "width": 640, "rotation_clockwise_degrees": 90},
+  "normal_fit_count": 128,
+  "expanded_normal_fit_count": 256,
+  "positive_train_fraction": 0.6666666666666666,
+  "normal_calibration_alpha": 0.10,
+  "supervised": {
+    "epochs": 60,
+    "batch_size": 4,
+    "hidden_channels": 32,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "pixel_positive_weight": 8.0,
+    "image_loss_weight": 1.0,
+    "score": "learned_image_logit",
+    "early_stopping": false,
+    "augmentation": "none"
+  },
+  "patchcore": {
+    "layers": ["layer2", "layer3"],
+    "neighborhood": 3,
+    "coreset_ratio": 0.05,
+    "bank_cap": 10000,
+    "candidate_pool_cap": 30000,
+    "projection_dimensions": 64,
+    "query_chunk": 256,
+    "score": "maximum_patch_nearest_neighbor_distance"
+  },
+  "resources": {"threads": 4, "rss_cap_gib": 4, "phase_time_cap_seconds": 1800},
+  "acceptance": {"recall_goal": 0.95, "normal_fpr_strict_max": 0.10}
+}

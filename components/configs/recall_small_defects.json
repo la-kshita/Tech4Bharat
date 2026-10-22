@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "seed": 20261020,
+  "folds": 3,
+  "inner_normal_calibration_count": 200,
+  "normal_fit_cap": 256,
+  "calibration_alpha": 0.08,
+  "small_defect_max_area_fraction": 0.005,
+  "methods": {
+    "coarse_control": {"family": "supervised", "channels": 384, "grid": "coarse", "hidden": 32, "dropout": 0.0, "weight_decay": 0.0001, "dice_weight": 0.0, "epochs": 30, "pool": "top_0.1_percent"},
+    "coarse_regularized": {"family": "supervised", "channels": 384, "grid": "coarse", "hidden": 16, "dropout": 0.2, "weight_decay": 0.05, "dice_weight": 0.5, "epochs": 30, "pool": "top_0.1_percent"},
+    "fine_regularized": {"family": "supervised", "channels": 192, "grid": "fine", "hidden": 16, "dropout": 0.2, "weight_decay": 0.05, "dice_weight": 0.5, "epochs": 30, "pool": "top3"},
+    "multiscale_regularized": {"family": "supervised", "channels": 448, "grid": "fine", "hidden": 16, "dropout": 0.2, "weight_decay": 0.05, "dice_weight": 0.5, "epochs": 30, "pool": "top3"},
+    "fine_patchcore": {"family": "patchcore", "channels": 192, "grid": "fine", "bank_vectors": 512, "normal_patches_per_image": 64, "projection_dimensions": 32, "query_chunk": 256, "pool": "maximum"},
+    "fine_pca": {"family": "pca", "channels": 192, "grid": "fine", "rank": 64, "normal_patches_per_image": 64, "pool": "maximum"},
+    "morphology": {"family": "morphology", "gaussian_sigma": 0.8, "kernel_sizes": [7, 15, 31], "contrast_floor": 0.03, "pool": "top_0.01_percent"}
+  },
+  "selection": "eligible only if every inner validation FPR <0.10; maximize worst inner recall, then mean recall, small-defect recall, then minimize mean FPR, then method name; if none eligible minimize worst FPR first",
+  "outer_metric_access": "outer scores and labels never select that outer model; all inner-only choices and final method frozen before outer inference",
+  "claim": "nested internal cross-validation on previously used official training originals; no fresh external confirmation",
+  "resources": {"threads": 4, "rss_cap_gib": 4, "available_ram_fraction": 0.60, "phase_seconds": 1800}
+}

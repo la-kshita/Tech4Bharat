@@ -1,0 +1,98 @@
+{
+  "attempts": {
+    "aligned-native-resources": {
+      "end_utc": "2026-10-20T07:37:08.823417+00:00",
+      "resources": {
+        "elapsed_seconds": 14.125,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 586719232,
+        "returncode": 0,
+        "rss_cap_bytes": 2661330124,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 180
+      },
+      "start_utc": "2026-10-20T07:36:54.698962+00:00"
+    },
+    "aligned-resources": {
+      "end_utc": "2026-10-20T07:17:57.830850+00:00",
+      "resources": {
+        "elapsed_seconds": 481.75,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 537911296,
+        "returncode": 0,
+        "rss_cap_bytes": 2507177164,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T07:09:56.077738+00:00"
+    },
+    "aligned_seed4218-resources": {
+      "end_utc": "2026-10-20T07:26:01.801156+00:00",
+      "resources": {
+        "elapsed_seconds": 483.96899999998277,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 537624576,
+        "returncode": 0,
+        "rss_cap_bytes": 3195781939,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T07:17:57.830850+00:00"
+    },
+    "aligned_seed4219-resources": {
+      "end_utc": "2026-10-20T07:33:32.966911+00:00",
+      "resources": {
+        "elapsed_seconds": 451.15600000001723,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 553689088,
+        "returncode": 0,
+        "rss_cap_bytes": 2981928960,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T07:26:01.804163+00:00"
+    },
+    "warm_aligned-native-resources": {
+      "end_utc": "2026-10-20T07:37:23.246339+00:00",
+      "resources": {
+        "elapsed_seconds": 14.421999999962281,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 585334784,
+        "returncode": 0,
+        "rss_cap_bytes": 2650032537,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 180
+      },
+      "start_utc": "2026-10-20T07:37:08.824443+00:00"
+    },
+    "warm_aligned-resources": {
+      "end_utc": "2026-10-20T07:36:06.736375+00:00",
+      "resources": {
+        "elapsed_seconds": 113.78099999995902,
+        "max_observed_processes": 2,
+        "measurement_scope": "owned process tree RSS sum",
+        "peak_sampled_rss_bytes": 512237568,
+        "returncode": 0,
+        "rss_cap_bytes": 2766053376,
+        "sample_interval_seconds": 0.05,
+        "status": "completed",
+        "time_cap_seconds": 1800
+      },
+      "start_utc": "2026-10-20T07:34:12.956045+00:00"
+    }
+  },
+  "canonical_head_bytes": 55779,
+  "shared_backbone_bytes": 46807446,
+  "timestamp_scope": "approximate exclusive worker-log creation to immutable resource-record last write",
+  "warm_head_bytes": 55779
+}

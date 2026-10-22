@@ -1,0 +1,20 @@
+{
+  "affected_non_numeric_documents": {
+    "components/docs/IMPLEMENTATION_PROGRESS.md": {
+      "canonical_staged_sha256": "0544561ee4a8f1c0fe53d72d57ebe6159ee7e602820b515e3c3ad7e3c1f3a34a",
+      "only_line_endings_differ": true,
+      "working_sha256_before": "40eb6551a97066871063f9e8c6c6fe756cb26de95f6bb8f3ac46cd79adc002c7"
+    },
+    "components/docs/STATUS.md": {
+      "canonical_staged_sha256": "abc4d7b10cc548ac81f94caa7e705f0d885270053ec3bd474d4f0c699bd0a2c2",
+      "only_line_endings_differ": true,
+      "working_sha256_before": "fd9fe4ec5d4f04e9fd92663745c61c11ea523566a62519097dab14a5c747bb49"
+    }
+  },
+  "cause": "Legacy CRLF content retained after a new LF notice was prepended; Git canonicalized the document.",
+  "check": "Handoff staged publication attempt 1",
+  "checker_sha256": "1759f63e5a60a7005efe13ff0e24b005f34a4023b081f7191caf59dc044ab05e",
+  "error": "Staged bytes differ: components/docs/IMPLEMENTATION_PROGRESS.md",
+  "repair": "Normalize only these two status documents to their already-staged LF text; no numerical source, checkpoint, prediction or model manifest changed.",
+  "status": "failed"
+}

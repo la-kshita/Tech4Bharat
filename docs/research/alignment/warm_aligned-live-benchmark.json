@@ -1,0 +1,50 @@
+{
+  "all_decisions_match": true,
+  "cold_pipeline_seconds": 0.2453630999661982,
+  "initialization_seconds": 4.643116599996574,
+  "max_abs_score_difference": 0.0,
+  "method": "warm_aligned",
+  "pipeline_seconds": [
+    0.2453630999661982,
+    0.20355560001917183,
+    0.2275907999719493,
+    0.2173783999751322,
+    0.22482010000385344,
+    0.20963240001583472,
+    0.23305640002945438,
+    0.21243710000999272,
+    0.2182042000349611,
+    0.20624149998184294,
+    0.2118942000088282,
+    0.23680090002017096,
+    0.2040757000213489,
+    0.23562619998119771,
+    0.24572119995718822,
+    0.2188219999661669
+  ],
+  "recipe": {
+    "fusion": null,
+    "model": "warm_aligned",
+    "rule": "top_0.1_percent"
+  },
+  "sample_ids": [
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10002.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10004.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10020.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10043.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10051.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10052.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10058.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10062.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10021.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10045.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10135.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10157.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10223.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10244.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10254.png",
+    "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10273.png"
+  ],
+  "scope": "8 fixed observed-development normals and 8 fixed defects, not chosen by scores; source hash, decode, geometry, frozen backbone, float16 roundtrip, selected head score and optional PatchCore fusion; batch 1 CPU, no UI/network",
+  "warm_p95_pipeline_seconds": 0.23947699000127612
+}

@@ -1,0 +1,2172 @@
+{
+  "all_nine_development_goals_met": false,
+  "all_three_second_partition_goals_met": false,
+  "all_twelve_internal_goals_met": false,
+  "checks": {
+    "confirm-f0-s4220-baseline84/0.05": {
+      "counts": {
+        "FN": 9,
+        "FP": 18,
+        "TN": 538,
+        "TP": 73,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.03237410071942446,
+      "large_defects": {
+        "detected": 63,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.8902439024390244,
+      "small_defects": {
+        "detected": 10,
+        "total": 15
+      }
+    },
+    "confirm-f0-s4220-baseline84/0.08": {
+      "counts": {
+        "FN": 7,
+        "FP": 50,
+        "TN": 506,
+        "TP": 75,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08992805755395683,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9146341463414634,
+      "small_defects": {
+        "detected": 11,
+        "total": 15
+      }
+    },
+    "confirm-f0-s4220-longer108/0.05": {
+      "counts": {
+        "FN": 10,
+        "FP": 24,
+        "TN": 532,
+        "TP": 72,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.04316546762589928,
+      "large_defects": {
+        "detected": 63,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.8780487804878049,
+      "small_defects": {
+        "detected": 9,
+        "total": 15
+      }
+    },
+    "confirm-f0-s4220-longer108/0.08": {
+      "counts": {
+        "FN": 6,
+        "FP": 49,
+        "TN": 507,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08812949640287769,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 11,
+        "total": 15
+      }
+    },
+    "confirm-f1-s4220-baseline84/0.05": {
+      "counts": {
+        "FN": 3,
+        "FP": 28,
+        "TN": 528,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.050359712230215826,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "confirm-f1-s4220-baseline84/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 38,
+        "TN": 518,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.0683453237410072,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "confirm-f1-s4220-longer108/0.05": {
+      "counts": {
+        "FN": 4,
+        "FP": 21,
+        "TN": 535,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.03776978417266187,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "confirm-f1-s4220-longer108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 28,
+        "TN": 528,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.050359712230215826,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "confirm-f2-s4220-baseline84/0.05": {
+      "counts": {
+        "FN": 6,
+        "FP": 17,
+        "TN": 539,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.030575539568345324,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 11,
+        "total": 15
+      }
+    },
+    "confirm-f2-s4220-baseline84/0.08": {
+      "counts": {
+        "FN": 4,
+        "FP": 36,
+        "TN": 520,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06474820143884892,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "confirm-f2-s4220-longer108/0.05": {
+      "counts": {
+        "FN": 4,
+        "FP": 21,
+        "TN": 535,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.03776978417266187,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "confirm-f2-s4220-longer108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 33,
+        "TN": 523,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.05935251798561151,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f0-s4217-baseline84/0.05": {
+      "counts": {
+        "FN": 3,
+        "FP": 36,
+        "TN": 520,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06474820143884892,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f0-s4217-baseline84/0.08": {
+      "counts": {
+        "FN": 2,
+        "FP": 52,
+        "TN": 504,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.09352517985611511,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f0-s4217-longer108/0.05": {
+      "counts": {
+        "FN": 3,
+        "FP": 26,
+        "TN": 530,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.046762589928057555,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f0-s4217-longer108/0.08": {
+      "counts": {
+        "FN": 2,
+        "FP": 45,
+        "TN": 511,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08093525179856115,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f0-s4217-small108/0.05": {
+      "counts": {
+        "FN": 3,
+        "FP": 27,
+        "TN": 529,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.048561151079136694,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f0-s4217-small108/0.08": {
+      "counts": {
+        "FN": 2,
+        "FP": 39,
+        "TN": 517,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07014388489208633,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f0-s4217-tiles108/0.05": {
+      "counts": {
+        "FN": 2,
+        "FP": 40,
+        "TN": 516,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07194244604316546,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f0-s4217-tiles108/0.08": {
+      "counts": {
+        "FN": 2,
+        "FP": 60,
+        "TN": 496,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.1079136690647482,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f0-s4217-tiles_small108/0.05": {
+      "counts": {
+        "FN": 2,
+        "FP": 41,
+        "TN": 515,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.0737410071942446,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f0-s4217-tiles_small108/0.08": {
+      "counts": {
+        "FN": 2,
+        "FP": 64,
+        "TN": 492,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.11510791366906475,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f0-s4218-baseline84/0.05": {
+      "counts": {
+        "FN": 8,
+        "FP": 35,
+        "TN": 521,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06294964028776978,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9024390243902439,
+      "small_defects": {
+        "detected": 7,
+        "total": 15
+      }
+    },
+    "dev-f0-s4218-baseline84/0.08": {
+      "counts": {
+        "FN": 7,
+        "FP": 48,
+        "TN": 508,
+        "TP": 75,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08633093525179857,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9146341463414634,
+      "small_defects": {
+        "detected": 8,
+        "total": 15
+      }
+    },
+    "dev-f0-s4218-longer108/0.05": {
+      "counts": {
+        "FN": 8,
+        "FP": 30,
+        "TN": 526,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.0539568345323741,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9024390243902439,
+      "small_defects": {
+        "detected": 7,
+        "total": 15
+      }
+    },
+    "dev-f0-s4218-longer108/0.08": {
+      "counts": {
+        "FN": 6,
+        "FP": 49,
+        "TN": 507,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08812949640287769,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 9,
+        "total": 15
+      }
+    },
+    "dev-f0-s4218-small108/0.05": {
+      "counts": {
+        "FN": 8,
+        "FP": 31,
+        "TN": 525,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.05575539568345324,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9024390243902439,
+      "small_defects": {
+        "detected": 7,
+        "total": 15
+      }
+    },
+    "dev-f0-s4218-small108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 49,
+        "TN": 507,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08812949640287769,
+      "large_defects": {
+        "detected": 67,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 10,
+        "total": 15
+      }
+    },
+    "dev-f0-s4218-tiles108/0.05": {
+      "counts": {
+        "FN": 3,
+        "FP": 43,
+        "TN": 513,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07733812949640288,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f0-s4218-tiles108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 61,
+        "TN": 495,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.10971223021582734,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f0-s4218-tiles_small108/0.05": {
+      "counts": {
+        "FN": 3,
+        "FP": 36,
+        "TN": 520,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06474820143884892,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f0-s4218-tiles_small108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 57,
+        "TN": 499,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.10251798561151079,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f0-s4219-baseline84/0.05": {
+      "counts": {
+        "FN": 10,
+        "FP": 24,
+        "TN": 532,
+        "TP": 72,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.04316546762589928,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.8780487804878049,
+      "small_defects": {
+        "detected": 7,
+        "total": 15
+      }
+    },
+    "dev-f0-s4219-baseline84/0.08": {
+      "counts": {
+        "FN": 9,
+        "FP": 42,
+        "TN": 514,
+        "TP": 73,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07553956834532374,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.8902439024390244,
+      "small_defects": {
+        "detected": 8,
+        "total": 15
+      }
+    },
+    "dev-f0-s4219-longer108/0.05": {
+      "counts": {
+        "FN": 8,
+        "FP": 26,
+        "TN": 530,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.046762589928057555,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9024390243902439,
+      "small_defects": {
+        "detected": 8,
+        "total": 15
+      }
+    },
+    "dev-f0-s4219-longer108/0.08": {
+      "counts": {
+        "FN": 8,
+        "FP": 33,
+        "TN": 523,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.05935251798561151,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9024390243902439,
+      "small_defects": {
+        "detected": 8,
+        "total": 15
+      }
+    },
+    "dev-f0-s4219-small108/0.05": {
+      "counts": {
+        "FN": 8,
+        "FP": 27,
+        "TN": 529,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.048561151079136694,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9024390243902439,
+      "small_defects": {
+        "detected": 8,
+        "total": 15
+      }
+    },
+    "dev-f0-s4219-small108/0.08": {
+      "counts": {
+        "FN": 7,
+        "FP": 32,
+        "TN": 524,
+        "TP": 75,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.05755395683453238,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9146341463414634,
+      "small_defects": {
+        "detected": 9,
+        "total": 15
+      }
+    },
+    "dev-f0-s4219-tiles108/0.05": {
+      "counts": {
+        "FN": 12,
+        "FP": 36,
+        "TN": 520,
+        "TP": 70,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06474820143884892,
+      "large_defects": {
+        "detected": 61,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.8536585365853658,
+      "small_defects": {
+        "detected": 9,
+        "total": 15
+      }
+    },
+    "dev-f0-s4219-tiles108/0.08": {
+      "counts": {
+        "FN": 8,
+        "FP": 68,
+        "TN": 488,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.1223021582733813,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9024390243902439,
+      "small_defects": {
+        "detected": 10,
+        "total": 15
+      }
+    },
+    "dev-f0-s4219-tiles_small108/0.05": {
+      "counts": {
+        "FN": 13,
+        "FP": 34,
+        "TN": 522,
+        "TP": 69,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06115107913669065,
+      "large_defects": {
+        "detected": 61,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.8414634146341463,
+      "small_defects": {
+        "detected": 8,
+        "total": 15
+      }
+    },
+    "dev-f0-s4219-tiles_small108/0.08": {
+      "counts": {
+        "FN": 8,
+        "FP": 63,
+        "TN": 493,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.11330935251798561,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9024390243902439,
+      "small_defects": {
+        "detected": 10,
+        "total": 15
+      }
+    },
+    "dev-f1-s4217-baseline84/0.05": {
+      "counts": {
+        "FN": 3,
+        "FP": 49,
+        "TN": 507,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08812949640287769,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4217-baseline84/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 61,
+        "TN": 495,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.10971223021582734,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4217-longer108/0.05": {
+      "counts": {
+        "FN": 3,
+        "FP": 36,
+        "TN": 520,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06474820143884892,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4217-longer108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 50,
+        "TN": 506,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08992805755395683,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4217-small108/0.05": {
+      "counts": {
+        "FN": 3,
+        "FP": 36,
+        "TN": 520,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06474820143884892,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4217-small108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 49,
+        "TN": 507,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08812949640287769,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4217-tiles108/0.05": {
+      "counts": {
+        "FN": 4,
+        "FP": 15,
+        "TN": 541,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.02697841726618705,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f1-s4217-tiles108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 39,
+        "TN": 517,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07014388489208633,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f1-s4217-tiles_small108/0.05": {
+      "counts": {
+        "FN": 4,
+        "FP": 21,
+        "TN": 535,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.03776978417266187,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f1-s4217-tiles_small108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 37,
+        "TN": 519,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06654676258992806,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f1-s4218-baseline84/0.05": {
+      "counts": {
+        "FN": 6,
+        "FP": 34,
+        "TN": 522,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06115107913669065,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f1-s4218-baseline84/0.08": {
+      "counts": {
+        "FN": 2,
+        "FP": 74,
+        "TN": 482,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.13309352517985612,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f1-s4218-longer108/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 27,
+        "TN": 529,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.048561151079136694,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4218-longer108/0.08": {
+      "counts": {
+        "FN": 4,
+        "FP": 55,
+        "TN": 501,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.09892086330935251,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f1-s4218-small108/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 30,
+        "TN": 526,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.0539568345323741,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4218-small108/0.08": {
+      "counts": {
+        "FN": 4,
+        "FP": 58,
+        "TN": 498,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.10431654676258993,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f1-s4218-tiles108/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 21,
+        "TN": 535,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.03776978417266187,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4218-tiles108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 37,
+        "TN": 519,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06654676258992806,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4218-tiles_small108/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 22,
+        "TN": 534,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.039568345323741004,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4218-tiles_small108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 31,
+        "TN": 525,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.05575539568345324,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4219-baseline84/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 24,
+        "TN": 532,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.04316546762589928,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f1-s4219-baseline84/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 49,
+        "TN": 507,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08812949640287769,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f1-s4219-longer108/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 29,
+        "TN": 527,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.052158273381294966,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f1-s4219-longer108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 36,
+        "TN": 520,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06474820143884892,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f1-s4219-small108/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 29,
+        "TN": 527,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.052158273381294966,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f1-s4219-small108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 37,
+        "TN": 519,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06654676258992806,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f1-s4219-tiles108/0.05": {
+      "counts": {
+        "FN": 7,
+        "FP": 25,
+        "TN": 531,
+        "TP": 75,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.044964028776978415,
+      "large_defects": {
+        "detected": 63,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9146341463414634,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f1-s4219-tiles108/0.08": {
+      "counts": {
+        "FN": 4,
+        "FP": 30,
+        "TN": 526,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.0539568345323741,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4219-tiles_small108/0.05": {
+      "counts": {
+        "FN": 6,
+        "FP": 24,
+        "TN": 532,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.04316546762589928,
+      "large_defects": {
+        "detected": 63,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f1-s4219-tiles_small108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 32,
+        "TN": 524,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.05755395683453238,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4217-baseline84/0.05": {
+      "counts": {
+        "FN": 6,
+        "FP": 20,
+        "TN": 536,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.03597122302158273,
+      "large_defects": {
+        "detected": 63,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4217-baseline84/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 34,
+        "TN": 522,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06115107913669065,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4217-longer108/0.05": {
+      "counts": {
+        "FN": 7,
+        "FP": 17,
+        "TN": 539,
+        "TP": 75,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.030575539568345324,
+      "large_defects": {
+        "detected": 63,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9146341463414634,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f2-s4217-longer108/0.08": {
+      "counts": {
+        "FN": 4,
+        "FP": 39,
+        "TN": 517,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07014388489208633,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4217-small108/0.05": {
+      "counts": {
+        "FN": 8,
+        "FP": 15,
+        "TN": 541,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.02697841726618705,
+      "large_defects": {
+        "detected": 63,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9024390243902439,
+      "small_defects": {
+        "detected": 11,
+        "total": 15
+      }
+    },
+    "dev-f2-s4217-small108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 41,
+        "TN": 515,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.0737410071942446,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4217-tiles108/0.05": {
+      "counts": {
+        "FN": 8,
+        "FP": 12,
+        "TN": 544,
+        "TP": 74,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.02158273381294964,
+      "large_defects": {
+        "detected": 63,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9024390243902439,
+      "small_defects": {
+        "detected": 11,
+        "total": 15
+      }
+    },
+    "dev-f2-s4217-tiles108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 40,
+        "TN": 516,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07194244604316546,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f2-s4217-tiles_small108/0.05": {
+      "counts": {
+        "FN": 7,
+        "FP": 10,
+        "TN": 546,
+        "TP": 75,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.017985611510791366,
+      "large_defects": {
+        "detected": 63,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9146341463414634,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f2-s4217-tiles_small108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 40,
+        "TN": 516,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07194244604316546,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f2-s4218-baseline84/0.05": {
+      "counts": {
+        "FN": 4,
+        "FP": 23,
+        "TN": 533,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.04136690647482014,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4218-baseline84/0.08": {
+      "counts": {
+        "FN": 4,
+        "FP": 48,
+        "TN": 508,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08633093525179857,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4218-longer108/0.05": {
+      "counts": {
+        "FN": 9,
+        "FP": 17,
+        "TN": 539,
+        "TP": 73,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.030575539568345324,
+      "large_defects": {
+        "detected": 62,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.8902439024390244,
+      "small_defects": {
+        "detected": 11,
+        "total": 15
+      }
+    },
+    "dev-f2-s4218-longer108/0.08": {
+      "counts": {
+        "FN": 4,
+        "FP": 41,
+        "TN": 515,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.0737410071942446,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4218-small108/0.05": {
+      "counts": {
+        "FN": 9,
+        "FP": 17,
+        "TN": 539,
+        "TP": 73,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.030575539568345324,
+      "large_defects": {
+        "detected": 62,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.8902439024390244,
+      "small_defects": {
+        "detected": 11,
+        "total": 15
+      }
+    },
+    "dev-f2-s4218-small108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 49,
+        "TN": 507,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08812949640287769,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4218-tiles108/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 27,
+        "TN": 529,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.048561151079136694,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f2-s4218-tiles108/0.08": {
+      "counts": {
+        "FN": 2,
+        "FP": 52,
+        "TN": 504,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.09352517985611511,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f2-s4218-tiles_small108/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 26,
+        "TN": 530,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.046762589928057555,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f2-s4218-tiles_small108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 43,
+        "TN": 513,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07733812949640288,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4219-baseline84/0.05": {
+      "counts": {
+        "FN": 6,
+        "FP": 44,
+        "TN": 512,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07913669064748201,
+      "large_defects": {
+        "detected": 63,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4219-baseline84/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 54,
+        "TN": 502,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.09712230215827339,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4219-longer108/0.05": {
+      "counts": {
+        "FN": 7,
+        "FP": 36,
+        "TN": 520,
+        "TP": 75,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06474820143884892,
+      "large_defects": {
+        "detected": 62,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9146341463414634,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4219-longer108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 48,
+        "TN": 508,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08633093525179857,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4219-small108/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 40,
+        "TN": 516,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07194244604316546,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4219-small108/0.08": {
+      "counts": {
+        "FN": 5,
+        "FP": 46,
+        "TN": 510,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08273381294964029,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f2-s4219-tiles108/0.05": {
+      "counts": {
+        "FN": 5,
+        "FP": 31,
+        "TN": 525,
+        "TP": 77,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.05575539568345324,
+      "large_defects": {
+        "detected": 65,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9390243902439024,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f2-s4219-tiles108/0.08": {
+      "counts": {
+        "FN": 4,
+        "FP": 55,
+        "TN": 501,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.09892086330935251,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f2-s4219-tiles_small108/0.05": {
+      "counts": {
+        "FN": 6,
+        "FP": 30,
+        "TN": 526,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.0539568345323741,
+      "large_defects": {
+        "detected": 64,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f2-s4219-tiles_small108/0.08": {
+      "counts": {
+        "FN": 3,
+        "FP": 59,
+        "TN": 497,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.10611510791366907,
+      "large_defects": {
+        "detected": 66,
+        "total": 67
+      },
+      "point_goal_met": false,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    }
+  },
+  "documented_infrastructure_recovery": true,
+  "native_head_evaluations": 32538,
+  "native_threshold_evaluations": 65076,
+  "new_independent_factory_confirmation": false,
+  "official_test_accessed": false,
+  "originals": 1914,
+  "protocol_identity": "b38e03009c68fc963d81a22d5dda3e7263cdfe6f85577566a952001913b79749",
+  "qualification": {
+    "baseline84/0.05": false,
+    "baseline84/0.08": false,
+    "longer108/0.05": false,
+    "longer108/0.08": false,
+    "small108/0.05": false,
+    "small108/0.08": false,
+    "tiles108/0.05": false,
+    "tiles108/0.08": false,
+    "tiles_small108/0.05": false,
+    "tiles_small108/0.08": false
+  },
+  "scope": "observed training originals; development selection and predeclared second-partition robustness, not fresh data",
+  "selected_alpha": 0.08,
+  "selected_method": "longer108",
+  "selection_identity": "d941a2a5d36e8191a439e4d3c2bd181d3e6fff0a19b317cdcf7cb66b39efd3f6"
+}

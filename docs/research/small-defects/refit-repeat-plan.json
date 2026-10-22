@@ -1,0 +1,17 @@
+{
+  "identity": "6c65c0447ba35f2299c5da970f13bfaa8906189e5daeb4a639385367a8ec94aa",
+  "method_rule": "same fold-specific method from immutable inner-only selection.json",
+  "no_official_test_access": true,
+  "partition_rule": "identical outer fitting/calibration identities and fixed schedule",
+  "protocol_identity": "b7ce2f1f5dff4c5e66cf47e8f1bf44331e3a2bd00a33c191e6bcac9e2a28698f",
+  "registered_before_outer_results": true,
+  "scope": "outer-refit initialization/order stability; inner model-selection fits are not repeated",
+  "seed_offsets": [
+    1000,
+    2000
+  ],
+  "seed_rule": "protocol seed +100+outer_fold+offset",
+  "selection_policy": "report both repeats, never replace primary or final checkpoint using these results",
+  "source_commit": "8c93f932777f0cfbc05c109203460cc1ab83fe8c",
+  "source_sha256": "d66c7f1fe145515dfd42fcc50084d9217f514020fc3495355f6e2cc440e6d0ae"
+}

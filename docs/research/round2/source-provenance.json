@@ -1,0 +1,7 @@
+{
+  "explanation": "Protocol was prepared before the new source was committed; this committed blob matches its recorded source hash exactly. Initial phase completion hashes must match this same source.",
+  "initial_source_commit": "defa74c7eaed6f0d0d3fd37a2f31e75e948d26ee",
+  "prepare_record_commit": "70723dfbc5682e6451312b94a52ab3a044151312",
+  "source_path": "components/src/component_inspector/research/ksdd2_round2.py",
+  "source_sha256": "04d23ae7c07a0eb710e2da331390940b7f1e07cf3abdf98ce5864cf490fe42f8"
+}

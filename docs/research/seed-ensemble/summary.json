@@ -1,0 +1,216 @@
+{
+  "all_six_primary_ensemble_goals_met": false,
+  "checks": {
+    "confirm-f0-alpha-0.05.json": {
+      "counts": {
+        "FN": 6,
+        "FP": 21,
+        "TN": 535,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.03776978417266187,
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 10,
+        "total": 15
+      }
+    },
+    "confirm-f0-alpha-0.08.json": {
+      "counts": {
+        "FN": 4,
+        "FP": 34,
+        "TN": 522,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06115107913669065,
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "confirm-f1-alpha-0.05.json": {
+      "counts": {
+        "FN": 4,
+        "FP": 27,
+        "TN": 529,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.048561151079136694,
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "confirm-f1-alpha-0.08.json": {
+      "counts": {
+        "FN": 4,
+        "FP": 39,
+        "TN": 517,
+        "TP": 78,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07014388489208633,
+      "point_goal_met": true,
+      "recall": 0.9512195121951219,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "confirm-f2-alpha-0.05.json": {
+      "counts": {
+        "FN": 2,
+        "FP": 28,
+        "TN": 528,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.050359712230215826,
+      "point_goal_met": true,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "confirm-f2-alpha-0.08.json": {
+      "counts": {
+        "FN": 2,
+        "FP": 44,
+        "TN": 512,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.07913669064748201,
+      "point_goal_met": true,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 13,
+        "total": 15
+      }
+    },
+    "dev-f0-alpha-0.05.json": {
+      "counts": {
+        "FN": 6,
+        "FP": 25,
+        "TN": 531,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.044964028776978415,
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 9,
+        "total": 15
+      }
+    },
+    "dev-f0-alpha-0.08.json": {
+      "counts": {
+        "FN": 3,
+        "FP": 36,
+        "TN": 520,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06474820143884892,
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f1-alpha-0.05.json": {
+      "counts": {
+        "FN": 2,
+        "FP": 36,
+        "TN": 520,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06474820143884892,
+      "point_goal_met": true,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f1-alpha-0.08.json": {
+      "counts": {
+        "FN": 2,
+        "FP": 48,
+        "TN": 508,
+        "TP": 80,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.08633093525179857,
+      "point_goal_met": true,
+      "recall": 0.975609756097561,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    },
+    "dev-f2-alpha-0.05.json": {
+      "counts": {
+        "FN": 6,
+        "FP": 28,
+        "TN": 528,
+        "TP": 76,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.050359712230215826,
+      "point_goal_met": false,
+      "recall": 0.926829268292683,
+      "small_defects": {
+        "detected": 12,
+        "total": 15
+      }
+    },
+    "dev-f2-alpha-0.08.json": {
+      "counts": {
+        "FN": 3,
+        "FP": 35,
+        "TN": 521,
+        "TP": 79,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "fpr": 0.06294964028776978,
+      "point_goal_met": true,
+      "recall": 0.9634146341463414,
+      "small_defects": {
+        "detected": 14,
+        "total": 15
+      }
+    }
+  },
+  "does_not_change_main_twelve_single_model_outcomes": true,
+  "method": "longer108",
+  "new_independent_factory_data": false,
+  "official_test_access": false,
+  "primary_alpha": 0.05,
+  "protocol_identity": "1b85991799852e768a2010d1910e9f00a663da7916be8b423a8642527ba8712d",
+  "scope": "six ensemble cases; not twelve successful single-model cases, three independent ensemble repeats, or new independent factory data"
+}

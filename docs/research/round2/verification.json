@@ -1,0 +1,157 @@
+{
+  "checked_results": {
+    "aggregation_maximum": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "e88dc02951ad54b6ea9d0539dd106c9402a6abbcbc165577a31b87cea1d70ac6"
+    },
+    "aggregation_maximum_local_3x3_average": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "68f387ec76a974cf5c81464ec291249208c3615fed2093f07aa8f21e3e78168c"
+    },
+    "aggregation_top_0.1_percent": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "30abb483ba84e50dc5195e1f147014b1f4f716ee3c400f56fb2e240aae14db94"
+    },
+    "combined": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "a07cae2d9b5a1d39fa934f99bd9d765c0e1e7a2cd2643d4a11cab5e995914782"
+    },
+    "combined_top001": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "673d9628c3946724d4bd9c148d2f368d5cfea452381dca17ae1a7bbc1919dcd2"
+    },
+    "ensemble_head_0.75_patchcore_0.25_robust_z": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "7a29eab8ff330c241979554b66009462ad028ea3e04b58417298a7b0dd048215"
+    },
+    "ensemble_maximum_normal_cdf": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "bb7da900b132edc6b5a4a91ccfbef934043b525f0c47d3e4c977b93ed706e6d4"
+    },
+    "fine": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "5f07cc9f4517c8a9b5d67495a968b19bc584a6b8d4594f3b12d6af7fa3422d84"
+    },
+    "fine_top001": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "beb9b41cd2483ae0dcdae541d24165b746ab4bcf0fa02f5282734294ffa18004"
+    },
+    "focal": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "56f684c4023cce2b00d8cf82fc54ff176be706d94ed0ae7fb12eeea22b05285d"
+    },
+    "focal_seed4218": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "0f4144da009412d17f9cb95e333d4f871ade34458767e3141536ea430fc756f8"
+    },
+    "focal_seed4219": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "afc8d5a26357ef36d223d201a5b4cec1e2e2eeca35e35d3769a00580e899c177"
+    },
+    "focal_top001": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "5ea01ab24c47eff6772150f778ee061a52c0dade6206d94bbd2dbe3ec9da0865"
+    },
+    "fusion_best_head_0.75_patchcore_0.25_robust_z": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "ea6b4bbf2e266d648fca2f45738655af5dc6c361f0b644cf3595ad0a1b605a10"
+    },
+    "fusion_best_maximum_normal_cdf": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "aae437b220c5861a641e8f9a599d1d62fe1aaa4ab12e7ca7f1343f87460a419a"
+    },
+    "hard_refined": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "cbb59e42f4a6214ee27dcd515b826dcadaf1745b5b086d34a9b0949c2f100caa"
+    },
+    "hard_seed4218": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "66544e1b33830d7fc7a10d9fca7c4fe30d5afe21399d698bb381509a1b863f68"
+    },
+    "hard_seed4219": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "186a493df7b017fd62ac3b1d77af9c93831b5331874d7bd165f51222dc3844f2"
+    },
+    "lighting": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "4e5a3fe6a2230f8c1f9a4bde6cf3d4226d56ccf94e9a1578a2e91b003eeb11b1"
+    },
+    "lighting_top001": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "fd31d38b5fb1041ebf6f01d02d895ccd10534abd14065fa4d87ac84983f429fc"
+    },
+    "padim50": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "4d8979eafd397dfbfe5ec72862e5cc3e2cb3dc417e655438091464bc77e3244a"
+    },
+    "stability_seed4218": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "7bb6a8165fdd642b8ac83a1cfca5a95b259133604dd1f0113e9b528a0b45d5e8"
+    },
+    "stability_seed4219": {
+      "recount_and_calibration": "passed",
+      "result_sha256": "6da10e198746c1cce88e56ce5a42272b378fd11a8977773485d5350d3ad2353d"
+    }
+  },
+  "historical_test_images_scored_by_these_experiments": false,
+  "manifest_identity": "39fabf3c59c6b579bbefa7aba642d2a59f67003a336b1460eb75a2c230c5fd7e",
+  "membership": {
+    "normal_calibration": 417,
+    "normal_evaluation": 417,
+    "normal_fit": 1251,
+    "positive_evaluation": 82,
+    "positive_train": 164
+  },
+  "paired_vs_round1_supervised": {
+    "defects": {
+      "interpretation": "descriptive post-selection comparison on observed development; not confirmatory inference",
+      "newly_flagged_ids": [
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10045.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11040.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11512.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11969.png"
+      ],
+      "no_longer_flagged_ids": [
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11404.png"
+      ],
+      "paired_exact_two_sided_p": 0.375
+    },
+    "normals": {
+      "interpretation": "descriptive post-selection comparison on observed development; not confirmatory inference",
+      "newly_flagged_ids": [
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10175.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10410.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10424.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10608.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11472.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11653.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11677.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11895.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12232.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12262.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12319.png"
+      ],
+      "no_longer_flagged_ids": [
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10052.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10450.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10614.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/10664.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11105.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11173.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11326.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11358.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11403.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11673.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11860.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/11868.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12119.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12140.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12258.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:train/12328.png"
+      ],
+      "paired_exact_two_sided_p": 0.44206833839416504
+    }
+  },
+  "scope": "saved record audit plus existing train-only decode guards; no new image decoding in this audit",
+  "selected_result": "hard_refined"
+}

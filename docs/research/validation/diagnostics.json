@@ -1,0 +1,95 @@
+{
+  "conditional_random_subset_probability_of_at_least_observed_true_positives": 5.853884110272071e-79,
+  "defect_slices": {
+    "area (0.1%,0.5%]": {
+      "detected": 13,
+      "missed_ids": [
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20231.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20544.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20801.png"
+      ],
+      "recall": 0.8125,
+      "total": 16
+    },
+    "area (0.5%,2%]": {
+      "detected": 38,
+      "missed_ids": [
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20159.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20281.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20640.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20821.png"
+      ],
+      "recall": 0.9047619047619048,
+      "total": 42
+    },
+    "area <=0.1%": {
+      "detected": 0,
+      "missed_ids": [
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20228.png"
+      ],
+      "recall": 0.0,
+      "total": 1
+    },
+    "area >2%": {
+      "detected": 49,
+      "missed_ids": [
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20264.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20772.png"
+      ],
+      "recall": 0.9607843137254902,
+      "total": 51
+    },
+    "interior defect": {
+      "detected": 47,
+      "missed_ids": [
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20228.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20231.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20281.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20544.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20772.png"
+      ],
+      "recall": 0.9038461538461539,
+      "total": 52
+    },
+    "touches source edge": {
+      "detected": 53,
+      "missed_ids": [
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20159.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20264.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20640.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20801.png",
+        "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20821.png"
+      ],
+      "recall": 0.9137931034482759,
+      "total": 58
+    }
+  },
+  "flagged_count": 169,
+  "primary": "warm_aligned",
+  "random_control_scope": "rejects random-label discrimination explanation; does not rule out overfitting, benchmark exposure, correlated items, or domain shift",
+  "seed_consistency": {
+    "defects_by_number_of_seeds_detecting": {
+      "0": 6,
+      "1": 4,
+      "2": 4,
+      "3": 96
+    },
+    "missed_by_all_three_seed_ids": [
+      "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20228.png",
+      "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20231.png",
+      "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20281.png",
+      "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20640.png",
+      "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20801.png",
+      "ksdd2:edcdb486809b24f1d17b785e30c52fafc5999554dd5fe18ddf77b61ceb6f36a8:test/20969.png"
+    ],
+    "normals_by_number_of_seeds_flagging": {
+      "0": 796,
+      "1": 49,
+      "2": 23,
+      "3": 26
+    },
+    "scope": "three cold-start corrected models, all on the same test images; warm continuation is separate"
+  },
+  "slice_status": "exploratory after prediction; not preregistered target screens, not used for model selection or threshold changes",
+  "source_mask_fraction": "positive pixels / original full-resolution pixels"
+}

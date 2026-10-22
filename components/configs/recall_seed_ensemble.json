@@ -1,0 +1,12 @@
+{
+  "development_members": [4217, 4218, 4219],
+  "confirmation_members": [4220, 4221, 4222],
+  "primary_alpha": 0.05,
+  "diagnostic_alpha": 0.08,
+  "aggregation": "arithmetic mean of stable sigmoid-transformed positive-oriented image logits; equal weights; no fitted fusion or temperatures",
+  "family": "use the main sweep's locked development-only selected method, regardless of its second-partition outcomes",
+  "qualification": "all three development ensemble folds and all three second-partition ensemble folds: overall defective-image recall >=0.95 and normal FPR <0.10 at primary alpha0.05; report small defects separately",
+  "scope": "six ensemble cases; not twelve successful single-model cases, three independent ensemble repeats, or new independent factory data",
+  "resources": {"threads": 4, "phase_seconds": 1800, "rss_cap_gib": 4, "available_ram_fraction": 0.6},
+  "official_test_access": false
+}

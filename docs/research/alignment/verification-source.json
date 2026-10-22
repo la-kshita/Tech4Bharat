@@ -1,0 +1,6 @@
+{
+  "auditor_source_path": "components\\tools\\verify_recall_alignment.py",
+  "scope": "source used for completed cold-seed and warm-continuation audit; fitting source is separately pinned in protocol.json",
+  "sha256": "d3340ea2d0a0d203f01a1114254fa784652f76ddde5b7d4daa3a379cb52e9a56",
+  "source_commit": "89c0eb2a578ed9f9226f1d421366308ea1b219a8"
+}

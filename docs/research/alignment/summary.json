@@ -1,0 +1,589 @@
+{
+  "audit_source_commit": "89c0eb2a578ed9f9226f1d421366308ea1b219a8",
+  "candidates": [
+    {
+      "claim": "observed single-split development comparison; no independent validation",
+      "details": {
+        "model_sha256": "ffca032083bd4c7a003c198b70b7dc5eb10c4d7dee40392fd7a81c9160f560d9",
+        "no_evaluation_refitting": true,
+        "rule": "top_0.1_percent",
+        "source_model": "warm_aligned",
+        "strategy": "one bounded aligned-objective refinement of the best saved checkpoint"
+      },
+      "manifest_identity": "39fabf3c59c6b579bbefa7aba642d2a59f67003a336b1460eb75a2c230c5fd7e",
+      "meets_development_goal": true,
+      "method": "warm_aligned",
+      "metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 417,
+          "numerator": 24,
+          "rate": 0.05755395683453238,
+          "wilson_95": [
+            0.03897781510999243,
+            0.08420743133879426
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 82,
+          "numerator": 82,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9552493763098998,
+            1
+          ]
+        },
+        "counts": {
+          "FN": 2,
+          "FP": 24,
+          "TN": 393,
+          "TP": 80,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 499,
+          "numerator": 499,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9923604970248409,
+            1
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 417,
+          "numerator": 24,
+          "rate": 0.05755395683453238,
+          "wilson_95": [
+            0.03897781510999243,
+            0.08420743133879426
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 417,
+          "numerator": 417,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9908719572651922,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 499,
+          "numerator": 82,
+          "rate": 0.16432865731462926,
+          "wilson_95": [
+            0.1344019624969932,
+            0.19938407657450652
+          ]
+        },
+        "precision": {
+          "denominator": 104,
+          "numerator": 80,
+          "rate": 0.7692307692307693,
+          "wilson_95": [
+            0.6795448838800338,
+            0.8397359253040306
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9951161022401591,
+          "average_precision": 0.9794520937784862,
+          "n": 499,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 82,
+          "numerator": 80,
+          "rate": 0.975609756097561,
+          "wilson_95": [
+            0.9153662160893606,
+            0.9932856296688367
+          ]
+        }
+      },
+      "source_result_file": "warm_aligned.json",
+      "threshold_record": {
+        "alpha": 0.1,
+        "comparison": "strict_greater",
+        "empirical_fpr": 0.09592326139088729,
+        "k": 377,
+        "n": 417,
+        "threshold": -1.684261679649353,
+        "ties_at_threshold": 1
+      }
+    },
+    {
+      "claim": "observed single-split development comparison; no independent validation",
+      "details": {
+        "model_sha256": "0392b0ffd689c1915ef44b719c21370cd8c2946ce9e52fa009d368d6db92d2ac",
+        "no_evaluation_refitting": true,
+        "rule": "top_0.1_percent",
+        "source_model": "aligned",
+        "strategy": "R05/R06 correction: monotone, aligned training and inference"
+      },
+      "manifest_identity": "39fabf3c59c6b579bbefa7aba642d2a59f67003a336b1460eb75a2c230c5fd7e",
+      "meets_development_goal": true,
+      "method": "aligned",
+      "metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 417,
+          "numerator": 32,
+          "rate": 0.07673860911270983,
+          "wilson_95": [
+            0.054879658075533785,
+            0.10632465627791256
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 82,
+          "numerator": 82,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9552493763098998,
+            1
+          ]
+        },
+        "counts": {
+          "FN": 3,
+          "FP": 32,
+          "TN": 385,
+          "TP": 79,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 499,
+          "numerator": 499,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9923604970248409,
+            1
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 417,
+          "numerator": 32,
+          "rate": 0.07673860911270983,
+          "wilson_95": [
+            0.054879658075533785,
+            0.10632465627791256
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 417,
+          "numerator": 417,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9908719572651922,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 499,
+          "numerator": 82,
+          "rate": 0.16432865731462926,
+          "wilson_95": [
+            0.1344019624969932,
+            0.19938407657450652
+          ]
+        },
+        "precision": {
+          "denominator": 111,
+          "numerator": 79,
+          "rate": 0.7117117117117117,
+          "wilson_95": [
+            0.621483181629363,
+            0.7877766839509123
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9893548575773528,
+          "average_precision": 0.9649923215072533,
+          "n": 499,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 82,
+          "numerator": 79,
+          "rate": 0.9634146341463414,
+          "wilson_95": [
+            0.8978726535639152,
+            0.9874804269184307
+          ]
+        }
+      },
+      "source_result_file": "aligned.json",
+      "threshold_record": {
+        "alpha": 0.1,
+        "comparison": "strict_greater",
+        "empirical_fpr": 0.09592326139088729,
+        "k": 377,
+        "n": 417,
+        "threshold": -1.7987803220748901,
+        "ties_at_threshold": 1
+      }
+    }
+  ],
+  "claim": "bounded selection on observed KSDD2 development data; not independent validation",
+  "commit_at_export": "33d8513330f3b9b3a57c7f3076cf8251b265f000",
+  "exported_files": {
+    "aligned-complete.json": "3c74a151681eef395fc617c2e71f03986800cce736dd94fd351bf87a35b3f654",
+    "aligned-live-benchmark.json": "6e283d1534ca799ee2a522f3b4e40ea33323d0e0e310e6b668dedf0822ccef32",
+    "aligned-model.json": "438fe065e55c56334b936860e08fab8a30973330bbcd90d08d0b20e6833510a6",
+    "aligned-native-resources.json": "5f14ca2cfe1eb649dc90c0e4f0b1d08440d02b869503a28353147cff05f38e57",
+    "aligned-resources.json": "265381199e27c73a6fb602127b227ecdbdc68755485aaadff9b540daae11003b",
+    "aligned-training.json": "0d272cb93c9b777a1c4b06df5defc486c4e5a2a6184113b49307568537c2784e",
+    "aligned.json": "1f56bdca87e1ff68eb0de80e65bfb16349a2476ce24881163e8c143d0b6a83c0",
+    "aligned_seed4218-complete.json": "e6d6356c943b4a9ae213bc3c8253db12078a9010721592de596a84a5d979e587",
+    "aligned_seed4218-model.json": "b4611a9b0b3e7d9da5c888c255b59679d61de903287ab2e783a5aa30c041eb39",
+    "aligned_seed4218-resources.json": "21763f044892eb85b8ffc330fac9a69f4009d01cde79ea8a6f06cf5c4a728040",
+    "aligned_seed4218-training.json": "dc41b346d201df5234e8e76018a054939c332ef492c54c734cf44bef9f2cc6d5",
+    "aligned_seed4218.json": "a6efa8ba5b5aa8bfb2f4419e188357ed269c459ebf16981bbf02c8b3318046ae",
+    "aligned_seed4219-complete.json": "0303338c7ee407476b3bb6e7cbafa23311af1623b138ede491d1bbb2f06122d9",
+    "aligned_seed4219-model.json": "8db68785c2719ce1e6c2950c05aa1a1cde1e18a8ebaaa7021cf3b7f6ca42e2fa",
+    "aligned_seed4219-resources.json": "bb420b662a4e4c67e67ac92f533dc8e129ef2664ecb2e58cdaaf73adf79cfe0b",
+    "aligned_seed4219-training.json": "d84ff7a95be0e510d44f5a99649b2508c2272adb5cf9ae2f065ccf84f132a3fe",
+    "aligned_seed4219.json": "a2ead5955b050b4c94def191e6482f0e074df47fce6f5bafbe58ec217b63fb33",
+    "attempt-timing-storage.json": "93bf36854398e88e5e221a352b0e94f5b7557643c188c113fd95a56a265f5363",
+    "candidate-decision.json": "724976dfdc9a9e9736c1ca3cc093ca54bbee8d5738c967b0043b65b4a7e0ba59",
+    "legacy-best-live-benchmark.json": "cde925c5eb2b7847411de9c9c9a27d160058e456dc36796fe175afb0e5731fa8",
+    "legacy-best-native-resources.json": "415ba1711b9ece676f11053733c2bbe4584900abddf6fe00b65efeaaa71e8e80",
+    "protocol.json": "0bfebb7580cde27d2142b150d510875723981a1ecafdac0d5b81559ee87ef1a4",
+    "selected-for-stability.json": "988223baeed9063fd21c088b551c29e2b7ea6a5e5d64dc32045f3b96ed8a81fb",
+    "selected-pipeline.json": "a2df917ee673296b59229248d264c0268e26b2621d491af966ce47ce7b69acc9",
+    "software-checks.json": "ae94bdb3ec5027b9cbf8ad63060209a7892ca981856062b991444502a99b784d",
+    "stability-summary.json": "6dea6aca23c7f3beed5a1bc8f22e9b2a0b37a2f05bf9d24beb8fc2434db812f1",
+    "verification-source.json": "c62675a8d2701e479c9571615ccd514afed1d067ff6ca1561bc0c3ca8593012e",
+    "verification.json": "759ca4f0a088c062cd082d822d1d5de678916b10e864a069fea54c5bad591981",
+    "warm-alignment-plan.json": "e55731a55cc6b3bac7ee6e7b203d5e128b78d6fec2d05d1306da86149d5eef15",
+    "warm_aligned-complete.json": "37bd08cf357988cecac63676b3640861d019246a1d9420e801f5490d151e85ff",
+    "warm_aligned-live-benchmark.json": "be0510f8734c969f268ceb37d566f646fa55526f5373503a7a1fed1040df9f4b",
+    "warm_aligned-model.json": "da7f21a4cdfdc41c30c1a2e29ade1937c6a0ca7d342fe73b27c7e108e8ff1a83",
+    "warm_aligned-native-resources.json": "11a66735ca033f4fe52df259b471c5214efcabad7a7e3ea64defa4aed1cebe38",
+    "warm_aligned-resources.json": "e5d37fdd00a8d0c209915f4315f242122c09232102bf37c63e9f719d27cd23f2",
+    "warm_aligned-training.json": "e9da8608e5a885cee92e40755fd71e20b489967f83a3f8be3ac6fa27d846567a",
+    "warm_aligned.json": "4512f3e4fee4dd5875e2a62595422df6b69cb52db7f87ac65e77467bf2973ceb"
+  },
+  "protocol": {
+    "commit": "d72f6c920685c2d210a2e2bca8bf2a0ba8ba1bbc",
+    "config": {
+      "adaptive_limit": {
+        "combined_training_variants": 1,
+        "hard_negative_add_count": 128,
+        "hard_negative_variants": 1,
+        "refinement_epochs": 12
+      },
+      "aggregation": [
+        "maximum",
+        "top_0.1_percent",
+        "maximum_local_3x3_average"
+      ],
+      "aligned_training": {
+        "base_epochs": 60,
+        "fixed_seeds": [
+          4217,
+          4218,
+          4219
+        ],
+        "hard_normal_count": 128,
+        "image_pool": "top_0.1_percent",
+        "refinement_epochs": 12,
+        "seed_policy": "4217 canonical; both repeats always reported; no best-seed selection"
+      },
+      "claim": "continued selection on observed development data; not independent validation",
+      "ensemble": {
+        "normalization_fraction": 0.5,
+        "rules": [
+          "maximum_normal_cdf",
+          "head_0.75_patchcore_0.25_robust_z"
+        ]
+      },
+      "fine_features": {
+        "grid": [
+          64,
+          160
+        ],
+        "layers": [
+          "layer1",
+          "layer2",
+          "layer3"
+        ],
+        "projection_channels": 96,
+        "projection_seed": 7319
+      },
+      "focal": {
+        "gamma": 2.0,
+        "positive_weight": 8.0
+      },
+      "lighting": {
+        "brightness": [
+          0.8,
+          1.2
+        ],
+        "contrast": [
+          0.8,
+          1.2
+        ],
+        "training_probability": 0.5,
+        "variants_per_original": 1
+      },
+      "normal_calibration_alpha": 0.1,
+      "padim_retained_channels": 50,
+      "parent_run": "components/outputs/recall-round1",
+      "resources": {
+        "available_ram_fraction": 0.6,
+        "phase_seconds": 1800,
+        "rss_cap_gib": 4,
+        "threads": 4
+      },
+      "schema_version": 1,
+      "scope": [
+        "R05/R06 training-scoring alignment after seed collapse"
+      ],
+      "seed": 4217,
+      "selection": "predeclared canonical seed 4217; report both fixed repeat seeds without replacing canonical result",
+      "stability_seeds": [
+        4218,
+        4219
+      ]
+    },
+    "label_exposure": "same already observed development split; not independent confirmation",
+    "manifest_identity": "39fabf3c59c6b579bbefa7aba642d2a59f67003a336b1460eb75a2c230c5fd7e",
+    "parent": "C:\\Users\\rehtr\\Downloads\\tech4bharat\\components\\outputs\\recall-round1",
+    "reason": "reproducible seed4219 collapse; learned negative maximum coefficient conflicts with positive-oriented inference pooling",
+    "source_sha256": "ff424a3cd06f8e6b2f8166fff4274700399d8c8d90403c62308b862b649dbd79"
+  },
+  "repeat_training": [
+    {
+      "claim": "observed single-split development comparison; no independent validation",
+      "details": {
+        "model_sha256": "9f1a566ca970be10a38feb745a30a9d2d2f0d03cfaf73fc29c27c8d5b6b718a0",
+        "no_evaluation_refitting": true,
+        "rule": "top_0.1_percent",
+        "source_model": "aligned_seed4218",
+        "strategy": "R05/R06 correction: monotone, aligned training and inference"
+      },
+      "manifest_identity": "39fabf3c59c6b579bbefa7aba642d2a59f67003a336b1460eb75a2c230c5fd7e",
+      "meets_development_goal": true,
+      "method": "aligned_seed4218",
+      "metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 417,
+          "numerator": 29,
+          "rate": 0.06954436450839328,
+          "wilson_95": [
+            0.04885457211731205,
+            0.09809259177188694
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 82,
+          "numerator": 82,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9552493763098998,
+            1
+          ]
+        },
+        "counts": {
+          "FN": 4,
+          "FP": 29,
+          "TN": 388,
+          "TP": 78,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 499,
+          "numerator": 499,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9923604970248409,
+            1
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 417,
+          "numerator": 29,
+          "rate": 0.06954436450839328,
+          "wilson_95": [
+            0.04885457211731205,
+            0.09809259177188694
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 417,
+          "numerator": 417,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9908719572651922,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 499,
+          "numerator": 82,
+          "rate": 0.16432865731462926,
+          "wilson_95": [
+            0.1344019624969932,
+            0.19938407657450652
+          ]
+        },
+        "precision": {
+          "denominator": 107,
+          "numerator": 78,
+          "rate": 0.7289719626168224,
+          "wilson_95": [
+            0.6379084109244534,
+            0.804164442693129
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9872784699070012,
+          "average_precision": 0.9638878522360886,
+          "n": 499,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 82,
+          "numerator": 78,
+          "rate": 0.9512195121951219,
+          "wilson_95": [
+            0.8811853807742406,
+            0.9808689344322542
+          ]
+        }
+      },
+      "source_result_file": "aligned_seed4218.json",
+      "threshold_record": {
+        "alpha": 0.1,
+        "comparison": "strict_greater",
+        "empirical_fpr": 0.09592326139088729,
+        "k": 377,
+        "n": 417,
+        "threshold": -1.594643235206604,
+        "ties_at_threshold": 1
+      }
+    },
+    {
+      "claim": "observed single-split development comparison; no independent validation",
+      "details": {
+        "model_sha256": "6fab6d475d7b70b3a08776d5ce2867ec457ae180cbac9b7ad62feaba0c44e754",
+        "no_evaluation_refitting": true,
+        "rule": "top_0.1_percent",
+        "source_model": "aligned_seed4219",
+        "strategy": "R05/R06 correction: monotone, aligned training and inference"
+      },
+      "manifest_identity": "39fabf3c59c6b579bbefa7aba642d2a59f67003a336b1460eb75a2c230c5fd7e",
+      "meets_development_goal": true,
+      "method": "aligned_seed4219",
+      "metrics": {
+        "accepted_normal_fpr": {
+          "denominator": 417,
+          "numerator": 30,
+          "rate": 0.07194244604316546,
+          "wilson_95": [
+            0.05085543875848155,
+            0.10084410861879986
+          ]
+        },
+        "anomaly_coverage": {
+          "denominator": 82,
+          "numerator": 82,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9552493763098998,
+            1
+          ]
+        },
+        "counts": {
+          "FN": 4,
+          "FP": 30,
+          "TN": 387,
+          "TP": 78,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "coverage": {
+          "denominator": 499,
+          "numerator": 499,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9923604970248409,
+            1
+          ]
+        },
+        "false_flags_all_normals": {
+          "denominator": 417,
+          "numerator": 30,
+          "rate": 0.07194244604316546,
+          "wilson_95": [
+            0.05085543875848155,
+            0.10084410861879986
+          ]
+        },
+        "normal_coverage": {
+          "denominator": 417,
+          "numerator": 417,
+          "rate": 1.0,
+          "wilson_95": [
+            0.9908719572651922,
+            0.9999999999999999
+          ]
+        },
+        "observed_prevalence": {
+          "denominator": 499,
+          "numerator": 82,
+          "rate": 0.16432865731462926,
+          "wilson_95": [
+            0.1344019624969932,
+            0.19938407657450652
+          ]
+        },
+        "precision": {
+          "denominator": 108,
+          "numerator": 78,
+          "rate": 0.7222222222222222,
+          "wilson_95": [
+            0.631229216231001,
+            0.7979497349927512
+          ]
+        },
+        "ranking_scored_only": {
+          "auroc": 0.9884482657776219,
+          "average_precision": 0.9622509542275852,
+          "n": 499,
+          "population": "scored subset only"
+        },
+        "recall": {
+          "denominator": 82,
+          "numerator": 78,
+          "rate": 0.9512195121951219,
+          "wilson_95": [
+            0.8811853807742406,
+            0.9808689344322542
+          ]
+        }
+      },
+      "source_result_file": "aligned_seed4219.json",
+      "threshold_record": {
+        "alpha": 0.1,
+        "comparison": "strict_greater",
+        "empirical_fpr": 0.09592326139088729,
+        "k": 377,
+        "n": 417,
+        "threshold": -2.117192029953003,
+        "ties_at_threshold": 1
+      }
+    }
+  ],
+  "selected_canonical_configuration": {
+    "recipe": {
+      "fusion": null,
+      "model": "aligned",
+      "rule": "top_0.1_percent"
+    },
+    "selected_result": "aligned",
+    "selection": "predeclared canonical seed before new training; repeats cannot replace it"
+  }
+}

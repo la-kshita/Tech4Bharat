@@ -1,0 +1,130 @@
+{
+  "folds": {
+    "0": {
+      "0.08": {
+        "counts": {
+          "FN": 2,
+          "FP": 52,
+          "TN": 504,
+          "TP": 80,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "small_defects": {
+          "detected": 13,
+          "total": 15
+        }
+      },
+      "0.1": {
+        "counts": {
+          "FN": 1,
+          "FP": 66,
+          "TN": 490,
+          "TP": 81,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "small_defects": {
+          "detected": 14,
+          "total": 15
+        }
+      }
+    },
+    "1": {
+      "0.08": {
+        "counts": {
+          "FN": 3,
+          "FP": 61,
+          "TN": 495,
+          "TP": 79,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "small_defects": {
+          "detected": 13,
+          "total": 15
+        }
+      },
+      "0.1": {
+        "counts": {
+          "FN": 3,
+          "FP": 65,
+          "TN": 491,
+          "TP": 79,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "small_defects": {
+          "detected": 13,
+          "total": 15
+        }
+      }
+    },
+    "2": {
+      "0.08": {
+        "counts": {
+          "FN": 5,
+          "FP": 34,
+          "TN": 522,
+          "TP": 77,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "small_defects": {
+          "detected": 13,
+          "total": 15
+        }
+      },
+      "0.1": {
+        "counts": {
+          "FN": 3,
+          "FP": 44,
+          "TN": 512,
+          "TP": 79,
+          "rejected_anomalies": 0,
+          "rejected_normals": 0
+        },
+        "small_defects": {
+          "detected": 14,
+          "total": 15
+        }
+      }
+    }
+  },
+  "outcomes": {
+    "0.08": {
+      "counts": {
+        "FN": 10,
+        "FP": 147,
+        "TN": 1521,
+        "TP": 236,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "normal_fpr": 0.08812949640287769,
+      "recall": 0.959349593495935,
+      "small_defects": {
+        "detected": 39,
+        "total": 45
+      }
+    },
+    "0.1": {
+      "counts": {
+        "FN": 7,
+        "FP": 175,
+        "TN": 1493,
+        "TP": 239,
+        "rejected_anomalies": 0,
+        "rejected_normals": 0
+      },
+      "normal_fpr": 0.10491606714628297,
+      "recall": 0.9715447154471545,
+      "small_defects": {
+        "detected": 41,
+        "total": 45
+      }
+    }
+  },
+  "reference_identity": "2fc995a8bb72fcc6c8a3af3d2a9ca8a4ff231881d716b0432ed81c2a4ccaf8bb",
+  "scope": "fixed full prior recipe; not selectable; alpha .08 common policy and .10 original policy both preregistered"
+}
